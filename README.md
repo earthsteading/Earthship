@@ -1,4 +1,4 @@
-# earthship-like off-grid homes for Australians
+# Off-grid (earthship-like) homes for Australians
 
 Aim of this repository: provide systematic inspection documentaiton for owner-builders to enable them to build an off-grid residential buildings for the Australian environment.
 
