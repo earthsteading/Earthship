@@ -13,14 +13,15 @@ Terminology and Standards:
  * For all building terminology used in this repository please utilise the Australian national dictionary of building and construction codes: https://www.constructiondictionary.com.au/ <-- each term you lookup will have an associated *standard* which will reference the performance requirements for each part of your build.
  * For building requirements please utilise the National Construction Code (being mindful of both Federal and State requirements for building: https://ncc.abcb.gov.au/ (please always consult a building surveyor prior to beginning a build)
    * Your building surveyor can provide state based legislative details, for example this project is based on Victoria state building codes, see: https://www.vba.vic.gov.au/
- * Generic duilding designs for a "Biotecture Earthships (TM)" in the USA can be purchased via the Earthship App on Android: https://play.google.com/store/apps/details?id=hr.apps.n207007048 <-- however, please be aware these designs are not suitable for council approved submission in Australia.  If you would like to adapt an Earthship design please contact Dr Martin Freney (South Australia) for purchasing his draughtsman and engineering services: https://www.earthshipecohomes.com.au/contact.html
- * Disclaimer: this building code repository was created by @Earthsteading Building Surveying and Civic Construction as part of coursework for the Advanced Diploma in Building Surveying at Federation University.  P
- * Suggest a chage: please submit a pull request and/or bug request for any changes.
+ * Generic building designs for a "Biotecture Earthships (TM)" from the USA can be purchased via the Earthship App on Android: https://play.google.com/store/apps/details?id=hr.apps.n207007048 <-- however, please be aware these designs are not suitable for council approved buildings in Australia.  If you would like to adapt an Earthship design please contact Dr Martin Freney (South Australia) for purchasing his draughtsman and engineering services: https://www.earthshipecohomes.com.au/contact.html
+ * Disclaimer: this building code repository was created by @Earthsteading Building Surveying and Civic Construction as part of coursework for the Advanced Diploma in Building Surveying at Federation University.
+ * Suggest a chage: please submit a pull request and/or bug request for any proposed amendments.
+ * Hire a specialist off-grid building surveyor earthsteading@gmail.com (initial consult free, hire cost: 1% of entire build, e.g. for a $350K build, a building surveyor will accompany you throughout your journey for $3500).
 
 Methodology (how to use this building code repository):
 
- * Below is a timeline (Gaant) chart showing the different stages of this build, each stage of the build provides a new page outling architectural details and the required accompanying standards, cewrtifications and documentations.
- * The architectural design provided have been used to build council approved buildings in Victoria, Western Australian and South Australia (consult a building surveyor licensed in your state).  
+ * Below is a timeline (Gaant) chart showing the different stages of this build, each stage of the build provides a new page outling architectural details and the required accompanying standards, certifications and documentations.
+ * The architectural design provided have been used to build council approved buildings in Victoria, Western Australian and South Australia (consult a building surveyor licensed in your State).  
  * For the purposes of this repository the Victorian Building Association (VBA) is the regulator which have been used per example.
 
 Overview of build (Gaant Chart):
