@@ -24,7 +24,40 @@ Methodology (how to use this building code repository):
  * The architectural design provided have been used to build council approved buildings in Victoria, Western Australian and South Australia (consult a building surveyor licensed in your State).  
  * For the purposes of this repository the Victorian Building Association (VBA) is the regulator which have been used per example.
 
-Overview of build (Gaant Chart):
+Stages of build (your building surveyor will provide consultation/documentation prior to each stage of your build):
+
+  * 0.) Pre-build (aka how you as owner-builder are going to live on-site during the minimum +9months of building (avg build +2 years).
+
+ i. Preparation: analysis of construction area, construction materials/systems, utility service provisions and example building materials.
+   * Site investigation and preparation, including: drainage, earthworks, pest risk management, soil identification/assessment, foundations and footings.
+   * Construction methods for structural and supporting systems, including: masonry (earthwall construction, (un)reinforced masonry, weatherproofing, etc.) and 
+   * Structural & supporting systems: a.) masonry (earthwall, concrete, weatherproofing), Other systems (floors, roofs, ventilation, walls, framing, cyclone, timber, etc.).
+   * Enclosing systems (glazing, gutters, downpipes, roof cladding, wall cladding, etc.).
+   * Fire safety (clearance/protection of heating appliances, fire separation/containment, bushfire level and plan, smoke alarms, etc).
+   * Health and amenity (facilities, lights, room height, sound insulation, ventilation, wet areas, etc).
+   * Safe movement and access: accessibility (doors, pathways, ramps, ingress/egress, etc) and movement (balustrades, stair construction, slippage, swimming pool access, etc.)
+   * Energy efficiency (air movement, building fabric, building sealing and insulation, external glazing, services, etc)
+   * Construction process, trade sequencing and costs.
+   * Geographical location (climate, sun, wind, etc)
+   * List of construction materials (adhesives and sealants, admixtures, clay products, concrete products, glass, masonry, metal, mortar for load bearing walls, new materials, plaster and plasterboard, plastic, pre-stressed concrete, fire-rated protective coating, timber products, water-proofing, etc.)
+   * Suitability/risks of construction materials in relation to one another and system interaction.
+   * Utility service provision analysis (energy supply infrastructure, heating / cooling systems, fire protection systems, gas and hydraulic systems, etc.)
+   * List of Australian building suppliers/tradies with standard based (ANSI, performance, deemed to satisfy) certification.
+
+ ii. Surveyor site visit 1: footprint, foundations, footings and framework (after the site has been preparred, levelled, etc)
+  * To be continued...
+ 
+ iii. Surveyor site visit 2: in-house utilities water, heating/cooling, fire, etc (after the building has been "topped-out" aka errected with roof, but not sealed from elements) 
+   * To be continued...
+
+ iv. Surveyor site visit 3: sealing/securing building with windows, doors, insultation, etc (after the building has it's in-house utilities installed)
+   * To be continued...
+
+ v. Surveyor site visit 4: fixing, features, etc. (after the building has beed securely sealed with lock and key)
+   * To be continued...
+
+
+
 
 
 
