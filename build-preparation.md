@@ -9,10 +9,9 @@ Overall preperatory site investigation (see below for detailed checklists and di
 
 Examples of the above requirements below:
 
-## Drainage: 
+## Drainage (functional design of integrated water : 
 
-- [ ] proposed drainage lines must have 
-- [ ] Pipe sizes, gradients & levels
+- [ ] proposed drainage lines, including: pipe sizes, gradients & levels
 - [ ] Collection points and surface collection pits
 - [ ] Discharge points
 - [ ] Pits and sumps
@@ -26,6 +25,16 @@ Examples of the above requirements below:
 - [ ] Existing site and proposed levels
 - [ ] Direction flow
 - [ ] Pollutant control devices
+
+Stormwater drainage requirements
+- [ ] 1.    Post development surface runoff from the design must not exceed pre-development run off from the site from a prescribed year ARI storm.
+- [ ] 2.    No run-off shall be directed from the development site to adjacent properties.
+- [ ] 3.    Floor levels, site works and drainage system shall be designed to provide 100 – year ARI protection against inundation of buildings and any flood intolerant surfaces.
+- [ ] 4.    Measures shall be incorporated within the site works along property boundaries to contain gutter flows.
+- [ ] 5.    Measures shall be incorporated in all developments to ensure no stormwater borne pollutants (including litter, silt and any harmful substances) are discharged into any drainage system.
+- [ ] 6.    Soakage systems shall be safely located, shall provide detention/retention and shall be environmentally appropriate.
+- [ ] 7.    When a pump system is installed, the pump system failure must not result in inundation of any building or adjacent property, measures shall be incorporated to minimise the risk of failure during a storm.
+- [ ] 8.    All drainage infrastructures within the development site shall be maintained, serviced, cleaned and sustained operational to the design requirements by the owner/management.
 
 
 ## Earthworks
