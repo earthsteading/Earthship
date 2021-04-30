@@ -1,6 +1,16 @@
-# build preparation - prior to building the following checklists need to be completed.
+# build preparation - prior to building the following checklists need to be completed
 
-Overall preperatory site investigation (see below for detailed checklists and diagrams):
+## References for this page:
+ * Definition of all terms below = https://www.constructiondictionary.com.au/
+ * Application of methods via NCC = https://ncc.abcb.gov.au/
+ * Performance standards:
+   * Plumbing and drainage = AS/NZS 3500.0:2003
+   * Earthworks = 
+   * Soil assessment = 
+   * Pest risks = 
+   * Foundations & footings =  
+
+# Overall preperatory site investigation (see below for detailed checklists and diagrams):
 - [ ] drainage
 - [ ] earthworks
 - [ ] pest risk management
@@ -9,7 +19,7 @@ Overall preperatory site investigation (see below for detailed checklists and di
 
 Examples of the above requirements below:
 
-## Drainage (functional design of integrated water : 
+## Drainage (functional design of integrated water: 
 
 - [ ] proposed drainage lines, including: pipe sizes, gradients & levels
 - [ ] Collection points and surface collection pits
@@ -26,7 +36,7 @@ Examples of the above requirements below:
 - [ ] Direction flow
 - [ ] Pollutant control devices
 
-Stormwater drainage requirements
+## Stormwater drainage requirements:
 - [ ] 1.    Post development surface runoff from the design must not exceed pre-development run off from the site from a prescribed year ARI storm.
 - [ ] 2.    No run-off shall be directed from the development site to adjacent properties.
 - [ ] 3.    Floor levels, site works and drainage system shall be designed to provide 100 – year ARI protection against inundation of buildings and any flood intolerant surfaces.
