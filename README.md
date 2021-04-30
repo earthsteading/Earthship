@@ -2,7 +2,7 @@
 
 Aim of this repository: provide systematic inspector-ready documentaiton for owner-builders to enable them to build an insurable off-grid residential buildings for the Australian (firezone) environment.
 
-Terminology and Standards:
+## Terminology and Standards:
 
  * "inspector-ready documentation" = the build plans, documents and certifications you are required to prepare with your supporting building surveyor for submission to the government's council approved building inspector.
  * "insurable" = hire a building surveyor to assure that your build is not delayed by your council/government inspector, and/or rejected for habitation, aka your surveyor will enable your building to pass building code so it can have insurance coverage.
@@ -18,17 +18,17 @@ Terminology and Standards:
  * Suggest a chage: please submit a pull request and/or bug request for any proposed amendments.
  * Hire a specialist off-grid building surveyor earthsteading@gmail.com (initial consult free, hire cost: 1% of entire build, e.g. for a $350K build, a building surveyor will accompany you throughout your journey for $3500).
 
-Methodology (how to use this building code repository):
+## Methodology (how to use this building code repository):
 
  * Below is a timeline (Gaant) chart showing the different stages of this build, each stage of the build provides a new page outling architectural details and the required accompanying standards, certifications and documentations.
  * The architectural design provided have been used to build council approved buildings in Victoria, Western Australian and South Australia (consult a building surveyor licensed in your State).  
  * For the purposes of this repository the Victorian Building Association (VBA) is the regulator which have been used per example.
 
-Stages of build (your building surveyor will provide consultation/documentation prior to each stage of your build):
+# Stages of build (your building surveyor will provide consultation/documentation prior to each stage of your build):
 
   * 0.) Pre-build (aka how you as owner-builder are going to live on-site during the minimum +9months of building (avg build +2 years).
 
- i. Preparation: analysis of construction area, construction materials/systems, utility service provisions and example building materials.
+ i. [Build_Preparation](../earthship/preparation.md) Preparation: analysis of construction area, construction materials/systems, utility service provisions and example building materials.
    * Site investigation and preparation, including: drainage, earthworks, pest risk management, soil identification/assessment, foundations and footings.
    * Construction methods for structural and supporting systems, including: masonry (earthwall construction, (un)reinforced masonry, weatherproofing, etc.) and 
    * Structural & supporting systems: a.) masonry (earthwall, concrete, weatherproofing), Other systems (floors, roofs, ventilation, walls, framing, cyclone, timber, etc.).
