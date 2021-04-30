@@ -28,7 +28,7 @@ Aim of this repository: provide systematic inspector-ready documentaiton for own
 
   * 0.) Pre-build (aka how you as owner-builder are going to live on-site during the minimum +9months of building (avg build +2 years).
 
- i. [Build_Preparation](../earthship/preparation.md): analysis of construction area, construction materials/systems, utility service provisions and example building materials.
+ i. [Build_Preparation](../earthship/build-preparation.md): analysis of construction area, construction materials/systems, utility service provisions and example building materials.
    * Site investigation and preparation, including: drainage, earthworks, pest risk management, soil identification/assessment, foundations and footings.
    * Construction methods for structural and supporting systems, including: masonry (earthwall construction, (un)reinforced masonry, weatherproofing, etc.) and 
    * Structural & supporting systems: a.) masonry (earthwall, concrete, weatherproofing), Other systems (floors, roofs, ventilation, walls, framing, cyclone, timber, etc.).
