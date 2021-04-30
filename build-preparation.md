@@ -5,6 +5,7 @@
  * Application of methods via NCC = https://ncc.abcb.gov.au/
  * Performance standards:
    * Plumbing and drainage = AS/NZS 3500.0:2003
+     * Vic = https://www.vba.vic.gov.au/plumbing/registration-licensing/drainage
    * Earthworks = 
    * Soil assessment = 
    * Pest risks = 
@@ -37,8 +38,8 @@ Examples of the above requirements below:
 - [ ] Pollutant control devices
 
 ## Stormwater drainage requirements:
-- [ ] 1.    Post development surface runoff from the design must not exceed pre-development run off from the site from a prescribed year ARI storm.
-- [ ] 2.    No run-off shall be directed from the development site to adjacent properties.
+- [ ] Post development surface runoff from the design must not exceed pre-development run off from the site from a prescribed year ARI storm.
+- [ ] No run-off shall be directed from the development site to adjacent properties.
 - [ ] 3.    Floor levels, site works and drainage system shall be designed to provide 100 – year ARI protection against inundation of buildings and any flood intolerant surfaces.
 - [ ] 4.    Measures shall be incorporated within the site works along property boundaries to contain gutter flows.
 - [ ] 5.    Measures shall be incorporated in all developments to ensure no stormwater borne pollutants (including litter, silt and any harmful substances) are discharged into any drainage system.
