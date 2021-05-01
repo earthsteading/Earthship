@@ -1,6 +1,8 @@
 # Off-grid (earthship-like) homes for Australians
 
-*Aim of this repository: provide systematic inspector-ready documentation for owner-builders to enable them to build an insurable off-grid residential buildings for the Australian (firezone) environment.*
+*Aim of this repository: provide systematic inspector-ready documentation for owner-builders which enables/empowers them to build an insurable off-grid residential buildings for the Australian (firezone) environment.*
+
+Mission: to transcend residential family homes into buildings which are not only carbon neutral, but able to capture carbon as well as improve the living environment around the home.
 
  * "inspector-ready documentation" = the build plans, documents and certifications you are required to prepare with your supporting building surveyor for submission to the government's council approved building inspector.
  * "insurable" = hire a building surveyor to assure that your build is not delayed by your council/government inspector, and/or rejected for habitation, aka your surveyor will enable your building to pass building code so it can have insurance coverage.
@@ -8,6 +10,7 @@
  * "owner-builder" = the person(s) building the propoerty: a.) own the land, b.) are insured to build, and c.) intend to inhabit a fully certified and insurable building according to Australia federal and state legislation. These buildings are legal inheretable legacies.
  * "off-grid" = a building which is responsible for providing it own utilities, including: a.) safe shelter, b.) water management, c.) heating systems, d.) sewage systems, e.) energy systems, f.) [optional] food production systems.
  * "residential building" = class 1a buildings single story as defined by the National Construction Code of Australia.
+ * "'green'+'sustainability'" = reduction & reeducation in utility cost efficiencies, esp for quantifiable envrionmental value.
  * For all building terminology used in this repository please utilise the Australian national dictionary of building and construction codes: https://www.constructiondictionary.com.au/ <-- each term you lookup will have an associated *standard* which will reference the performance requirements for each part of your build.
 
 ## Standards:
@@ -68,10 +71,3 @@ The minimum viable set of people you will require to build an off-grid home in A
 
  v. Surveyor site visit 4: fixing, features, etc. (after the building has beed securely sealed with lock and key)
    * To be continued...
-
-
-
-
-
-
-
