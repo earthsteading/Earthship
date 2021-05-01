@@ -1,6 +1,6 @@
 # Off-grid (earthship-like) homes for Australians
 
-*Aim of this repository: provide systematic inspector-ready documentaiton for owner-builders to enable them to build an insurable off-grid residential buildings for the Australian (firezone) environment.*
+*Aim of this repository: provide systematic inspector-ready documentation for owner-builders to enable them to build an insurable off-grid residential buildings for the Australian (firezone) environment.*
 
  * "inspector-ready documentation" = the build plans, documents and certifications you are required to prepare with your supporting building surveyor for submission to the government's council approved building inspector.
  * "insurable" = hire a building surveyor to assure that your build is not delayed by your council/government inspector, and/or rejected for habitation, aka your surveyor will enable your building to pass building code so it can have insurance coverage.
