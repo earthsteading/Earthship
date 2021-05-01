@@ -2,7 +2,7 @@
 
 *Aim of this repository: provide systematic inspector-ready documentation for owner-builders which enables/empowers them to build an insurable off-grid residential buildings for the Australian (firezone) environment.*
 
-Mission: to transcend residential family homes into buildings which are not only carbon neutral, but able to capture carbon as well as improve the living environment around the home.
+Mission: to transcend residential family homes into buildings which are not only carbon neutral, but able to capture carbon as well as improve the living indigenous environment around the home.
 
  * "inspector-ready documentation" = the build plans, documents and certifications you are required to prepare with your supporting building surveyor for submission to the government's council approved building inspector.
  * "insurable" = hire a building surveyor to assure that your build is not delayed by your council/government inspector, and/or rejected for habitation, aka your surveyor will enable your building to pass building code so it can have insurance coverage.
