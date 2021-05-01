@@ -5,7 +5,8 @@
  * Application of methods via NCC = https://ncc.abcb.gov.au/
  * Performance standards:
    * Plumbing and drainage = AS/NZS 3500.0:2003 / AS 1562.1:2018 / AS/NZS 2179.1:2014
-     * Vic = https://www.vba.vic.gov.au/plumbing/registration-licensing/drainage
+    * Vic VBA = https://www.vba.vic.gov.au/plumbing/registration-licensing/drainage
+    * Vic EPA = https://www.epa.vic.gov.au/for-community/environmental-information/water/about-wastewater/onsite-wastewater-regulatory-framework
    * Earthworks = 
    * Soil assessment = 
    * Pest risks = 
@@ -18,19 +19,24 @@
 - [ ] soil assessment
 - [ ] foundations & footings
 
-Examples of the above requirements below:
+Detailed examples of the above requirements below:
 
-## Drainage (functional design of integrated water: 
+## Drainage (functional design of integrated water recycling modules):
+
+The design of the "water management system" in an off-grid residential building should be divided into 4x constuction modules for inspection (see NCC Vol.3).  Depending on the Australian state you live in the permitable use will be dependent, please consult your local surveyor.  You will require a plumbers certificate of your plumbing work, so please engage a plumber early-on to inform them of your build plans (note: plumbers love this stuff!). In terms of the Australian National Construction Code (NCC) the water systems you will be installing include: 
+
+ - [ ] Absorption trench = Also called: absorption trench, absorption well, soakaway, soakpit.  Define: a pit, trench or well dug into permeable ground, filled with broken stone, bricks or large granular material and usually covered with earth, where liquid may soak away into the ground. Also called soakaway
+Source - AS/NZS 3500.0:2003: Plumbing and drainage
+ - [ ] Septic tank
+ - [ ] Sand pit 
+ - [ ] Transpiration bed
+
+For the water recylcing techniques to approved by your inspector, you should begin by pretending you are a droplet of rain falling on your roof.  That droplet of water will take the following 'approved' journey:
 
 - [ ] proposed drainage lines, including: pipe sizes, pumps, gradients & levels (#! obtain engineer spec and plumber certificate)
       * PVC pipe = 100mm diameter in geofabric sock (AS 2002: Earth-retaining structures)
       * gradient = 1:100 fall
-      * levels:
-        * roof max/min/slope =
-        * roof drainage height(s) = 
-        * stormwater pit level = 
-        * rainwater tank (main) = 
-        * electric pump to header tank =
+      * height levels for: (a) roof max/min/slope =[?] (b) roof drainage height(s) =[] (c) stormwater pit level =[] (d) rainwater tank (main) = [ ] (e) electric pump to header tank =[ ]
         * 
         * rainwater harvesting system (NCC) = 
 - [ ] Discharge points
