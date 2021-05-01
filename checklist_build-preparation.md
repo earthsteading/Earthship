@@ -1,29 +1,31 @@
 # build preparation - prior to building (post permits/certification obtaining) the following checklists need to be completed
 
-## References for this page:
+## References for checklists:
  * Definition of all terms below = https://www.constructiondictionary.com.au/
  * Application of methods via NCC = https://ncc.abcb.gov.au/
  * Performance standards:
    * Plumbing and drainage = AS/NZS 3500.0:2003 / AS 1562.1:2018 / AS/NZS 2179.1:2014
     * Vic VBA = https://www.vba.vic.gov.au/plumbing/registration-licensing/drainage
     * Vic EPA = https://www.epa.vic.gov.au/for-community/environmental-information/water/about-wastewater/onsite-wastewater-regulatory-framework
+    * WA ____ = 
+    * WA ____ = 
    * Earthworks = 
    * Soil assessment = 
    * Pest risks = 
    * Foundations & footings =  
 
-# Overall preperatory site investigation (see below for detailed checklists and diagrams):
-- [ ] drainage
-- [ ] earthworks
-- [ ] pest risk management
-- [ ] soil assessment
-- [ ] foundations & footings
+# Inspector level documentation checklist (see below for owner-builder checklists and diagrams):
+- [ ] drainage = water recycling management systems.
+- [ ] soil assessment = suitability of soil types for foundations, earthworks, soaks and other earth infrastructures.
+- [ ] earthworks = foundation, retaining walls and water topography.
+- [ ] footing = stability of building long term, e.g. fires, earthquakes and other natural disasters. 
+- [ ] pest risk management = termites and other pets who will want to cohabitate with you.
 
 Detailed examples of the above requirements below:
 
 ## Drainage (functional design of integrated water recycling modules):
 
-The design of the "water management system" in an off-grid residential building should be divided into 4x constuction modules for inspection (see NCC Vol.3).  Depending on the Australian state you live in the permitable use will be dependent, please consult your local surveyor.  You will require a plumbers certificate of your plumbing work, so please engage a plumber early-on to inform them of your build plans (note: plumbers love this stuff!). In terms of the Australian National Construction Code (NCC) the water systems you will be installing include: 
+The design of the "water management system" in an off-grid residential building should be divided into 4x constuction modules for inspection (see NCC Vol.3).  Depending on the Australian state you live in the permitable use will be dependent on local legislation, please consult your local certified surveyor.  You will require a plumbers certificate of your plumbing work, so please engage a plumber early-on to inform them of your build plans (note: plumbers love this stuff!). In terms of the Australian National Construction Code (NCC) the water systems you will be installing include: 
 
  - [ ] Absorption trench = Also called: absorption trench, absorption well, soakaway, soakpit.  Define: a pit, trench or well dug into permeable ground, filled with broken stone, bricks or large granular material and usually covered with earth, where liquid may soak away into the ground. Also called soakaway
 Source - AS/NZS 3500.0:2003: Plumbing and drainage
