@@ -40,7 +40,7 @@ Your building surveyor will provide consultation/documentation prior to each sta
 
 ## Timeline
 Gaant chart of inspections/certifications:
-![timeline](https://github.com/earthsteading/earthship/blob/821f840683c55277b7f58c940904e4f701e91312/Gaant_v1.png "Gaant chart of build estimate build timeline")
+![timeline]https://github.com/earthsteading/earthship/blob/6aa91d0350f3b0c7300f9c58c15da8eabef949ed/Gaant_v2.png "Gaant chart of build estimate build timeline")
 
 ### 0. [Pre-pre-build](https://github.com/earthsteading/earthship/blob/9693f3290efba0b4db99ad9f5c4e8f284388ad5c/pre-pre-build.md) 
 
