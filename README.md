@@ -2,7 +2,7 @@
 
 *Aim of this repository: provide systematic inspector-ready documentation for owner-builders which enables/empowers them to build an insurable off-grid residential buildings for the Australian (firezone) environment.*
 
- * "inspector-ready documentation" = the build plans, documents and certifications you are required to prepare with your supporting building surveyor for submission to the government's council approved building inspector.
+ * "inspector-ready documentation" = the build plans, documents and certifications you are required to prepare with your supporting building surveyor for submission to the government's council approved building inspector (certifier).
  * "insurable" = hire a building surveyor to assure that your build is not delayed by your council/government inspector, and/or rejected for habitation, aka your surveyor will enable your building to pass building code so it can have insurance coverage.
  * "firezone" = Australia has more fires than any other continent on earth and they are increasing, either design your building to be firezone ready (BAL-FZ) or make sure your insurance is fire-proof (NB most insurance is prohibitively expensive for re-building the original building).
  * "owner-builder" = the person(s) building the propoerty: a.) own the land, b.) are insured to build, and c.) intend to inhabit a fully certified and insurable building according to Australia federal and state legislation. These buildings are legal inheretable legacies.
