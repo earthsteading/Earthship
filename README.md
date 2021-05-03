@@ -41,7 +41,7 @@ Your building surveyor will provide consultation/documentation prior to each sta
 
 how you as owner-builder are going to live on-site during the minimum +9months of building (avg build +2 years).
 
-### I. [Build_preparation checklists](https://github.com/earthsteading/earthship/blob/e97adaeebb06a77383f3f647728697382650fdb4/checklist_build-preparation.md): 
+### I. [Build preparation checklists](https://github.com/earthsteading/earthship/blob/e97adaeebb06a77383f3f647728697382650fdb4/checklist_build-preparation.md): 
  Preperatory staging of construction area, construction materials/systems, utility service provisions and building materials.
    - [X] [Site investigation and preparation]()
    - [X] [Structural & supporting systems](https://github.com/earthsteading/earthship/blob/8f54d43fba8223c37a4d816cec43cdac49e931e8/checklist_structural-supporting-systems.md)
