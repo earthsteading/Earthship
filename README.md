@@ -37,9 +37,9 @@ Your building surveyor will provide consultation/documentation prior to each sta
 ## Timeline (Gaant chart of hired labour)
 ![timeline](https://github.com/earthsteading/earthship/blob/821f840683c55277b7f58c940904e4f701e91312/Gaant_v1.png "Gaant cahrt of timeline build")
 
-### 0.) [Pre-pre-build](https://github.com/earthsteading/earthship/blob/9693f3290efba0b4db99ad9f5c4e8f284388ad5c/pre-pre-build.md) 
+### 0. [Pre-pre-build](https://github.com/earthsteading/earthship/blob/9693f3290efba0b4db99ad9f5c4e8f284388ad5c/pre-pre-build.md) 
 
-how you as owner-builder are going to live on-site during the minimum +9months of building (avg build +2 years).
+How you as owner-builder are going to live on-site during the minimum +9months of building (avg build +2 years).
 
 ### I. [Build preparation checklists](https://github.com/earthsteading/earthship/blob/e97adaeebb06a77383f3f647728697382650fdb4/checklist_build-preparation.md): 
  Preperatory staging of construction area, construction materials/systems, utility service provisions and building materials.
