@@ -68,8 +68,30 @@ For the water recylcing techniques to approved by your inspector, you should beg
 
 ## Earthworks
 
+ - [ ] Established the construction site
+ - [ ] Interpreted architectural/engineering drawings prior to commencement of site works
+ - [ ] Protected public assets including footpaths/driveways/services
+ - [ ] Located & abolished existing services to the site
+ - [ ] Marked out of services & setting out site including levels and excavation depths
+ - [ ] Maintained site drainage requirements & silt management during excavation
+ - [ ] Programmed licenced operators & plant for site excavation works
+ - [ ] Monitored stability of existing site during excavation works
+ - [ ] Removed spoil during site excavation works
+ - [ ] Installed trench/excavation shoring support during excavation works
+
 ## Soil assessment 
+Geotechnical site investigation (AS1726-1993)
+ - [ ] Site classification
+ - [ ] Soil testing
+ - [ ] CERTIFICATION of soil tested for foundation engineering... 
 
 ## Pest risks
 
+ - [ ] Termites AS 3660.3:2014: Termite management
+ - [ ] Surrounding ecosystem
+
 ## Foundations & Footings
+
+ - [ ] Earthrammed footings...? 
+ - [ ] Residential Slabs and Footings - construction (AS2870-1996)
+
