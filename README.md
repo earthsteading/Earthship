@@ -1,6 +1,6 @@
-# Off-grid (earthship-like) homes for Australians
+# Off-grid (earthship-like) sustainable homes for Australasians
 
-*Aim of this repository: provide systematic inspector-ready documentation for owner-builders which enables/empowers them to build an insurable off-grid residential buildings for the Australian (firezone) environment.*
+*Aim of this repository: provide systematic inspector-ready documentation for owner-builders which enables/empowers them to build an insurable off-grid residential buildings for the Australian environment.*
 
  * "inspector-ready documentation" = the build plans, documents and certifications you are required to prepare with your supporting building surveyor for submission to the government's council approved building inspector (certifier).
  * "insurable" = hire a building surveyor to assure that your build is not delayed by your council/government inspector, and/or rejected for habitation, aka your surveyor will enable your building to pass building code so it can have insurance coverage.
@@ -27,16 +27,15 @@
 The minimum viable set of people you will require to build an off-grid home in Australia
  - [ ] owner-builder = you (see definition above)
  - [ ] surveyor = your local guide/friend and person responsible for empowering you to meet all the legislative requirements: federal, state and council.
- - [ ] inspector = the local government council representative who will hold you and your surveyor accountable for all appropriate documentation and certificates.  The inspector will declare if your building is inhabitalbe, ergo legal, ergo insurable, ergo inheretable.
- - [ ] certified tradies = chippies (carpenter), sparkies (electrcian), plumbers and earthworks.
+ - [ ] inspector/certifier = the local government council representative who will hold you and your surveyor accountable for all appropriate documentation and certificates.  The inspector will declare if your building is inhabitalbe, ergo legal, ergo insurable, ergo sell-able/inheretable.
+ - [ ] certified tradies = chippies (carpenter), sparkies (electrcian), plumbers and earthworks (civic construction).
  - [ ] certified engineer = to sign off on any architectural plans you are using.
 
 ## Methodology (how to use this repository of building code checklists):
 
  * The overall guiding principles of the following checklists is a book called "The Checklist Manifesto" <-- read it!
  * The use of Git(hub) as versioning repository is so that multiple people can help amend and improve these checklists for Australia wide commons use, e.g. please contribute additional checklists for other states and environmental conditions found throughout the continent of Australia.
- * The architectural design provided as examples for each checklist have been used to build council approved buildings in Victoria, Western Australian and South Australia (consult a building surveyor licensed in your State as _building code legislation changes_). Please submit meaningful bugs, and pull requests to add/amend our shared checklists.  
-  * Below is a timeline (Gaant) chart showing the different stages of this build, each stage of the build provides a new page outling architectural details and the required accompanying standards, certifications and documentations.
+ * The architectural design provided as examples for each checklist have been used to build council approved buildings in Victoria, Western Australian and South Australia (consult a building surveyor licensed in your State as _building code legislation changes_). Please submit meaningful bugs, and pull requests to add/amend our shared checklists. 
  * For the purposes of this repository the Victorian Building Association (VBA) and Western Australia ?__________? is the regulator which have been used per example.
 
 # Stages of build (your building surveyor will provide consultation/documentation prior to each stage of your build)
@@ -50,20 +49,19 @@ how you as owner-builder are going to live on-site during the minimum +9months o
 
 ### I. [Build_preparation checklists](https://github.com/earthsteading/earthship/blob/e97adaeebb06a77383f3f647728697382650fdb4/checklist_build-preparation.md): 
  Preperatory staging of construction area, construction materials/systems, utility service provisions and building materials.
-   - [X] Site investigation and preparation
-   - [X] Construction methods for structural and supporting systems
-   - [X] Structural & supporting systems
-   - [X] Enclosing systems
-   - [X] Fire safety
-   - [X] Health and amenity
-   - [X] Safe movement and accessibility
-   - [X] Energy efficiency
-   - [X] Construction process, trade sequencing and estimate costs
-   - [X] Geographical location varations
-   - [X] List of construction materials
-   - [X] Suitability/risksof system/material interactions
-   - [X] Utility service provision
-   - [X] List of required certifications
+   - [X] [Site investigation and preparation]()
+   - [X] [Structural & supporting systems](https://github.com/earthsteading/earthship/blob/8f54d43fba8223c37a4d816cec43cdac49e931e8/checklist_structural-supporting-systems.md)
+   - [X] [Enclosing systems](https://github.com/earthsteading/earthship/blob/deca192c4e5906e696d0970e1e31b33337aaac5b/checklist_enclosing-systems.md)
+   - [X] [Fire safety systems](https://github.com/earthsteading/earthship/blob/deca192c4e5906e696d0970e1e31b33337aaac5b/checklist_fire-safety.md)
+   - [X] [Health and amenity systems](https://github.com/earthsteading/earthship/blob/03644a5ab01a5ad175481848f855def211754c70/checklist_health-amenity.md)
+   - [X] [Safe movement and accessibility](https://github.com/earthsteading/earthship/blob/8f54d43fba8223c37a4d816cec43cdac49e931e8/checklist_movement-accessibility.md)
+   - [X] [Energy efficiency systems](https://github.com/earthsteading/earthship/blob/deca192c4e5906e696d0970e1e31b33337aaac5b/checklist_energy-efficiency.md)
+   - [X] [Construction process, trade sequencing and estimate costs]()
+   - [X] [Geographical location varations]()
+   - [X] [List of construction materials]()
+   - [X] [Suitability/risksof system/material interactions]()
+   - [X] [Utility service provision]()
+   - [X] [List of required certifications]()
 
  ### II. [Foundations and footings checklists]():
  Surveyor site visit 1: footprint, foundations, footings and framework (_before a footing is placed_ / after the site has been preparred, levelled, tested, etc.)
@@ -76,12 +74,12 @@ how you as owner-builder are going to live on-site during the minimum +9months o
    * To be continued...
  - [X]
 
- ### IV. [Enclosure checklists](https://github.com/earthsteading/earthship/blob/e97adaeebb06a77383f3f647728697382650fdb4/checklist_enclosing-systems.md)
+ ### IV. [Enclosure checklists]()
  Surveyor site visit 3: sealing/securing building with windows, doors, insultation, etc (on completion of all building works) after the building has it's in-house utilities installed)
    * To be continued...
  - [X]
  
- ### V. [Fixings & features checklists](https://github.com/earthsteading/earthship/blob/7ef2c1d33f4dd5d432a0d6ef75f17827f24e1aa8/checklist_fixing-features.md)
+ ### V. [Fixings & features checklists]()
  Surveyor site visit 4: fixing, features, color, etc. (after the building has beed securely sealed with lock and key)
    * To be continued...
  - [X]
