@@ -65,7 +65,6 @@ For the water recylcing techniques to approved by your inspector, you should beg
 - [ ] When a pump system is installed, the pump system failure must not result in inundation of any building or adjacent property, measures shall be incorporated to minimise the risk of failure during a storm.
 - [ ] All drainage infrastructures within the development site shall be maintained, serviced, cleaned and sustained operational to the design requirements by the owner/management.
 
-
 ## Earthworks
 
  - [ ] Established the construction site
@@ -84,14 +83,20 @@ Geotechnical site investigation (AS1726-1993)
  - [ ] Site classification
  - [ ] Soil testing
  - [ ] CERTIFICATION of soil tested for foundation engineering... 
+ - [ ] Soil sample: core > sive > granularity = test for: liquid limit , plastic limit and shrinkage. (attenberg machine)
+ - [ ] Soil types: Rock (igneous, sedentary, metamorphic), Sand (stable for up to 4 story building, silt), Clay (shale rock). 
+
+
+## Foundations & Footings
+If sand do this footing.... if clay do this footing...
+ - [ ] Earthrammed footings...? 
+ - [ ] Residential Slabs and Footings - construction (AS2870-1996)
+ - [ ] batter of tyre wall
+ - [ ] earth berm against tyre wall
+ - [ ] additional supporting buttresses 
 
 ## Pest risks
 
  - [ ] Termites AS 3660.3:2014: Termite management
  - [ ] Surrounding ecosystem
-
-## Foundations & Footings
-
- - [ ] Earthrammed footings...? 
- - [ ] Residential Slabs and Footings - construction (AS2870-1996)
 
