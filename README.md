@@ -44,7 +44,9 @@ The minimum viable set of people you will require to build an off-grid home in A
 ## Timeline (Gaant chart of hired labour)
 ![timeline](https://github.com/earthsteading/earthship/blob/821f840683c55277b7f58c940904e4f701e91312/Gaant_v1.png "Gaant cahrt of timeline build")
 
-### 0.) Pre-pre-build (aka how you as owner-builder are going to live on-site during the minimum +9months of building (avg build +2 years).
+### 0.) Pre-pre-build 
+
+how you as owner-builder are going to live on-site during the minimum +9months of building (avg build +2 years).
 
 ### I. [Build_preparation checklists](https://github.com/earthsteading/earthship/blob/e97adaeebb06a77383f3f647728697382650fdb4/checklist_build-preparation.md): 
  Preperatory staging of construction area, construction materials/systems, utility service provisions and building materials.
