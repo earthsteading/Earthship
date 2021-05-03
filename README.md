@@ -36,15 +36,18 @@ The minimum viable set of people you will require to build an off-grid home in A
  * The overall guiding principles of the following checklists is a book called "The Checklist Manifesto" <-- read it!
  * The use of Git(hub) as versioning repository is so that multiple people can help amend and improve these checklists for Australia wide commons use, e.g. please contribute additional checklists for other states and environmental conditions found throughout the continent of Australia.
  * The architectural design provided as examples for each checklist have been used to build council approved buildings in Victoria, Western Australian and South Australia (consult a building surveyor licensed in your State as _building code legislation changes_). Please submit meaningful bugs, and pull requests to add/amend our shared checklists.  
-
   * Below is a timeline (Gaant) chart showing the different stages of this build, each stage of the build provides a new page outling architectural details and the required accompanying standards, certifications and documentations.
  * For the purposes of this repository the Victorian Building Association (VBA) and Western Australia ?__________? is the regulator which have been used per example.
 
-# Stages of build (your building surveyor will provide consultation/documentation prior to each stage of your build):
+# Stages of build (your building surveyor will provide consultation/documentation prior to each stage of your build)
 
-  * 0.) Pre-pre-build (aka how you as owner-builder are going to live on-site during the minimum +9months of building (avg build +2 years).
+## Timeline (Gaant chart of hired labour)
+![timeline](https://github.com/earthsteading/earthship/blob/821f840683c55277b7f58c940904e4f701e91312/Gaant_v1.png "Gaant cahrt of timeline build")
 
- I. [Build_Preparation Checklists](../earthship/build-preparation.md): analysis of construction area, construction materials/systems, utility service provisions and example building materials.
+### 0.) Pre-pre-build (aka how you as owner-builder are going to live on-site during the minimum +9months of building (avg build +2 years).
+
+### I. [Build_preparation checklists](https://github.com/earthsteading/earthship/blob/e97adaeebb06a77383f3f647728697382650fdb4/checklist_build-preparation.md): 
+ Preperatory staging of construction area, construction materials/systems, utility service provisions and building materials.
    - [X] Site investigation and preparation
    - [X] Construction methods for structural and supporting systems
    - [X] Structural & supporting systems
@@ -60,17 +63,23 @@ The minimum viable set of people you will require to build an off-grid home in A
    - [X] Utility service provision
    - [X] List of required certifications
 
- II. Surveyor site visit 1: footprint, foundations, footings and framework (_before a footing is placed_ / after the site has been preparred, levelled, tested, etc.)
+ ### II. [Foundations and footings checklists]():
+ Surveyor site visit 1: footprint, foundations, footings and framework (_before a footing is placed_ / after the site has been preparred, levelled, tested, etc.)
   * before an in situ reinforced concrete member nominated by the relevant building surveyor is poured, e.g. concrete buttress, assembled concrete members, etc.
+ - [X]
+ - 
  
- III. Surveyor site visit 2: in-house utilities water, heating/cooling, fire, etc (on completion of frame / after the building has been "topped-out" aka errected with roof, but not sealed from elements, internal walls exposed) 
+### III. [In-house utilities checklists]()
+ Surveyor site visit 2: in-house utilities water, heating/cooling, fire, etc (on completion of frame / after the building has been "topped-out" aka errected with roof, but not sealed from elements, internal sys) 
    * To be continued...
+ - [X]
 
- IV. Surveyor site visit 3: sealing/securing building with windows, doors, insultation, etc (on completion of all building works) after the building has it's in-house utilities installed)
+ ### IV. [Enclosure checklists](https://github.com/earthsteading/earthship/blob/e97adaeebb06a77383f3f647728697382650fdb4/checklist_enclosing-systems.md)
+ Surveyor site visit 3: sealing/securing building with windows, doors, insultation, etc (on completion of all building works) after the building has it's in-house utilities installed)
    * To be continued...
-
- V. Surveyor site visit 4: fixing, features, color, etc. (after the building has beed securely sealed with lock and key)
+ - [X]
+ 
+ ### V. [Fixings & features checklists](https://github.com/earthsteading/earthship/blob/7ef2c1d33f4dd5d432a0d6ef75f17827f24e1aa8/checklist_fixing-features.md)
+ Surveyor site visit 4: fixing, features, color, etc. (after the building has beed securely sealed with lock and key)
    * To be continued...
-
-# Timeline (Gaant chart of hired labour)
-![timeline](https://github.com/earthsteading/earthship/blob/821f840683c55277b7f58c940904e4f701e91312/Gaant_v1.png "Gaant cahrt of timeline build")
+ - [X]
