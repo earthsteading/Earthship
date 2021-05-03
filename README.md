@@ -28,8 +28,8 @@ The minimum viable set of people you will require to build an off-grid home in A
  - [x] certified tradies = chippies (carpenter), sparkies (electrcian), plumbers and earthworks (civic construction).
  - [x] certified engineer = to sign off on any architectural plans you are using.
 
-## Methodology (how to use this repository of building code checklists):
-
+## Methodology
+How to use this repository of building code checklists:
  * The overall guiding principles of the following checklists is a book called "The Checklist Manifesto" <-- read it!
  * The use of Git(hub) as versioning repository is so that multiple people can help amend and improve these checklists for Australia wide commons use, e.g. please contribute additional checklists for other states and environmental conditions found throughout the continent of Australia.
  * The architectural design provided as examples for each checklist have been used to build council approved buildings in Victoria, Western Australian and South Australia (consult a building surveyor licensed in your State as _building code legislation changes_). Please submit meaningful bugs, and pull requests to add/amend our shared checklists. 
