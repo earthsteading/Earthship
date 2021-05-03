@@ -46,9 +46,9 @@ Gaant chart of inspections/certifications:
 
 How you as owner-builder are going to live on-site during the minimum +9months of building (avg build +2 years).
 
-### I. [Build preparation checklists](https://github.com/earthsteading/earthship/blob/e97adaeebb06a77383f3f647728697382650fdb4/checklist_build-preparation.md): 
+### I. Build preparation checklists: 
  Preperatory staging of construction area, construction materials/systems, utility service provisions and building materials.
-   - [X] [Site investigation and preparation]()
+   - [X] [Site investigation and preparation](https://github.com/earthsteading/earthship/blob/e97adaeebb06a77383f3f647728697382650fdb4/checklist_build-preparation.md)
    - [X] [Structural & supporting systems](https://github.com/earthsteading/earthship/blob/8f54d43fba8223c37a4d816cec43cdac49e931e8/checklist_structural-supporting-systems.md)
    - [X] [Enclosing systems](https://github.com/earthsteading/earthship/blob/deca192c4e5906e696d0970e1e31b33337aaac5b/checklist_enclosing-systems.md)
    - [X] [Fire safety systems](https://github.com/earthsteading/earthship/blob/deca192c4e5906e696d0970e1e31b33337aaac5b/checklist_fire-safety.md)
@@ -62,23 +62,19 @@ How you as owner-builder are going to live on-site during the minimum +9months o
    - [X] [Utility service provision]()
    - [X] [List of required certifications]()
 
- ### II. [Foundations and footings checklists]():
+ ### II. Foundations and footings checklists
  Surveyor site visit 1: footprint, foundations, footings and framework (_before a footing is placed_ / after the site has been preparred, levelled, tested, etc.)
   * before an in situ reinforced concrete member nominated by the relevant building surveyor is poured, e.g. concrete buttress, assembled concrete members, etc.
- - [X]
- - 
+ - [X] [foobar]()
  
-### III. [In-house utilities checklists]()
+### III. In-house utilities checklists
  Surveyor site visit 2: in-house utilities water, heating/cooling, fire, etc (on completion of frame / after the building has been "topped-out" aka errected with roof, but not sealed from elements, internal sys) 
-   * To be continued...
- - [X]
+ - [X] [foobar]()
 
- ### IV. [Enclosure checklists]()
+ ### IV. Enclosure checklists
  Surveyor site visit 3: sealing/securing building with windows, doors, insultation, etc (on completion of all building works) after the building has it's in-house utilities installed)
-   * To be continued...
- - [X]
+ - [X] [foobar]()
  
- ### V. [Fixings & features checklists]()
+ ### V. Fixings & features checklists
  Surveyor site visit 4: fixing, features, color, etc. (after the building has beed securely sealed with lock and key)
-   * To be continued...
- - [X]
+ - [X] [foobar]()
