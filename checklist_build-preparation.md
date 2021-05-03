@@ -25,10 +25,10 @@ Detailed examples of the above requirements below:
 
 ## Drainage (functional design of integrated water recycling modules):
 
-The design of the "water management system" in an off-grid residential building should be divided into 4x constuction modules for inspection (see NCC Vol.3).  Depending on the Australian state you live in the permitable use will be dependent on local legislation, please consult your local certified surveyor.  You will require a plumbers certificate of your plumbing work, so please engage a plumber early-on to inform them of your build plans (note: plumbers love this stuff!). In terms of the Australian National Construction Code (NCC) the water systems you will be installing include: 
+The design of the "water management system" in an off-grid residential building should be divided into 4x constuction modules for inspection (see NCC Vol.3).  Depending on the Australian state you live in the permitable use will be dependent on local legislation, please consult your local certified surveyor.  You will require a plumbers certificate of your plumbing work, so please engage a plumber early-on to inform them of your build plans (note: most plumbers love off-grid). In terms of the Australian National Construction Code (NCC) the water systems you will be installing include: 
 
- - [ ] Absorption trench = Also called: absorption trench, absorption well, soakaway, soakpit.  Define: a pit, trench or well dug into permeable ground, filled with broken stone, bricks or large granular material and usually covered with earth, where liquid may soak away into the ground. Also called soakaway
-Source - AS/NZS 3500.0:2003: Plumbing and drainage
+ - [ ] 
+ - [ ] Absorption trench = Also called: absorption trench, absorption well, soakaway, soakpit.  Define: a pit, trench or well dug into permeable ground, filled with broken stone, bricks or large granular material and usually covered with earth, where liquid may soak away into the ground. Also called soakaway (AS/NZS 3500.0:2003)
  - [ ] Septic tank
  - [ ] Sand pit 
  - [ ] Transpiration bed
