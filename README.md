@@ -42,7 +42,7 @@ The minimum viable set of people you will require to build an off-grid home in A
 
 # Stages of build (your building surveyor will provide consultation/documentation prior to each stage of your build):
 
-  * 0.) Pre-build (aka how you as owner-builder are going to live on-site during the minimum +9months of building (avg build +2 years).
+  * 0.) Pre-pre-build (aka how you as owner-builder are going to live on-site during the minimum +9months of building (avg build +2 years).
 
  i. [Build_Preparation Checklists](../earthship/build-preparation.md): analysis of construction area, construction materials/systems, utility service provisions and example building materials.
    * Site investigation and preparation, including: drainage, earthworks, pest risk management, soil identification/assessment, foundations and footings.
@@ -60,13 +60,13 @@ The minimum viable set of people you will require to build an off-grid home in A
    * Utility service provision analysis (energy supply infrastructure, heating / cooling systems, fire protection systems, gas and hydraulic systems, etc.)
    * List of Australian building suppliers/tradies with standard based (ANSI, performance, deemed to satisfy) certification.
 
- ii. Surveyor site visit 1: footprint, foundations, footings and framework (after the site has been preparred, levelled, etc)
-  * To be continued...
+ ii. Surveyor site visit 1: footprint, foundations, footings and framework (_before a footing is placed_ / after the site has been preparred, levelled, tested, etc.)
+  * before an in situ reinforced concrete member nominated by the relevant building surveyor is poured, e.g. concrete buttress, assembled concrete members, etc.
  
- iii. Surveyor site visit 2: in-house utilities water, heating/cooling, fire, etc (after the building has been "topped-out" aka errected with roof, but not sealed from elements) 
+ iii. Surveyor site visit 2: in-house utilities water, heating/cooling, fire, etc (on completion of frame / after the building has been "topped-out" aka errected with roof, but not sealed from elements, internal walls exposed) 
    * To be continued...
 
- iv. Surveyor site visit 3: sealing/securing building with windows, doors, insultation, etc (after the building has it's in-house utilities installed)
+ iv. Surveyor site visit 3: sealing/securing building with windows, doors, insultation, etc (on completion of all building works) after the building has it's in-house utilities installed)
    * To be continued...
 
  v. Surveyor site visit 4: fixing, features, color, etc. (after the building has beed securely sealed with lock and key)
