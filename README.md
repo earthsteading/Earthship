@@ -73,5 +73,4 @@ The minimum viable set of people you will require to build an off-grid home in A
    * To be continued...
 
 # Timeline (Gaant chart of hired labour)
-
-Is there a javascript mardown library for creating visual text elements like venn gaant -->  asci text images surely?!
+![timeline](https://github.com/earthsteading/earthship/blob/821f840683c55277b7f58c940904e4f701e91312/Gaant_v1.png "Gaant cahrt of timeline build")
