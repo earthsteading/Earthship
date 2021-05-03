@@ -1,4 +1,4 @@
-# fixing and features = health and amenity
+# health and amenity
 
  - [ ] facilities
  - [ ] lights
@@ -6,3 +6,5 @@
  - [ ] sound insulation
  - [ ] ventilation
  - [ ] wet areas
+
+Automation systems
