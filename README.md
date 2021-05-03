@@ -31,7 +31,8 @@ The minimum viable set of people you will require to build an off-grid home in A
  * The architectural design provided as examples for each checklist have been used to build council approved buildings in Victoria, Western Australian and South Australia (consult a building surveyor licensed in your State as _building code legislation changes_). Please submit meaningful bugs, and pull requests to add/amend our shared checklists. 
  * For the purposes of this repository the Victorian Building Association (VBA) and Western Australia ?__________? is the regulator which have been used per example.
 
-# Stages of build (your building surveyor will provide consultation/documentation prior to each stage of your build)
+# Stages of build 
+Your building surveyor will provide consultation/documentation prior to each stage of your build.
 
 ## Timeline (Gaant chart of hired labour)
 ![timeline](https://github.com/earthsteading/earthship/blob/821f840683c55277b7f58c940904e4f701e91312/Gaant_v1.png "Gaant cahrt of timeline build")
