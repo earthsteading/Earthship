@@ -14,9 +14,9 @@
    * Pest risks = 
    * Foundations & footings =  
 
-# Inspector level documentation checklist (see below for owner-builder checklists and diagrams):
-- [ ] drainage = water recycling management systems.
-- [ ] soil assessment = suitability of soil types for foundations, earthworks, soaks and other earth infrastructures.
+# Inspector-surveyor level documentation checklist (see below for owner-builder checklists and diagrams):
+- [ ] drainage = water recycling management systems and certificates.
+- [ ] soil assessment = suitability of soil types for foundations, earthworks, soaks and other earth infrastructure and certificates.
 - [ ] earthworks = foundation, retaining walls and water topography.
 - [ ] footing = stability of building long term, e.g. fires, earthquakes and other natural disasters. 
 - [ ] pest risk management = termites and other pets who will want to cohabitate with you.
