@@ -44,32 +44,32 @@ The minimum viable set of people you will require to build an off-grid home in A
 
   * 0.) Pre-pre-build (aka how you as owner-builder are going to live on-site during the minimum +9months of building (avg build +2 years).
 
- i. [Build_Preparation Checklists](../earthship/build-preparation.md): analysis of construction area, construction materials/systems, utility service provisions and example building materials.
-   * Site investigation and preparation, including: drainage, earthworks, pest risk management, soil identification/assessment, foundations and footings.
-   * Construction methods for structural and supporting systems, including: masonry (earthwall construction, (un)reinforced masonry, weatherproofing, etc.) and 
-   * Structural & supporting systems: a.) masonry (earthwall, concrete, weatherproofing), Other systems (floors, roofs, ventilation, walls, framing, cyclone, timber, etc.).
-   * Enclosing systems (glazing, gutters, downpipes, roof cladding, wall cladding, etc.).
-   * Fire safety (clearance/protection of heating appliances, fire separation/containment, bushfire level and plan, smoke alarms, etc).
-   * Health and amenity (facilities, lights, room height, sound insulation, ventilation, wet areas, etc).
-   * Safe movement and access: accessibility (doors, pathways, ramps, ingress/egress, etc) and movement (balustrades, stair construction, slippage, swimming pool access, etc.)
-   * Energy efficiency (air movement, building fabric, building sealing and insulation, external glazing, services, etc)
-   * Construction process, trade sequencing and costs (Gaant Chart)
-   * Geographical location (climate, sun, wind, etc)
-   * List of construction materials (adhesives and sealants, admixtures, clay products, concrete products, glass, masonry, metal, mortar for load bearing walls, new materials, plaster and plasterboard, plastic, pre-stressed concrete, fire-rated protective coating, timber products, water-proofing, etc.)
-   * Suitability/risks of construction materials in relation to one another and system interaction.
-   * Utility service provision analysis (energy supply infrastructure, heating / cooling systems, fire protection systems, gas and hydraulic systems, etc.)
-   * List of Australian building suppliers/tradies with standard based (ANSI, performance, deemed to satisfy) certification.
+ I. [Build_Preparation Checklists](../earthship/build-preparation.md): analysis of construction area, construction materials/systems, utility service provisions and example building materials.
+   - [X] Site investigation and preparation
+   - [X] Construction methods for structural and supporting systems
+   - [X] Structural & supporting systems
+   - [X] Enclosing systems
+   - [X] Fire safety
+   - [X] Health and amenity
+   - [X] Safe movement and accessibility
+   - [X] Energy efficiency
+   - [X] Construction process, trade sequencing and estimate costs
+   - [X] Geographical location varations
+   - [X] List of construction materials
+   - [X] Suitability/risksof system/material interactions
+   - [X] Utility service provision
+   - [X] List of required certifications
 
- ii. Surveyor site visit 1: footprint, foundations, footings and framework (_before a footing is placed_ / after the site has been preparred, levelled, tested, etc.)
+ II. Surveyor site visit 1: footprint, foundations, footings and framework (_before a footing is placed_ / after the site has been preparred, levelled, tested, etc.)
   * before an in situ reinforced concrete member nominated by the relevant building surveyor is poured, e.g. concrete buttress, assembled concrete members, etc.
  
- iii. Surveyor site visit 2: in-house utilities water, heating/cooling, fire, etc (on completion of frame / after the building has been "topped-out" aka errected with roof, but not sealed from elements, internal walls exposed) 
+ III. Surveyor site visit 2: in-house utilities water, heating/cooling, fire, etc (on completion of frame / after the building has been "topped-out" aka errected with roof, but not sealed from elements, internal walls exposed) 
    * To be continued...
 
- iv. Surveyor site visit 3: sealing/securing building with windows, doors, insultation, etc (on completion of all building works) after the building has it's in-house utilities installed)
+ IV. Surveyor site visit 3: sealing/securing building with windows, doors, insultation, etc (on completion of all building works) after the building has it's in-house utilities installed)
    * To be continued...
 
- v. Surveyor site visit 4: fixing, features, color, etc. (after the building has beed securely sealed with lock and key)
+ V. Surveyor site visit 4: fixing, features, color, etc. (after the building has beed securely sealed with lock and key)
    * To be continued...
 
 # Timeline (Gaant chart of hired labour)
