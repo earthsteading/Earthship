@@ -38,8 +38,9 @@ How to use this repository of building code checklists:
 # Stages of build 
 Your building surveyor will provide consultation/documentation prior to each stage of your build.
 
-## Timeline (Gaant chart of hired labour)
-![timeline](https://github.com/earthsteading/earthship/blob/821f840683c55277b7f58c940904e4f701e91312/Gaant_v1.png "Gaant cahrt of timeline build")
+## Timeline
+Gaant chart of inspections/certifications:
+![timeline](https://github.com/earthsteading/earthship/blob/821f840683c55277b7f58c940904e4f701e91312/Gaant_v1.png "Gaant chart of build estimate build timeline")
 
 ### 0. [Pre-pre-build](https://github.com/earthsteading/earthship/blob/9693f3290efba0b4db99ad9f5c4e8f284388ad5c/pre-pre-build.md) 
 
