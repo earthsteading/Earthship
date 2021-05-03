@@ -1,8 +1,8 @@
 # Off-grid (earthship-like) sustainable homes for Australasians
 
-*Aim of this repository: provide systematic inspector-ready documentation for owner-builders which enables/empowers them to build an insurable off-grid residential buildings for the Australian environment.*
+*Aim of this building code repository: provide systematic inspector-ready documentation for owner-builders which enables/empowers them to build an insurable off-grid residential buildings for the Australian environment.*
 
-*Mission*: to transcend residential family homes into buildings which are not only carbon neutral, but able to capture carbon as well as improve the living indigenous (symbiotic/mutualistic) environment around the home.
+*Earthsteading Mission*: to transcend residential homes into buildings which are not only carbon neutral, but able to capture carbon as well as improve the living indigenous (symbiotic/mutualistic) environment around the home.
 
 [terminology & definitions](https://github.com/earthsteading/earthship/blob/5f4f96040fc8ca2ebc30613c183d4a93b0921481/terminology.md)
 
