@@ -25,11 +25,11 @@
 ## Actors:
 
 The minimum viable set of people you will require to build an off-grid home in Australia
- - [ ] owner-builder = you (see definition above)
- - [ ] surveyor = your local guide/friend and person responsible for empowering you to meet all the legislative requirements: federal, state and council.
- - [ ] inspector/certifier = the local government council representative who will hold you and your surveyor accountable for health and safety.
- - [ ] certified tradies = chippies (carpenter), sparkies (electrcian), plumbers and earthworks (civic construction).
- - [ ] certified engineer = to sign off on any architectural plans you are using.
+ - [x] owner-builder = you (see definition above)
+ - [x] surveyor = your local guide/friend and person responsible for empowering you to meet all the legislative requirements: federal, state and council.
+ - [x] inspector/certifier = the local government council representative who will hold you and your surveyor accountable for health and safety.
+ - [x] certified tradies = chippies (carpenter), sparkies (electrcian), plumbers and earthworks (civic construction).
+ - [x] certified engineer = to sign off on any architectural plans you are using.
 
 ## Methodology (how to use this repository of building code checklists):
 
