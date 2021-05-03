@@ -11,7 +11,7 @@
  * "'green'+'sustainability'" = reduction & reeducation in utility cost efficiencies, esp for quantifiable envrionmental value.
  * For all building terminology used in this repository please utilise the Australian national dictionary of building and construction codes: https://www.constructiondictionary.com.au/ <-- each term you lookup will have an associated *standard* which will reference the performance requirements for each part of your build.
 
-*Mission*: to transcend residential family homes into buildings which are not only carbon neutral, but able to capture carbon as well as improve the living indigenous environment around the home.
+*Mission*: to transcend residential family homes into buildings which are not only carbon neutral, but able to capture carbon as well as improve the living indigenous (symbiotic/mutualistic) environment around the home.
 
 ## Standards:
 
