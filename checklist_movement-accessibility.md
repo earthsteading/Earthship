@@ -2,8 +2,8 @@
 
   - [x] Balustrades =  AS 1288-2006: Selection and installation
   - [x] stair construction 
-  - [x] swimming pool access 
-  - [x] accessiblity (elderly, augmented, handicap)
+  - [?] swimming pool access 
+  - [ ] accessiblity (elderly, augmented, handicap)
 
 ## baulstrades 
 any raised level/parapet leading to a stair, ramp, balcony, etc.
