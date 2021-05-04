@@ -49,7 +49,7 @@ How you as owner-builder are going to live on-site during the minimum +9months o
 
 ### I. Build preparation checklists: 
  Preperatory staging of construction area, construction materials/systems, utility service provisions and building materials.
-   - [X] [Site investigation and preparation](https://github.com/earthsteading/earthship/blob/e97adaeebb06a77383f3f647728697382650fdb4/checklist_build-preparation.md)
+   - [X] [Site investigation and preparation](https://github.com/earthsteading/earthship/blob/master/checklist_build-preparation.md)
    - [X] [Structural & supporting systems](https://github.com/earthsteading/earthship/blob/8f54d43fba8223c37a4d816cec43cdac49e931e8/checklist_structural-supporting-systems.md)
    - [X] [Enclosing systems](https://github.com/earthsteading/earthship/blob/deca192c4e5906e696d0970e1e31b33337aaac5b/checklist_enclosing-systems.md)
    - [X] [Fire safety systems](https://github.com/earthsteading/earthship/blob/deca192c4e5906e696d0970e1e31b33337aaac5b/checklist_fire-safety.md)
