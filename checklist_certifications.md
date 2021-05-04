@@ -14,9 +14,14 @@ Build start
 
 During build
   - [ ] Tradie certs, esp plumbing, electrical, fire, etc.
+  - [ ] Plumbers = Certificate of Compliance
+  - [ ] Electricians = Certificate of Electrical Safety
 
 End of build
  - [ ] [alterations] notification of increased building costs
  - [ ] certificate of final inspection
  - [ ] certicication of occupancy
 
+If you want to sell
+  - [ ] Defects Inspection Report 
+  - [ ] domestic building insurance (10 year guarantee of your work)
