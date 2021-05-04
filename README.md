@@ -14,7 +14,11 @@ Objectives:
 ## Standards:
 
  * For building requirements please utilise the National Construction Code (being mindful of both Federal and State requirements for building: https://ncc.abcb.gov.au/ (please always consult a building surveyor prior to beginning a build)
-   * Your building surveyor can provide state based legislative details, for example this project is based on Victoria state building codes, see: https://www.vba.vic.gov.au/
+   * Your building surveyor can provide state based legislative details, for example this project is based on WA and Vic state building codes:
+   * https://content.legislation.vic.gov.au/sites/default/files/2020-10/18-38sra013%20authorised.pdf
+   * https://content.legislation.vic.gov.au/sites/default/files/2021-01/93-126aa130%20authorised.pdf
+   * https://www.legislation.wa.gov.au/legislation/prod/filestore.nsf/FileURL/mrdoc_42733.pdf/$FILE/Building%20Act%202011%20-%20%5B01-g0-00%5D.pdf
+   * https://www.legislation.wa.gov.au/legislation/prod/filestore.nsf/FileURL/mrdoc_43742.pdf/$FILE/Building%20Regulations%202012%20-%20%5B04-j0-00%5D.pdf
  * Generic building designs for a "Biotecture Earthships (TM)" from the USA can be purchased via the Earthship App on Android: https://play.google.com/store/apps/details?id=hr.apps.n207007048 <-- however, please be aware these designs are not suitable for council approved buildings in Australia.  If you would like to adapt an Earthship design please contact Dr Martin Freney (South Australia) for purchasing his draughtsman and engineering services: https://www.earthshipecohomes.com.au/contact.html
  * Disclaimer: this building code repository was created by @Earthsteading Building Surveying and Civic Construction as part of coursework for the Advanced Diploma in Building Surveying at Federation University.
  * Suggest a chage: please submit a pull request and/or bug request for any proposed amendments.
