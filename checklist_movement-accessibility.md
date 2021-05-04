@@ -17,12 +17,12 @@ any raised level/parapet leading to a stair, ramp, balcony, etc.
  - [ ] landings
  - [ ] flights
 
-## swimming pool access
+## swimming pool access [optional]
 
  - [ ] fence
  - [ ] gate
 
-## accessibility [optional, recommended for resale value]
+## accessibility [optional]
 
  - [ ] door widths
  - [ ] ramps
