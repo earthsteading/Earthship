@@ -66,16 +66,16 @@ How you as owner-builder are going to live on-site during the minimum +9months o
 ### II. Building foundations and footings checklists
  Surveyor site visit 1: footprint, foundations, footings and framework (_before a footing is placed_ / after the site has been preparred, levelled, tested, etc.)
   * before an in situ reinforced concrete member nominated by the relevant building surveyor is poured, e.g. concrete buttress, assembled concrete members, etc.
- - [X] [foobar]()
+ - [X] [checklist]()
  
 ### III. Building in-house utilities checklists
 Surveyor site visit 2: in-house utilities water, heating/cooling, fire, etc (on completion of frame / after the building has been "topped-out" aka errected with roof, but not sealed from elements, internal sys) 
- - [X] [foobar]()
+ - [X] [checklist]()
 
 ### IV. Building enclosures checklists
  Surveyor site visit 3: sealing/securing building with windows, doors, insultation, etc (on completion of all building works) after the building has it's in-house utilities installed)
- - [X] [foobar]()
+ - [X] [checklist]()
  
  ### V. Building fixings & features checklists
  Surveyor site visit 4: fixing, features, color, etc. (after the building has beed securely sealed with lock and key)
- - [X] [foobar]()
+ - [X] [checklist]()
