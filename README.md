@@ -3,9 +3,10 @@
 *Aim of this building code repository: provide systematic inspector-ready documentation for owner-builders which enables/empowers them to build an insurable off-grid residential buildings for the Australian environment.*
 
 Objectives:
- - [x] to provide easy to use open-source ikea-like checklists which a pair of partners can use to build a home.
- - [x] to increase efficiency of building an off-grid home which meets all the required legislation for Australia
- - [ ] to live luxiouriously, and sustainably...?
+ - [x] to provide easy to use ikea-like checklists which a pair+ can use to build a home.
+ - [x] to increase ease/efficiency in building an off-grid home which meets all the required legislation for Australia
+ - [ ] to lower the cost of building a home...
+ - [ ] luxurious and sustainable...
  - [ ] (*Earthsteading Surveying Mission*) to transcend humanities understanding of residential homes as buildings which are not only carbon neutral, but able to capture carbon as well as improve the living indigenous (symbiotic/mutualistic) environment around the home.
 
 [terminology & definitions](https://github.com/earthsteading/earthship/blob/5f4f96040fc8ca2ebc30613c183d4a93b0921481/terminology.md)
