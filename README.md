@@ -47,7 +47,7 @@ Gaant chart of inspections/certifications:
 
 How you as owner-builder are going to live on-site during the minimum +9months of building (avg build +2 years).
 
-### I. Build preparation checklists: 
+### I. Build preparation checklists
  Preperatory staging of construction area, construction materials/systems, utility service provisions and building materials.
    - [X] [Site investigation and preparation](https://github.com/earthsteading/earthship/blob/master/checklist_build-preparation.md)
    - [X] [Structural & supporting systems](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md)
