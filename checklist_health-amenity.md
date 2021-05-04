@@ -14,9 +14,10 @@
  - [ ] Class 1a residential building
  - [ ] Storage / camping
 
-## room height
- - [ ] mimimum
- - [ ] maximum
+## room height /size
+ - [ ] mimimum = 
+ - [ ] maximum height = 3metre (if within 1m of adjoining boundary no more than 2.4metre
+ - [ ] floor area not exceeding 10m^2
 
 ## sound insulation
  - [ ] sound reduction index
@@ -43,4 +44,4 @@
  - [ ] router, wifi network
  - [ ] home automation hub
  - [ ] sensors
- - [ ] actuators 
+ - [ ] actuators, i.e. see lights, stepper motors, z-wave deveices, bluetooth devices, etc.
