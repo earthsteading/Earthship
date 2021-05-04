@@ -50,12 +50,12 @@ How you as owner-builder are going to live on-site during the minimum +9months o
 ### I. Build preparation checklists: 
  Preperatory staging of construction area, construction materials/systems, utility service provisions and building materials.
    - [X] [Site investigation and preparation](https://github.com/earthsteading/earthship/blob/master/checklist_build-preparation.md)
-   - [X] [Structural & supporting systems](https://github.com/earthsteading/earthship/blob/8f54d43fba8223c37a4d816cec43cdac49e931e8/checklist_structural-supporting-systems.md)
-   - [X] [Enclosing systems](https://github.com/earthsteading/earthship/blob/deca192c4e5906e696d0970e1e31b33337aaac5b/checklist_enclosing-systems.md)
-   - [X] [Fire safety systems](https://github.com/earthsteading/earthship/blob/deca192c4e5906e696d0970e1e31b33337aaac5b/checklist_fire-safety.md)
-   - [X] [Health and amenity systems](https://github.com/earthsteading/earthship/blob/03644a5ab01a5ad175481848f855def211754c70/checklist_health-amenity.md)
-   - [X] [Safe movement and accessibility systems](https://github.com/earthsteading/earthship/blob/8f54d43fba8223c37a4d816cec43cdac49e931e8/checklist_movement-accessibility.md)
-   - [X] [Energy efficiency systems](https://github.com/earthsteading/earthship/blob/deca192c4e5906e696d0970e1e31b33337aaac5b/checklist_energy-efficiency.md)
+   - [X] [Structural & supporting systems](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md)
+   - [X] [Enclosing systems](https://github.com/earthsteading/earthship/blob/master/checklist_enclosing-systems.md)
+   - [X] [Fire safety systems](https://github.com/earthsteading/earthship/blob/master/checklist_fire-safety.md)
+   - [X] [Health and amenity systems](https://github.com/earthsteading/earthship/blob/master/checklist_health-amenity.md)
+   - [X] [Safe movement and accessibility systems](https://github.com/earthsteading/earthship/blob/master/checklist_movement-accessibility.md)
+   - [X] [Energy efficiency systems](https://github.com/earthsteading/earthship/blob/master/checklist_energy-efficiency.md)
    - [X] [Construction process, trade sequencing and estimate costs]()
    - [X] [Geographical location varations]()
    - [X] [List of construction materials]()
