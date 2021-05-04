@@ -7,9 +7,8 @@
  - [x] roof systems
  - [x] ventilation systems
  - [x] wall systems
- - [x] framing systems
- - [x] timber systems
- - [x] cyclone systems
+   - [x] framing (timber/hemcrete) systems
+ - [x] cyclone/alpine systems
 
 ## masonry
 
@@ -64,6 +63,7 @@ Stud wall
  - [ ] rebarb
  - [ ] 
 
-## [pending] cyclone systems
+## [regional/environmental variables] cyclone/alpine systems
 
  - [ ] Wind zones in Australia: 
+ - [ ] Alpine zones in Australia
