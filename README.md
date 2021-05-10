@@ -3,7 +3,7 @@
 *Aim of this building code repository: provide systematic documentation for owner-builders which empowers them to build an insurable off-grid residential buildings for the Australian environment.*
 
 Objectives:
- - [x] to provide easy to use ikea-like checklists which a pair of owner-builders can use to build their home.
+ - [x] to provide easy to use ikea-like checklists which owner-builder partners can use to build their home.
  - [x] to increase ease/efficiency in building an off-grid home which meets all the required building code legislation.
  - [x] to lower the cost of building a home which is both luxourious and sustainable.
  - [ ] (*Earthsteading mission*) to transcend humanities understanding of residential homes as buildings which are not only carbon neutral, but are also able to capture carbon as well as improve the living indigenous and biological (symbiotic/mutualistic) environment around the home.
