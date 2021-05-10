@@ -15,11 +15,11 @@
    * Foundations & footings =  
 
 # Inspector-surveyor level documentation checklist (see below for owner-builder checklists and diagrams):
-- [ ] drainage = water recycling management systems and certificates.
-- [ ] soil assessment = suitability of soil types for foundations, earthworks, soaks and other earth infrastructure and certificates.
-- [ ] earthworks = foundation, retaining walls and water topography.
-- [ ] footing = stability of building long term, e.g. fires, earthquakes and other natural disasters. 
-- [ ] pest risk management = termites and other pets who will want to cohabitate with you.
+- [x] drainage = water recycling management systems and certificates.
+- [x] soil assessment = suitability of soil types for foundations, earthworks, soaks and other earth infrastructure and certificates.
+- [x] earthworks = foundation, retaining walls and water topography.
+- [x] footing = stability of building long term, e.g. fires, earthquakes and other natural disasters. 
+- [x] pest risk management = termites and other pets who will want to cohabitate with you.
 
 Detailed examples of the above requirements below:
 
