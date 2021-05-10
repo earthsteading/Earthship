@@ -11,12 +11,12 @@ Objectives:
 [terminology & definitions](https://github.com/earthsteading/earthship/blob/5f4f96040fc8ca2ebc30613c183d4a93b0921481/terminology.md)
 
 ## Standards:
-This code repository utilise the National Construction Code: https://ncc.abcb.gov.au/ (please always consult a building surveyor prior to beginning a build)
+This code repository utilise the [National Construction Code](https://ncc.abcb.gov.au/). Please always consult a building surveyor prior to beginning a build.
  * Your building surveyor can provide state based legislative details, which are outlined in this [state legislation exceptions checklist](https://github.com/earthsteading/earthship/blob/master/checklist_state-legislation-exceptions.md)
- * Generic building designs for a "Biotecture Earthships (TM)" from the USA can be purchased via the [Earthship App on Android](https://play.google.com/store/apps/details?id=hr.apps.n207007048) <-- however, please be aware these designs are not suitable for council approved buildings in Australia.  If you would like to adapt an Earthship design please contact Dr Martin Freney (South Australia) for purchasing his design services: https://www.earthshipecohomes.com.au/contact.html
+ * Generic building designs for a "Biotecture Earthships (TM)" from the USA can be purchased via the [Earthship App on Android](https://play.google.com/store/apps/details?id=hr.apps.n207007048) <-- however, please be aware these designs are not suitable for council approved buildings in Australia.  If you would like to adapt an Earthship design please contact Dr Martin Freney (South Australia) for purchasing his certified design services: https://www.earthshipecohomes.com.au/contact.html
  * Disclaimer: this building code repository was created by @Earthsteading Building Surveying and Civic Construction as part of coursework for the Advanced Diploma in Building Surveying at Federation University (2020).
  * Suggest a chage: please submit a pull request and/or bug request for any proposed amendments.
- * Hire a specialist off-grid building surveyor earthsteading@gmail.com (initial consult free, hire cost: 1% of entire build, e.g. for a $350K build, a building surveyor will accompany you throughout your journey for $3500).
+ * Hire a specialist off-grid building surveyor earthsteading@gmail.com (initial consult free, hire cost: 1% of entire build, e.g. for a $350K build, a building surveyor will accompany you throughout your journey for ~$3500).
 
 ## Actors:
 
@@ -29,13 +29,19 @@ The minimum viable set of people you will require to build an off-grid home in A
 
 ## Methodology
 How to use this repository of building code checklists:
- * The overall guiding principles of the following checklists is a book called "The Checklist Manifesto" <-- read it!
- * The use of Git(hub) as versioning repository is so that multiple people can help amend and improve these checklists for Australia wide commons use, e.g. please contribute additional checklists for other states and environmental conditions found throughout the continent of Australia.
- * The architectural design provided as examples for each checklist have been used to build council approved buildings in Victoria, Western Australian and South Australia (consult a building surveyor licensed in your State as _building code legislation changes_). Please submit meaningful bugs, and pull requests to add/amend our shared checklists. 
- * For the purposes of this repository the Victorian Building Association (VBA) and Western Australia ?__________? is the regulator which have been used per example.
+  - [x] The overall guiding principles of the following checklists is a book called "The Checklist Manifesto" <-- read it!
+  - [x] The use of Git(hub) as versioning repository is so that multiple people can help amend and improve these checklists for Australasia-wide use, e.g. please contribute additional checklists for other states/regions.
+  - [x] The architectural examples for each checklist have been used to build council approved off-grid buildings in Victoria, Western Australian and South Australia (consult a building surveyor licensed in your State as _building code legislation changes_).
+  - [ ] If you are a building surveyor looking to improve these checklists for NSW, FNQ, ACT, NT, Tasmania and/or Torres Straigh Islands, please get in touch = earthsteading@gmail.com
 
 # Stages of build 
-Your building surveyor will provide consultation/documentation prior to each stage of your build.
+Your building surveyor will provide consultation/documentation prior to each stage of your build:
+  - [x] land purchased and surveyed
+  - [x] foundations and footings
+  - [x] in-house utilities
+  - [x] enclosure of building
+  - [x] fixings and features
+  - [ ] occupancy certificate!
 
 ## Timeline
 Gaant chart of inspections/certifications:
@@ -43,7 +49,7 @@ Gaant chart of inspections/certifications:
 
 ### 0. [Pre-pre-build](https://github.com/earthsteading/earthship/blob/9693f3290efba0b4db99ad9f5c4e8f284388ad5c/pre-pre-build.md) 
 
-How you as owner-builder are going to live on-site during the minimum +9months of building (avg build +2 years).
+Are you as the owner-builder going to live on-site during the minimum +9months of building (avg build +2 years)?
 
 ### I. Build preparation checklists
  Preperatory staging of construction area, construction materials/systems, utility service provisions and building materials.
