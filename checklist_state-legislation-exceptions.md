@@ -1,8 +1,5 @@
 # Legislative and environmental differences for buildings per state
 
- * https://content.legislation.vic.gov.au/sites/default/files/2020-10/18-38sra013%20authorised.pdf
- * https://content.legislation.vic.gov.au/sites/default/files/2021-01/93-126aa130%20authorised.pdf
-
 ## Western Australia
 
 ### Legislative
@@ -12,12 +9,17 @@
 ### Environmental
  - [ ] Lots! WA is a massive state!
 
-## Northern Territory
-   - extreme 
+## Victoria
+
+### Legislative
+  - [ ] https://content.legislation.vic.gov.au/sites/default/files/2020-10/18-38sra013%20authorised.pdf
+  - [ ] https://content.legislation.vic.gov.au/sites/default/files/2021-01/93-126aa130%20authorised.pdf
+
+### Environmental
+  - [x] foo
+  - [ ] bar
 
 ## South Australia
-
-## Victoria
 
 ### Legislative
   - [ ] Foobar
@@ -27,19 +29,77 @@
   - [x] foo
   - [ ] bar
 
-## Queensland
-   - hurricaine wind forces
-
-## ACT Canberra
-
 ## New South Wales
+
+### Legislative
+  - [ ] Foobar
+  - [ ] Foo
+
+### Environmental
+  - [x] foo
+  - [ ] bar
+
+## Northern Territory
+
+### Legislative
+  - [ ] Foobar
+  - [ ] Foo
+
+### Environmental
+  - [x] foo
+  - [ ] bar
+
+## Queensland and Far North Queensland
+
+### Legislative
+  - [ ] Foobar
+  - [ ] Foo
+
+### Environmental
+  - [x] hurricaine wind forces
+  - [ ] bar
 
 ## Tasmania
 
+### Legislative
+  - [ ] Foobar
+  - [ ] Foo
+
+### Environmental
+  - [x] foo
+  - [ ] bar
+
+## ACT Canberra
+
+### Legislative
+  - [ ] Foobar
+  - [ ] Foo
+
+### Environmental
+  - [x] foo
+  - [ ] bar
+
 ## Torres Straight Islands?
 
+### Legislative
+  - [ ] Foobar
+  - [ ] Foo
+
+### Environmental
+  - [x] foo
+  - [ ] bar
+
 ## New Zealand
-   _ hurricaine wind forces
+
+## Tasmania
+
+### Legislative
+  - [ ] Foobar
+  - [ ] Foo
+
+### Environmental
+  - [x] foo
+  - [ ] bar
 
 ## Antartica ;-)
 
