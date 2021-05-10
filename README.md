@@ -1,26 +1,20 @@
 # Off-grid (earthship-like) sustainable homes for Australasians
 
-*Aim of this building code repository: provide systematic inspector-ready documentation for owner-builders which enables/empowers them to build an insurable off-grid residential buildings for the Australian environment.*
+*Aim of this building code repository: provide systematic documentation for owner-builders which empowers them to build an insurable off-grid residential buildings for the Australian environment.*
 
 Objectives:
- - [x] to provide easy to use ikea-like checklists which a pair+ can use to build a home.
- - [x] to increase ease/efficiency in building an off-grid home which meets all the required legislation for Australia
- - [ ] to lower the cost of building a home...
- - [ ] luxurious and sustainable...
- - [ ] (*Earthsteading Surveying Mission*) to transcend humanities understanding of residential homes as buildings which are not only carbon neutral, but able to capture carbon as well as improve the living indigenous (symbiotic/mutualistic) environment around the home.
+ - [x] to provide easy to use ikea-like checklists which a pair of owner-builders can use to build their home.
+ - [x] to increase ease/efficiency in building an off-grid home which meets all the required building code legislation.
+ - [x] to lower the cost of building a home which is both luxurious and sustainable.
+ - [ ] (*Earthsteading Surveying Mission*) to transcend humanities understanding of residential homes as buildings which are not only carbon neutral, but are also able to capture carbon as well as improve the living indigenous (symbiotic/mutualistic) environment around the home.
 
 [terminology & definitions](https://github.com/earthsteading/earthship/blob/5f4f96040fc8ca2ebc30613c183d4a93b0921481/terminology.md)
 
 ## Standards:
-
- * For building requirements please utilise the National Construction Code (being mindful of both Federal and State requirements for building: https://ncc.abcb.gov.au/ (please always consult a building surveyor prior to beginning a build)
-   * Your building surveyor can provide state based legislative details, for example this project is based on WA and Vic state building codes:
-   * https://content.legislation.vic.gov.au/sites/default/files/2020-10/18-38sra013%20authorised.pdf
-   * https://content.legislation.vic.gov.au/sites/default/files/2021-01/93-126aa130%20authorised.pdf
-   * https://www.legislation.wa.gov.au/legislation/prod/filestore.nsf/FileURL/mrdoc_42733.pdf/$FILE/Building%20Act%202011%20-%20%5B01-g0-00%5D.pdf
-   * https://www.legislation.wa.gov.au/legislation/prod/filestore.nsf/FileURL/mrdoc_43742.pdf/$FILE/Building%20Regulations%202012%20-%20%5B04-j0-00%5D.pdf
- * Generic building designs for a "Biotecture Earthships (TM)" from the USA can be purchased via the Earthship App on Android: https://play.google.com/store/apps/details?id=hr.apps.n207007048 <-- however, please be aware these designs are not suitable for council approved buildings in Australia.  If you would like to adapt an Earthship design please contact Dr Martin Freney (South Australia) for purchasing his draughtsman and engineering services: https://www.earthshipecohomes.com.au/contact.html
- * Disclaimer: this building code repository was created by @Earthsteading Building Surveying and Civic Construction as part of coursework for the Advanced Diploma in Building Surveying at Federation University.
+This code repository utilise the National Construction Code: https://ncc.abcb.gov.au/ (please always consult a building surveyor prior to beginning a build)
+ * Your building surveyor can provide state based legislative details, which are outlined in this [state legislation exceptions checklist](https://github.com/earthsteading/earthship/blob/master/checklist_state-legislation-exceptions.md)
+ * Generic building designs for a "Biotecture Earthships (TM)" from the USA can be purchased via the [Earthship App on Android](https://play.google.com/store/apps/details?id=hr.apps.n207007048) <-- however, please be aware these designs are not suitable for council approved buildings in Australia.  If you would like to adapt an Earthship design please contact Dr Martin Freney (South Australia) for purchasing his design services: https://www.earthshipecohomes.com.au/contact.html
+ * Disclaimer: this building code repository was created by @Earthsteading Building Surveying and Civic Construction as part of coursework for the Advanced Diploma in Building Surveying at Federation University (2020).
  * Suggest a chage: please submit a pull request and/or bug request for any proposed amendments.
  * Hire a specialist off-grid building surveyor earthsteading@gmail.com (initial consult free, hire cost: 1% of entire build, e.g. for a $350K build, a building surveyor will accompany you throughout your journey for $3500).
 
