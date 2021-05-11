@@ -11,7 +11,7 @@ Below is a generalised list which your state based legislation will require:
   - [ ] once a building envelope is laid out on site (i.e. staked marker, trench for cornerstones, etc), check plans to confirm the building envelope is placed legally 
   - [ ] acquire from council a list of "exisiting buildings" which have registered "occupancy certificates"
   - [ ] maximum allowed height of building from 'original foundation', vs 'excavated earthwork foundation' 
-  - [ ] maximum/minimum allowed setback of building envelope from property boundary
+  - [ ] maximum/minimum allowed setback of building envelope from property boundaries and access routes (frontage street, rear & side property lines)
   - [ ] minimum parking, garden and permeance spaces (i.e. amount of water shed/soaked) 
-  - [ ] additional allowed space for unroofed pools, spas, terraces, decks, ramps, pergolas. water/fuel tanks, heating/cooling equipment and/or below ground structures
+  - [ ] additional allowed space for unroofed pools, spas, terraces, decks, ramps, pergolas, water/fuel tanks, heating/cooling equipment and/or below ground structures
   - [ ] [optional] estimate additional extensions of building via verandas, pagodas, porches, gutters, eaves and fascia.
