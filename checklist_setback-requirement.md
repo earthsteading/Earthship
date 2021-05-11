@@ -12,5 +12,5 @@ Each state will have a different set of legislative requirements for how a build
   - [ ] minimum allowed setback of property (check state based legislation requirements)
   - [ ] maximum allowed setback of building envelope from property boundary (check state based legislation requirements)
   - [ ] minimum garden area (check state based legislation requirements)
+  - [ ] additional allowed space for unroofed pools, spas, terraces, decks, ramps, pergolas. water/fuel tanks, heating/cooling equipment and/or below ground structures
   - [ ] [optional] estimate additional extensions of building via verandas, pagodas, porches, gutters, eaves and fascia.
-  - [ ] [optional] additional allowed space for unroofed pools, spas, terraces, decks and pergolas
