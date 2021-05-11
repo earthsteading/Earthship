@@ -12,8 +12,8 @@
 ## Victoria
 
 ### Legislative
-  - [ ] https://content.legislation.vic.gov.au/sites/default/files/2020-10/18-38sra013%20authorised.pdf
-  - [ ] https://content.legislation.vic.gov.au/sites/default/files/2021-01/93-126aa130%20authorised.pdf
+  - [x] [Victoria Building Act 1993](https://www.legislation.vic.gov.au/in-force/acts/building-act-1993/130) [PDF](https://content.legislation.vic.gov.au/sites/default/files/2020-10/18-38sra013%20authorised.pdf)
+  - [ ] [Victoria Building Regulations 2018](https://www.legislation.vic.gov.au/in-force/statutory-rules/building-regulations-2018/013) [PDF](https://content.legislation.vic.gov.au/sites/default/files/2021-01/93-126aa130%20authorised.pdf)
 
 ### Environmental
   - [x] foo
