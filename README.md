@@ -8,7 +8,7 @@ Objectives:
  - [x] to lower the cost of building a home which is both luxourious and sustainable.
  - [ ] (*Earthsteading mission*) to transcend humanities understanding of residential homes as buildings which are not only carbon neutral, but are also able to capture carbon as well as improve the living indigenous and biological (symbiotic/mutualistic) environment around the home.
 
-[terminology & definitions](https://github.com/earthsteading/earthship/blob/5f4f96040fc8ca2ebc30613c183d4a93b0921481/terminology.md)
+[Terminology & definitions](https://github.com/earthsteading/earthship/blob/5f4f96040fc8ca2ebc30613c183d4a93b0921481/terminology.md)
 
 ## Standards:
 This code repository utilise the [National Construction Code](https://ncc.abcb.gov.au/). Please always consult a building surveyor prior to beginning a build.
