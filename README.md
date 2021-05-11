@@ -3,20 +3,19 @@
 *Aim of this building code repository: provide systematic documentation for owner-builders which empowers them to build an insurable off-grid residential buildings for the Australian environment.*
 
 Objectives:
- - [x] to provide easy to use ikea-like checklists which owner-builder partners can use to build their home.
- - [x] to increase ease/efficiency in building an off-grid home which meets all the required building code legislation.
- - [x] to lower the cost of building a home which is both luxourious and sustainable.
- - [ ] (*Earthsteading mission*) to transcend humanities understanding of residential homes as buildings which are not only carbon neutral, but are also able to capture carbon as well as improve the living indigenous and biological (symbiotic/mutualistic) environment around the home.
-
-[Terminology & definitions](https://github.com/earthsteading/earthship/blob/5f4f96040fc8ca2ebc30613c183d4a93b0921481/terminology.md)
+ - [x] provide easy to use ikea-like checklists which owner-builder partners can use to build their home
+ - [x] increase ease/efficiency in building an off-grid home which meets all the required building code legislation
+ - [x] lower the cost of building a home which is both luxourious and sustainable
+ - [ ] (*Earthsteading mission*) to transcend humanities understanding of residential homes as buildings which are able to capture carbon -as well as- improve the living (indigenous/biological symbiotic/mutualistic) environment around the home.
 
 ## Standards:
-This code repository utilise the [National Construction Code](https://ncc.abcb.gov.au/). Please always consult a building surveyor prior to beginning a build.
- * Your building surveyor can provide state based legislative details, which are outlined in this [state legislation exceptions checklist](https://github.com/earthsteading/earthship/blob/master/checklist_state-legislation-exceptions.md)
+[Terminology & definitions](https://github.com/earthsteading/earthship/blob/5f4f96040fc8ca2ebc30613c183d4a93b0921481/terminology.md)
+ * This code repository utilise the [National Construction Code](https://ncc.abcb.gov.au/) for all building definitions.
+ * Your building surveyor can provide state based legislative details, which are outlined in the [state legislation exceptions checklist](https://github.com/earthsteading/earthship/blob/master/checklist_state-legislation-exceptions.md)
  * Generic building designs for a "Biotecture Earthships (TM)" from the USA can be purchased via the [Earthship App on Android](https://play.google.com/store/apps/details?id=hr.apps.n207007048) <-- however, please be aware these designs are not suitable for council approved buildings in Australia.  If you would like to adapt an Earthship design please contact [Dr Martin Freney (South Australia) for purchasing his certified design services](https://www.earthshipecohomes.com.au/contact.html)
- * Disclaimer: this building code repository was created by @Earthsteading Building Surveying and Civic Construction as part of coursework for the Advanced Diploma in Building Surveying at Federation University (2020).
+ * Disclaimer: this building code repository was created by [@Earthsteading Building Surveying and Civic Construction]() as part of coursework for the Advanced Diploma in Building Surveying at Federation University (2020).
  * Suggest a chage: please submit a pull request and/or bug request for any proposed amendments.
- * Hire a specialist off-grid building surveyor earthsteading@gmail.com (initial consult free, hire cost: 1% of entire build, e.g. for a $350K build, a building surveyor will accompany you throughout your journey for ~$3500).
+ * Hire a specialist off-grid building surveyor <earthsteading@gmail.com> (initial consult free, hire cost: 1% of entire build, e.g. for a $350K build, a building surveyor will accompany you throughout your journey for ~$3500).
 
 ## Actors:
 
@@ -36,7 +35,7 @@ How to use this repository of building code checklists:
 
 # Stages of build 
 Your building surveyor will provide consultation/documentation prior to each stage of your build:
-  - [x] land purchased and surveyed
+  - [ ] land purchased and surveyed
   - [x] foundations and footings
   - [x] in-house utilities
   - [x] enclosure of building
@@ -47,9 +46,13 @@ Your building surveyor will provide consultation/documentation prior to each sta
 Gaant chart of inspections/certifications:
 ![timeline](https://github.com/earthsteading/earthship/blob/6aa91d0350f3b0c7300f9c58c15da8eabef949ed/Gaant_v2.png "Gaant chart of build estimate timelines")
 
-### 0. [Pre-pre-build](https://github.com/earthsteading/earthship/blob/9693f3290efba0b4db99ad9f5c4e8f284388ad5c/pre-pre-build.md) 
-
+### 0. [Pre-pre-build checklists](https://github.com/earthsteading/earthship/blob/9693f3290efba0b4db99ad9f5c4e8f284388ad5c/pre-pre-build.md) 
 Are you as the owner-builder going to live on-site during the minimum +9months of building (avg build +2 years)?
+  - [ ] Hierarchy of needs: physiological, safety, belonging, esteem & self-actualisation
+  - [x] homeostasis: shelter, heating, cooling, etc.
+  - [x] water management: collection, filtration, sewage, etc.
+  - [x] energy: solar, batteries, capacity, etc.
+  - [x] internet: information, network, etc.
 
 ### I. Build preparation checklists
  Preperatory staging of construction area, construction materials/systems, utility service provisions and building materials.
@@ -69,7 +72,7 @@ Are you as the owner-builder going to live on-site during the minimum +9months o
 
 ### II. Building foundations and footings checklists
  Surveyor site visit 1: footprint, foundations, footings and framework (_before a footing is placed_ / after the site has been preparred, levelled, tested, etc.)
- - [ ] [setback and sitting of building envelope placement (esp in residential areas)](https://github.com/earthsteading/earthship/blob/master/checklist_setback-requirement.md)
+ - [ ] [setback and sitting/placement of building envelope (esp in residential areas)](https://github.com/earthsteading/earthship/blob/master/checklist_setback-requirement.md)
  - [ ] in situ reinforced concrete member nominated by the relevant building surveyor is poured, e.g. concrete buttress, assembled concrete members, etc.
  
 ### III. Building in-house utilities checklists
