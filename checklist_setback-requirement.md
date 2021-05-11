@@ -6,6 +6,7 @@ Standards / legislation applicable to the below checklists:
 ## Setback requirements checklist
 Each state will have a different set of legislative requirements for how a building footprint is allowed to be placed next to adjoining exisitng building, e.g. heights, maximum/minimum distance from the property line.  Below is a generliased list of things which state-based legislation requires:
 
+  - [ ] once a building envelope is laid out on site (stakes, trench for footings, etc), the plans must be checked to confirm the building envelope is placed correctly. 
   - [ ] acquire from council a list of "exisiting buildings" which have registered "occupancy certificates"
   - [ ] check the state-based legislation for the allowed maximum height of building
   - [ ] check the state-based legislation for the allowed minimum setback of building 
