@@ -4,7 +4,7 @@ Standards / legislation applicable to the below checklists:
   * See list of [state-based legislation and environmental exceptions](https://github.com/earthsteading/earthship/blob/master/checklist_state-legislation-exceptions.md)
 
 ## Setback requirements checklist
-Below is a generalised list of tasks which [state-based legislation](https://github.com/earthsteading/earthship/blob/master/checklist_state-legislation-exceptions.md) requires:
+Below is a generalised list which your state based legislation will require:
 
   - [ ] once a building envelope is laid out on site (i.e. staked marker, trench for cornerstones, etc), check plans to confirm the building envelope is placed legally 
   - [ ] acquire from council a list of "exisiting buildings" which have registered "occupancy certificates"
