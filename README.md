@@ -30,6 +30,7 @@ The minimum viable set of people you will require to build an off-grid home in A
 ## Methodology
 How to use this repository of building code checklists:
   - [x] The overall guiding principles of the following checklists is a book called "The Checklist Manifesto" <-- read it!
+  - [ ] This checklist is designe as a "Read-->Do" checklist, e.g. _read_ the checklist, go _do_ what the checklists says and _tick-off the checklist_ once complete.  NB the checklists provided are not a "Do-->Confirm" checklist.
   - [x] The use of Git(hub) as versioning repository is so that multiple people can help amend and improve these checklists for Australasia-wide use, e.g. please contribute additional checklists for other states/regions.
   - [x] The architectural examples for each checklist have been used to build council approved off-grid buildings in Victoria, Western Australian and South Australia (consult a building surveyor licensed in your State as _building code legislation changes_).
   - [ ] If you are a building surveyor looking to improve these checklists for NSW, FNQ, ACT, NT, Tasmania and/or Torres Straigh Islands, please get in touch = earthsteading@gmail.com
