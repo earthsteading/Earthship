@@ -56,7 +56,7 @@
   - [ ] Foo
 
 ### Environmental
-  - [x] hurricaine wind forces
+  - [x] hurricaine wind forces = wind classification using AS 4055. 
   - [ ] bar
 
 ## Tasmania
