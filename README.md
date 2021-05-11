@@ -69,7 +69,7 @@ Are you as the owner-builder going to live on-site during the minimum +9months o
 
 ### II. Building foundations and footings checklists
  Surveyor site visit 1: footprint, foundations, footings and framework (_before a footing is placed_ / after the site has been preparred, levelled, tested, etc.)
- - [ ] [setback and sitting of building envelope placement (in residential areas)](https://github.com/earthsteading/earthship/blob/master/checklist_setback-requirement.md)
+ - [ ] [setback and sitting of building envelope placement (esp in residential areas)](https://github.com/earthsteading/earthship/blob/master/checklist_setback-requirement.md)
  - [ ] in situ reinforced concrete member nominated by the relevant building surveyor is poured, e.g. concrete buttress, assembled concrete members, etc.
  
 ### III. Building in-house utilities checklists
