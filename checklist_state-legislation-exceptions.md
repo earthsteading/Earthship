@@ -32,8 +32,8 @@
 ## New South Wales
 
 ### Legislative
-  - [ ] Foobar
-  - [ ] Foo
+  - [ ] For residential placement of buildings see the [NSW Housing Code](https://www.planningportal.nsw.gov.au/development-assessment/complying-development/housing-code)
+  - [ ] 
 
 ### Environmental
   - [x] foo
