@@ -8,8 +8,8 @@ Standards / legislation applicable to the below checklists:
 ## Setback requirements checklist
 Below is a generalised list which your state based legislation will require:
 
-  - [ ] once the building envelope is laid out on site (i.e. staked marker, trench for cornerstones, etc), confirm building envelope is geospatially and legally placed
-  - [ ] placement of boundary markers (fence, wall, etc) matching council land survey/map.
+  - [ ] once the building envelope is laid out on site (i.e. staked marker, trench for cornerstones, etc), confirm building envelope is geospatially and legally (cadastral) placed
+  - [ ] placement of boundary markers (fence, wall, etc) matching council cadastral land survey/map.
   - [ ] acquire from council a list of "exisiting buildings" in proximity which have registered "occupancy certificates"
   - [ ] maximum allowed height of building from 'original foundation', vs 'excavated earthwork foundation' 
   - [ ] maximum/minimum allowed setback of building envelope from property boundaries and access routes (frontage street, rear & side overlooking property lines)
