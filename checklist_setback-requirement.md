@@ -20,4 +20,7 @@ Below is a generalised list which your state based legislation will require:
   - [ ] [optional] estimate additional extensions of building via verandas, pagodas, porches, gutters, eaves and fascia.
   - [ ] calculation of legal allowable daylight to existing habitable rooms
   - [ ] calculation for overshadowing of recreational and/or private open spaces
+  - [ ] calculation for overlookking of proximal existing buildings
+
+Other setback?
   - [ ] ventilation requirements
