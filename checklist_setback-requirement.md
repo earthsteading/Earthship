@@ -1,4 +1,4 @@
-# legislative requirements for placement of building in a residential area
+# legislative requirements for placement of building (esp in a residential area)
 
 Standards / legislation applicable to the below checklists:
   * See list of [state-based legislation and environmental exceptions](https://github.com/earthsteading/earthship/blob/master/checklist_state-legislation-exceptions.md)
