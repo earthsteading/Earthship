@@ -11,7 +11,7 @@
    * Foundations & footings =  
 
 # Inspector-surveyor level documentation checklist (see below for owner-builder checklists and diagrams):
-- [x] drainage = water recycling management systems and certificates.
+- [x] [drainage](https://github.com/earthsteading/earthship/blob/master/checklist_build-preparation.md#drainage-functional-design-of-integrated-water-recycling-modules) = water recycling management systems and certificates.
 - [x] soil assessment = suitability of soil types for foundations, earthworks, soaks and other earth infrastructure and certificates.
 - [x] earthworks = foundation, retaining walls and water topography.
 - [x] footing = stability of building long term, e.g. fires, earthquakes and other natural disasters. 
