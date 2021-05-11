@@ -8,7 +8,7 @@ Each state will have a different set of legislative requirements for how a build
 
   - [ ] once a building envelope is laid out on site (stakes, trench for footings, etc), the plans must be checked to confirm the building envelope is placed correctly. 
   - [ ] acquire from council a list of "exisiting buildings" which have registered "occupancy certificates"
-  - [ ] check the state-based legislation for the allowed maximum height of building
-  - [ ] check the state-based legislation for the allowed minimum setback of building 
-  - [ ] check the state-based legislation for the allowed maximum setback of building
-  - [ ] extension of building via verandas, pagodas and/or porches
+  - [ ] maximum allowed height of building (check state based legislation requirements)
+  - [ ] minimum allowed setback of property (check state based legislation requirements)
+  - [ ] maximum allowed setback of building envelope from property boundary (check state based legislation requirements)
+  - [ ] estimate additional extensions of building via verandas, pagodas, porches, gutters, eaves and fascia.
