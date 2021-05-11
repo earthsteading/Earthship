@@ -17,10 +17,9 @@ Below is a generalised list which your state based legislation will require:
   - [ ] maximum height on boundary line for fences, walls and party walls, etc.
   - [ ] minimum parking, garden and permeance spaces (i.e. amount of water shedded/soaked) 
   - [ ] additional allowed space for 'unroofed' spaces: pools, spas, terraces, decks, ramps, pergolas, shade sail/umbrella, solar/fire shutter, water/fuel tanks, heating/cooling equipment and/or below ground structures
+  - [ ] maximum height of mast, pole, aerial, antenna, chimney, flue and/or service pipe
   - [ ] [optional] estimate additional extensions of building via verandas, pagodas, porches, gutters, eaves and fascia.
   - [ ] calculation of legal allowable daylight to existing habitable rooms, i.e. take a shadow diagram on 22nd September (equinox).
-  - [ ] calculation for overshadowing of recreational and/or private open spaces
-  - [ ] calculation for overlookking of proximal existing buildings, e.g. obscure glazing and/or screening if applicable
-
-Other setback?
-  - [ ] ventilation requirements?
+  - [ ] calculation for overshadowing of recreational and/or private open spaces by building and/or fences
+  - [ ] calculation for overlookking of proximal existing buildings and/or fences, e.g. add obscure glazing and/or screening if applicable
+  - [ ] ventilation requirements for natural flow of air through building via windows/doors
