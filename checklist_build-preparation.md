@@ -88,12 +88,15 @@ Geotechnical site investigation (AS1726-1993)
 
 
 ## Foundations & Footings
-If sand do this footing.... if clay do this footing...
- - [ ] Earthrammed footings...? 
+
+ - [ ] Building envelope placement in relation to property line and other exisiting buildings.
+ - [ ] Earthrammed footings standard --> ?
  - [ ] Residential Slabs and Footings - construction (AS2870-1996)
  - [ ] batter of tyre wall
  - [ ] earth berm against tyre wall
  - [ ] additional supporting buttresses 
+
+If sand do this footing.... if clay do this footing...
 
 ## Pest risks
 
