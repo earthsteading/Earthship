@@ -1,14 +1,10 @@
 # build preparation - prior to building (post permits/certification obtaining) the following checklists need to be completed
 
-## References for checklists:
- * Definition of all terms below = https://www.constructiondictionary.com.au/
- * Application of methods via NCC = https://ncc.abcb.gov.au/
+## Standards/legislations applicalbe to the below checklists:
  * Performance standards:
    * Plumbing and drainage = AS/NZS 3500.0:2003 / AS 1562.1:2018 / AS/NZS 2179.1:2014
     * Vic VBA = https://www.vba.vic.gov.au/plumbing/registration-licensing/drainage
     * Vic EPA = https://www.epa.vic.gov.au/for-community/environmental-information/water/about-wastewater/onsite-wastewater-regulatory-framework
-    * WA ____ = 
-    * WA ____ = 
    * Earthworks = 
    * Soil assessment = 
    * Pest risks = 
@@ -67,7 +63,7 @@ For the water recylcing techniques to approved by your inspector, you should beg
 
 ## Earthworks
 
- - [ ] Established the construction site
+ - [ ] Establish the construction site including building envelope placement, height and proximity to property boundaries and other existing buildings
  - [ ] Interpreted architectural/engineering drawings prior to commencement of site works
  - [ ] Protected public assets including footpaths/driveways/services
  - [ ] Located & abolished existing services to the site
