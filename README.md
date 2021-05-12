@@ -9,8 +9,7 @@ Objectives:
  - [ ] (*Earthsteading mission*) to transcend humanities understanding of residential homes as buildings which are able to capture carbon -as well as- improve the living (indigenous/biological symbiotic/mutualistic) environment around the home.
 
 ## Standards:
-[Terminology & definitions](https://github.com/earthsteading/earthship/blob/5f4f96040fc8ca2ebc30613c183d4a93b0921481/terminology.md)
- * This code repository utilise the [National Construction Code](https://ncc.abcb.gov.au/) for all building definitions.
+ * This code repository utilise the [National Construction Code](https://ncc.abcb.gov.au/) for all building definitions.  Any specialist definitions are listed in [terminology & definitions](https://github.com/earthsteading/earthship/blob/5f4f96040fc8ca2ebc30613c183d4a93b0921481/terminology.md)
  * Your building surveyor can provide state based legislative details, which are outlined in the [state legislation exceptions checklist](https://github.com/earthsteading/earthship/blob/master/checklist_state-legislation-exceptions.md)
  * Generic building designs for a "Biotecture Earthships (TM)" from the USA can be purchased via the [Earthship App on Android](https://play.google.com/store/apps/details?id=hr.apps.n207007048) <-- however, please be aware these designs are not suitable for council approved buildings in Australia.  If you would like to adapt an Earthship design please contact [Dr Martin Freney (South Australia) for purchasing his certified design services](https://www.earthshipecohomes.com.au/contact.html)
  * Disclaimer: this building code repository was created by [@Earthsteading Building Surveying and Civic Construction]() as part of coursework for the Advanced Diploma in Building Surveying at Federation University (2020). Hire a building surveyor with indemnity insurance, or _use these instructions at your own risk_.
