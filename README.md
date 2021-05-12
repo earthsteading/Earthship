@@ -28,9 +28,9 @@ The minimum viable set of people you will require to build an off-grid home in A
 ## Methodology
 How to use this repository of building code checklists:
   - [x] The overall guiding principles of the following checklists is a book called "The Checklist Manifesto" <-- read it!
-  - [x] The use of Git(hub) as versioning repository is so that multiple people can help amend and improve these checklists for Australasia-wide use, e.g. please contribute additional checklists for other states/regions.
-  - [x] The architectural examples for each checklist have been used to build council approved off-grid buildings in Victoria, Western Australian and South Australia (consult a building surveyor licensed in your State as _building code legislation changes_).
-  - [ ] If you are a building surveyor looking to improve these checklists for NSW, FNQ, ACT, NT, Tasmania and/or Torres Straigh Islands, please get in touch = earthsteading@gmail.com
+  - [x] The use of Git(hub) as versioning repository is so that multiple people can help amend and improve these checklists for Australasia-wide use, e.g. please contribute additional checklists for other states/regionsvia a "pull request".
+  - [x] The architectural examples for each checklist have been used to build council approved off-grid buildings in Victoria, Western Australian and South Australia (consult a building surveyor licensed in your State as _building code legislation changes in each state_).
+  - [ ] If you are a building surveyor looking to improve these checklists for NSW, FNQ, ACT, NT, Tasmania and/or Torres Straight Islands, please get in touch = earthsteading@gmail.com
 
 # Stages of build 
 Your building surveyor will provide consultation/documentation prior to each stage of your build:
@@ -71,17 +71,32 @@ Are you as the owner-builder going to live on-site during the minimum +9months o
 
 ### II. Building foundations and footings checklists
  Surveyor site visit 1: footprint, foundations, footings and framework (_before a footing is placed_ / after the site has been preparred, levelled, tested, etc.)
+ - [x] [checklists]() 
  - [ ] [setback and sitting/placement of building envelope (esp in residential areas)](https://github.com/earthsteading/earthship/blob/master/checklist_setback-requirement.md)
+ - [ ] tyre foundation and footing walls.
  - [ ] in situ reinforced concrete member nominated by the relevant building surveyor is poured, e.g. concrete buttress, assembled concrete members, etc.
  
 ### III. Building in-house utilities checklists
 Surveyor site visit 2: in-house utilities water, heating/cooling, fire, etc (on completion of frame / after the building has been "topped-out" aka errected with roof, but not sealed from elements, internal sys) 
  - [X] [checklist]()
+ - [ ] water collection, storage, pressure, filtration, grey water recycling, black water recylcing (septic/sewage) and permaculture zones (sand/swail pits), etc.
+ - [ ] heating: atrium, fire, solar water heater...
+ - [ ] Cooling: convection atrium, cooling tubes... (see also automation management system)
+ - [ ] Solar/wind power generation: lighting (solar tubes), appliances (fridge/kettle, tv/comp, etc)... 
+ - [ ] Energy storage: batteries (lithium/ion, lead/acid, etc)
+ - [ ] Atrium (food/medicine production): 
 
 ### IV. Building enclosures checklists
  Surveyor site visit 3: sealing/securing building with windows, doors, insultation, etc (on completion of all building works) after the building has it's in-house utilities installed)
  - [X] [checklist]()
+ - [ ] stem/atrium wall framing and carpentry
+ - [ ] mortart wall, including: bottle/can walls, hempcrete, earthen/sand bag walls, clay and local earthen render...
+ - [ ] glazing: windows, ventilation, etc.
+ - [ ] roof
+ - [ ] 
  
  ### V. Building fixings & features checklists
  Surveyor site visit 4: fixing, features, color, etc. (after the building has beed securely sealed with lock and key)
  - [X] [checklist]()
+ - [ ] (optional) accessibility: elderly, handicap, mobility, etc.
+ - [ ] 
