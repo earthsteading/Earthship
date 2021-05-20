@@ -52,6 +52,7 @@ Are you as the owner-builder going to live on-site during the minimum +9months o
   - [x] water management: collection, filtration, sewage, etc.
   - [x] energy: solar, batteries, capacity, etc.
   - [x] internet: information, network, etc.
+  - [ ] [optional] tools and hardware
 
 ### I. Build preparation checklists
  Preperatory staging of construction area, construction materials/systems, utility service provisions and building materials.
