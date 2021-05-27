@@ -4,10 +4,16 @@
  * AS 1670.1:2018: Fire detection, warning, control and intercom systems - System design, installation and commissioning
  * AS 2419.1-2005: Fire hydrant installations
 
+### Bushfire Assessment Level and Fire Plan
+It is assumed that most off-grid buildings in Australia should be built against the highest fire rating compliance called a "Bushfire Attack Level = Fire Zone (BAL-FZ).  Check with your building surveyor for cheaper options based on an official "BAL assessment". 
+  - [ ] Bushfire Assessment Level = BAL40 --> BAL-FZ
+  - [ ] Fire Plan: a.) shut fire shutters, b.) turn on drenching/soaking sprinkler system, c.) go to your designated fire safe facility. 
+  - [ ] [Optional] bushfire shelters
+
 ## Documents required for inspector/certifier
 
-  - [x] Fire separation
   - [x] Bushfire => BAL certification
+  - [x] Fire separation / compartments
   - [x] Smoke alarms
   - [x] Clearance/protection heating appliances => surveyor checked
 
@@ -34,8 +40,3 @@
   - [ ] stove/oven
   - [ ] fireplace
   - [ ] hydronic heating (floor / wall)
-
-### Bushfire
-  - [ ] BAL
-  - [ ] 
-  - [ ] private bushfire shelter aka a bushfire bunker
