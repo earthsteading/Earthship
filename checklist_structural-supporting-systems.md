@@ -52,15 +52,15 @@ The typical earthship is built with a timber roof utilisng the following materia
  - [ ] The major structural roof beams will need to be engineered timber, e.g. laminated veneer lumber (LVL), I-joist, glue laminated lumber (glulam), cross laminated timber, etc. NB these structural beams are expensive and require pre-order well in advance to allow for 
  - [ ] Ask your surveyor or carpenteer to calculate load of the roof structure by using AS1684.2 (2010 Timber Framed Construction, either vol.1 for windy areas, or vol.2 for normal wind). Don't forget to include load of roof, e.g. roof fixtures, solar panels, sky lights, chimneys, snow/rain/wind load, etc.
  - [ ] Once roof load is calculated (based on type of wood you are using, ideally hardwood for bushfire zone fire rating level) calculate the number of rafters which will be required along with their spacing, ask your surveyor to calculate spacing and fastener (nail/screw) distance via AS 1720.5:2015: Timber structures.
- - [ ] [optional] for cyclone zones and/or high wind areas utilise roof/collar ties to secure all battens, perlins, rafters and lintels.
- - [ ] For insulation, calculate the R-value which will be required for your climate/weather, including projections for 100 year climate change models.
- - [ ] 
- - [ ] roof sheathing / sarking
+ - [ ] [optional] for cyclone zones and/or high wind areas utilise roof/collar ties to secure all braces, battens, perlins, rafters and/or lintels.
+ - [ ] For roof insulation, ask your surveyor to calculate the R-value which will be required for your climate/weather, including projections for 100 year climate change models.
+ - [ ] roof sheathing / sarking for water proofing, vapour proofing, breathing (vapour permeable), or thermal reflectance, and which conforms with NCC vol.2 clause 3.10.
+Source - AS 3959:2018: Construction of buildings in bushfire-prone areas 
  - [ ] roof-cladding (flashing)
- - [ ] fan, flue, exhaust, vent, brackets for solar panels/heating
+ - [ ] roof attachments, including fans, flue, exhaust, vent, sky lights, brackets for solar panels/heating, etc.
  - [ ] roof water systems including gutters, flashings, valleys, ridging, weathering, rainwater piping and downpipes designed to collect or convey water discharged from roofs
 Source - AS/NZS 3500.0:2003: Plumbing and drainage, (see also _________)
- - [ ] wind rating (see also cyclone systems, below)
+ - [ ] connection of roof system to drainage and (water management system)[].
 
 ## ventilation systems
 An earthship is a living building which is designed to leverage the natural physics of the planet to both heat and cool the building in relation to it occupants (homeostatsis).  Therefore, the following systems 
