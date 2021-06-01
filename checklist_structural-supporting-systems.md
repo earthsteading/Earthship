@@ -15,8 +15,12 @@
 AS 2870-2011: Residential slabs and footings
 AS/NZS 2699.1:2000: Built-in components for masonry construction
 
- - [ ] rammed earth / earthwall, concrete / hempcrete, weatherproofing/flashing
- - [ ] foobar
+ - [ ] 3 of the 4 walls will be built using rammed earth tyres with a supporting/butressing earth burm.
+ - [ ] rammed earth / earthwall, 
+ - [ ] concrete / hempcrete, 
+ - [ ] bottle wall
+ - [ ] render over tyre and bottle walls.
+ - [ ] color of final render finish.
 
 ## floor systems
 
@@ -25,7 +29,7 @@ AS/NZS 2699.1:2000: Built-in components for masonry construction
  - [ ] underfloor heating (see also _________)
 
 ## wall systems
-The Earthship has two kinds of walls: a.) earth rammed tyres, and b.) stud wall
+The Earthship has two kinds of walls: a.) earth rammed tyres, and b.) stud timber framed wall
 
 Rammed earth (back berm) tyre wall
  - [ ] tires (sizes/shape)
@@ -45,6 +49,7 @@ Stud wall
 
 ## roof system
 The typical earthship is built with a timber roof utilisng the following materials and standards for the build:
+ - [ ] [optional] if you have an architect, request a 'roof framing plan' including timber schedule to show compliance and ease in assembly by builder/carpenter. 
  - [ ] The roof is supported by two structural walls: the "front wall" which is timber framed and contains the north facing (azimuth) atrium windows, and the back berm wall made up of earth rammed tires.  Both of these walls must be made to the engineering requirements described in NCC/BCA vol.2 Section 3.4 Framing.
  - [ ] Bond beam between the rammed earth tires and the wood roof framing to structurally connect the supporting back berm wall and the roof system. 
  - [ ] The simplest design of the roof system is a monopitch truss, however greater roof distances can be spanded using other truss systems.
