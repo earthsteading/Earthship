@@ -24,6 +24,7 @@ The minimum viable set of people you will require to build an off-grid home in A
  - [x] inspector/certifier = the local government council representative who will hold you and your surveyor accountable for health and safety.
  - [x] certified tradies = chippies (carpenter), sparkies (electrcian), plumbers and earthworks (civic construction).
  - [x] certified engineer = to sign off on any architectural plans you are using.
+ - [ ] [optional see state legislation] building designer or architect for providing drawings for submission to council inspector for certification.
 
 ## Methodology
 How to use this repository of building code checklists:
