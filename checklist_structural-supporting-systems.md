@@ -2,13 +2,37 @@
 
 ## inspector/certifier required documentation
 
+ - [x] footings 
  - [x] masonry
  - [x] floor systems
  - [x] roof systems
  - [x] ventilation systems
  - [x] wall systems
    - [x] framing (timber/hempcrete) systems
- - [x] cyclone/alpine systems
+ - [ ] [optional] cyclone/alpine systems
+
+## footings
+
+  - [x] Testing of soil for stability and classified as: 
+  - [ ] Aggregate material laid down below the concrete slab
+  - [ ] Vapour barriers and damp-proofing membranes, i.e. 0.2 mm thick polyethylene film
+  - [ ] which kind of slab to be used: size dependent.
+  - [ ] type of concrete (strength), e.g. N20
+  - [ ] depth of footings and rebar reinforcement
+  - [ ] connection between footing and slab, e.g. rebar and N10/R10 ties/fitments at 900mm spacing
+  - [ ] rebar reinforcement mesh placement and type
+  - [ ] thickness of slab
+  - [ ] increase of slab for embedded hot water heating pipes
+  - [ ] connetion between footing and wall framing
+  - [ ] type of wall framing (aka insulation R value for climate), e.g.stud framed (R=1.7-19), brick veneer (R=1.9-2.2), double brick (R=2.1-2.3), etc.
+  - [ ]  
+
+AS 1170.4 = Earthquake action.
+AS/NZS 1170.2 and AS 4055 = wind/cyclonic action
+AS 1289.7.1.1, AS 1289.7.1.2 and
+AS 1289.7.1.3. = soil reactivity
+AS 1684 = pads for stumps or piers
+AS/NZS 2904 = damp-proofing material compliance
 
 ## masonry
 
