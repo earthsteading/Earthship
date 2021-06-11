@@ -1,7 +1,7 @@
 # build preparation - prior to building (post permits/certification obtaining) the following checklists need to be completed
 
-## Standards/legislations applicalbe to the below checklists:
- * Performance standards:
+## Standards + legislations
+
    * Plumbing and drainage = AS/NZS 3500.0:2003 / AS 1562.1:2018 / AS/NZS 2179.1:2014
     * Vic VBA = https://www.vba.vic.gov.au/plumbing/registration-licensing/drainage
     * Vic EPA = https://www.epa.vic.gov.au/for-community/environmental-information/water/about-wastewater/onsite-wastewater-regulatory-framework
@@ -14,7 +14,7 @@
 (see below for owner-builder checklists and diagrams):
 - [x] [drainage](https://github.com/earthsteading/earthship/blob/master/checklist_build-preparation.md#drainage)
 - [x] soil assessment = suitability of soil types for foundations, earthworks, soaks and other earth infrastructure and certificates.
-- [x] earthworks = foundation, retaining walls and water topography.
+- [x] [earthworks](https://github.com/earthsteading/earthship/blob/master/checklist_build-preparation.md#earthworks) = foundation, retaining walls and water topography.
 - [x] footing = stability of building long term, e.g. fires, earthquakes and other natural disasters. 
 - [x] pest risk management = termites and other pets who will want to cohabitate with you.
 
@@ -53,7 +53,7 @@ For the water recylcing techniques to approved by your inspector, you should beg
 - [ ] Direction flow
 - [ ] Pollutant control devices
 
-## Stormwater drainage requirements:
+## Stormwater drainage
 - [ ] Post development surface runoff from the design must not exceed pre-development run off from the site from a prescribed year ARI storm.
 - [ ] No run-off shall be directed from the development site to adjacent properties.
 - [ ] Floor levels, site works and drainage system shall be designed to provide 100 – year ARI protection against inundation of buildings and any flood intolerant surfaces.
