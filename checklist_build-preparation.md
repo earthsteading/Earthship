@@ -11,7 +11,7 @@
    * Foundations & footings =  
 
 # Inspector-surveyor level documentation checklist (see below for owner-builder checklists and diagrams):
-- [x] [drainage](https://github.com/earthsteading/earthship/blob/master/checklist_build-preparation.md#drainage-functional-design-of-integrated-water-recycling-modules) = water recycling management systems and certificates.
+- [x] [drainage](https://github.com/earthsteading/earthship/blob/master/checklist_build-preparation.md#drainage)
 - [x] soil assessment = suitability of soil types for foundations, earthworks, soaks and other earth infrastructure and certificates.
 - [x] earthworks = foundation, retaining walls and water topography.
 - [x] footing = stability of building long term, e.g. fires, earthquakes and other natural disasters. 
@@ -19,7 +19,8 @@
 
 Detailed examples of the above requirements below:
 
-## Drainage (functional design of integrated water recycling modules):
+## Drainage 
+(functional design of integrated water recycling modules):
 
 The design of the "water management system" in an off-grid residential building should be divided into 4x constuction modules for inspection (see NCC Vol.3).  Depending on the Australian state you live in the permitable use will be dependent on local legislation, please consult your local certified surveyor.  You will require a plumbers certificate of your plumbing work, so please engage a plumber early-on to inform them of your build plans (note: most plumbers love off-grid). In terms of the Australian National Construction Code (NCC) the water systems you will be installing include: 
 
