@@ -10,14 +10,15 @@
    * Pest risks = 
    * Foundations & footings =  
 
-# Inspector-surveyor level documentation checklist (see below for owner-builder checklists and diagrams):
+# Inspector checklist 
+(see below for owner-builder checklists and diagrams):
 - [x] [drainage](https://github.com/earthsteading/earthship/blob/master/checklist_build-preparation.md#drainage)
 - [x] soil assessment = suitability of soil types for foundations, earthworks, soaks and other earth infrastructure and certificates.
 - [x] earthworks = foundation, retaining walls and water topography.
 - [x] footing = stability of building long term, e.g. fires, earthquakes and other natural disasters. 
 - [x] pest risk management = termites and other pets who will want to cohabitate with you.
 
-Detailed examples of the above requirements below:
+_See below for the checklists which the owner/builder must complete for checks by the inspector/surveyor above._
 
 ## Drainage 
 (functional design of integrated water recycling modules):
