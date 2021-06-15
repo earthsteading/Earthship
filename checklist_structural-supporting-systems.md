@@ -12,7 +12,7 @@ The following standards/legisative documents are used in the below checklists:
 
 # inspector/certifier required documentation
 
- - [x] [footings](https://github.com/earthsteading/earthship/edit/master/checklist_structural-supporting-systems.md#footings)
+ - [x] [footings](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md#footings)
  - [x] masonry
  - [x] floor systems
  - [x] roof systems
