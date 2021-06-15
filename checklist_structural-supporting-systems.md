@@ -13,13 +13,13 @@ The following standards/legisative documents are used in the below checklists:
 # inspector/certifier required documentation
 
  - [x] [footings](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md#footings)
- - [x] [wall systems](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md
+ - [x] [wall systems](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md#wall-systems)
    - [x] [masonry wall](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md#masonry)
    - [x] [framing wall](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md) (timber/hempcrete/earthen)
- - [x] [floor systems](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md#floor)
- - [x] [ventilation](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md#ventilation)
- - [x] [roof](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md#roof)
- - [ ] [optional] [environmental systems](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md#environmental), e.g. wind/cyclone, alpine/termite regions, etc.
+ - [x] [ventilation systems](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md#ventilation-systems)
+ - [x] [floor systems](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md#floor-systems)
+ - [x] [roof systems](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md#roof-systems)
+ - [ ] [_optional_] [environmental systems](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md#environmental-systems), e.g. wind/cyclone, alpine/termite regions, etc.
 
 ## footings
 
@@ -31,48 +31,48 @@ The following standards/legisative documents are used in the below checklists:
   - [ ] depth of footings and rebar reinforcement
   - [ ] connection between footing and slab, e.g. rebar and N10/R10 ties/fitments at 900mm spacing
   - [ ] rebar reinforcement mesh placement and type
-  - [ ] thickness of slab
+  - [ ] thickness of slab requirement = 
   - [ ] increase of slab for embedded hot water heating pipes
   - [ ] connetion between footing and wall framing
   - [ ] type of wall framing (aka insulation R value for climate), e.g.stud framed (R=1.7-19), brick veneer (R=1.9-2.2), double brick (R=2.1-2.3), etc.
   - [ ]  
 
-## masonry
+## wall systems
+The Earthship has two kinds of walls: a.) mortar walls built using earth rammed tyres, and b.) stud timber framed walls with glazing.
+
+### masonry wall with rammed earth blocks
 
  - [ ] 3 of the 4 walls will be built using rammed earth tyres with a supporting/butressing earth burm.
- - [ ] rammed earth / earthwall, 
+ - [ ] rammed earth tyres size/shape = tyre schedule 
+ - [ ] placement of cooling tubes (see ventilation system below)
  - [ ] concrete / hempcrete, 
  - [ ] bottle wall
  - [ ] render over tyre and bottle walls.
  - [ ] color of final render finish.
+ - [ ] concrete mortar render and fire seal.
 
-AS 2870-2011: Residential slabs and footings
-AS/NZS 2699.1:2000: Built-in components for masonry construction
+### framing wall
+  * timber frame with glazing for atrium
+  * traditional timber framed wall with plaster board
+  * timber frame with hempcrete infill
 
-## floor
+### 3D printed clay/mortar wall
+  * stay tuned ;-)
 
- - [ ] slab (AS2870 residential slabs and footings)
+## ventilation systems
+An earthship is a living building which is designed to leverage the natural physics of the planet to both heat and cool the building in relation to it occupants (homeostatsis).  Therefore, the following systems 
+ - [ ] azimuth - passive heating
+ - [ ] cooling tubes - passive cooling
+ - [ ] thermocline / greenhouse
+ - [ ] exhaust fans
+ - [ ] fireplace / Australian flora is prone to fire for its expansion and survival...
+ - [ ] digital monitorring, automation and rules of ventilation systems
+
+## floor systems
+
+ - [ ] concrete slab (AS2870 residential slabs and footings)
  - [ ] oxidisation of cement floor
  - [ ] underfloor heating (see also _________)
-
-## wall(s)
-The Earthship has two kinds of walls: a.) earth rammed tyres, and b.) stud timber framed wall
-
-Rammed earth (back berm) tyre wall
- - [ ] tires (sizes/shape)
- - [ ] levels 
- - [ ] 
- - [ ] render 
-
-Wood framed front wall
-  - [ ] nogging 
-
-### framing systems
-
-Stud wall
- - [ ] footings
- - [ ] rebarb
- - [ ] 
 
 ## roof system
 The typical earthship is built with a timber roof utilisng the following materials and standards for the build:
@@ -93,16 +93,6 @@ Source - AS 3959:2018: Construction of buildings in bushfire-prone areas
  - [ ] roof water systems including gutters, flashings, valleys, ridging, weathering, rainwater piping and downpipes designed to collect or convey water discharged from roofs
 Source - AS/NZS 3500.0:2003: Plumbing and drainage, (see also _________)
  - [ ] connection of roof system to drainage and (water management system)[].
-
-## ventilation systems
-An earthship is a living building which is designed to leverage the natural physics of the planet to both heat and cool the building in relation to it occupants (homeostatsis).  Therefore, the following systems 
- - [ ] azimuth - passive heating
- - [ ] cooling tubes - passive cooling
- - [ ] thermocline / greenhouse
- - [ ] exhaust fans
- - [ ] fireplace / Australian flora is prone to fire for its expansion and survival...
- - [ ] digital monitorring, automation and rules of ventilation systems
-
 
 ## environmental systems
 
