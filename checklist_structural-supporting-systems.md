@@ -13,13 +13,13 @@ The following standards/legisative documents are used in the below checklists:
 # inspector/certifier required documentation
 
  - [x] [footings](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md#footings)
- - [x] masonry
- - [x] floor systems
- - [x] roof systems
- - [x] ventilation systems
- - [x] wall systems
-   - [x] framing (timber/hempcrete) systems
- - [ ] [optional] cyclone/alpine systems
+ - [x] [wall systems](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md
+   - [x] [masonry wall](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md#masonry)
+   - [x] [framing wall](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md) (timber/hempcrete/earthen)
+ - [x] [floor systems](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md#floor)
+ - [x] [ventilation](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md#ventilation)
+ - [x] [roof](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md#roof)
+ - [ ] [optional] [environmental systems](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md#environmental), e.g. wind/cyclone, alpine/termite regions, etc.
 
 ## footings
 
@@ -49,13 +49,13 @@ The following standards/legisative documents are used in the below checklists:
 AS 2870-2011: Residential slabs and footings
 AS/NZS 2699.1:2000: Built-in components for masonry construction
 
-## floor systems
+## floor
 
  - [ ] slab (AS2870 residential slabs and footings)
  - [ ] oxidisation of cement floor
  - [ ] underfloor heating (see also _________)
 
-## wall systems
+## wall(s)
 The Earthship has two kinds of walls: a.) earth rammed tyres, and b.) stud timber framed wall
 
 Rammed earth (back berm) tyre wall
@@ -104,7 +104,7 @@ An earthship is a living building which is designed to leverage the natural phys
  - [ ] digital monitorring, automation and rules of ventilation systems
 
 
-## [regional/environmental variables] cyclone/alpine systems
+## environmental systems
 
  - [ ] Wind zones in Australia: 
  - [ ] Alpine zones in Australia
