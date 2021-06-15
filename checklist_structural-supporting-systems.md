@@ -74,7 +74,7 @@ An earthship is a living building which is designed to leverage the natural phys
  - [ ] oxidisation of cement floor
  - [ ] underfloor heating (see also _________)
 
-## roof system
+## roof systems
 The typical earthship is built with a timber roof utilisng the following materials and standards for the build:
  - [ ] [optional] if you have an architect, request a 'roof framing plan' including timber schedule to show compliance and ease in assembly by builder/carpenter. 
  - [ ] The roof is supported by two structural walls: the "front wall" which is timber framed and contains the north facing (azimuth) atrium windows, and the back berm wall made up of earth rammed tires.  Both of these walls must be made to the engineering requirements described in NCC/BCA vol.2 Section 3.4 Framing.
