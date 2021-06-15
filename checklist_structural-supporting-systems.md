@@ -1,8 +1,18 @@
 # preperatory checklist for structural supporting systems
 
-## inspector/certifier required documentation
+The following standards/legisative documents are used in the below checklists:
+  * AS 1170.4 = Earthquake action.
+  * AS/NZS 1170.2 and AS 4055 = wind/cyclonic action
+  * AS 1289.7.1.1, AS 1289.7.1.2 and
+  * AS 1289.7.1.3. = soil reactivity
+  * AS 1684 = pads for stumps or piers
+  * AS/NZS 2904 = damp-proofing material compliance
+  * AS 2870-2011: Residential slabs and footings
+  * AS/NZS 2699.1:2000: Built-in components for masonry construction
 
- - [x] footings 
+# inspector/certifier required documentation
+
+ - [x] (footings)[https://github.com/earthsteading/earthship/edit/master/checklist_structural-supporting-systems.md#footings]
  - [x] masonry
  - [x] floor systems
  - [x] roof systems
@@ -27,17 +37,7 @@
   - [ ] type of wall framing (aka insulation R value for climate), e.g.stud framed (R=1.7-19), brick veneer (R=1.9-2.2), double brick (R=2.1-2.3), etc.
   - [ ]  
 
-AS 1170.4 = Earthquake action.
-AS/NZS 1170.2 and AS 4055 = wind/cyclonic action
-AS 1289.7.1.1, AS 1289.7.1.2 and
-AS 1289.7.1.3. = soil reactivity
-AS 1684 = pads for stumps or piers
-AS/NZS 2904 = damp-proofing material compliance
-
 ## masonry
-
-AS 2870-2011: Residential slabs and footings
-AS/NZS 2699.1:2000: Built-in components for masonry construction
 
  - [ ] 3 of the 4 walls will be built using rammed earth tyres with a supporting/butressing earth burm.
  - [ ] rammed earth / earthwall, 
@@ -45,6 +45,9 @@ AS/NZS 2699.1:2000: Built-in components for masonry construction
  - [ ] bottle wall
  - [ ] render over tyre and bottle walls.
  - [ ] color of final render finish.
+
+AS 2870-2011: Residential slabs and footings
+AS/NZS 2699.1:2000: Built-in components for masonry construction
 
 ## floor systems
 
