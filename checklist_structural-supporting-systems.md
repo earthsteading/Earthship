@@ -12,7 +12,7 @@ The following standards/legisative documents are used in the below checklists:
 
 # inspector/certifier required documentation
 
- - [x] [footings](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md#footings)
+ - [x] [footing systems](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md#footing-systems)
  - [x] [wall systems](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md#wall-systems)
    - [x] [masonry wall](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md#masonry)
    - [x] [framing wall](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md) (timber/hempcrete/earthen)
@@ -21,7 +21,7 @@ The following standards/legisative documents are used in the below checklists:
  - [x] [roof systems](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md#roof-systems)
  - [ ] [_optional_] [environmental systems](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md#environmental-systems), e.g. wind/cyclone, alpine/termite regions, etc.
 
-## footings
+## footing systems
 
   - [x] Testing of soil for stability and classified as: 
   - [ ] Aggregate material laid down below the concrete slab
