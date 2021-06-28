@@ -66,7 +66,7 @@ Are you as the owner-builder going to live on-site during the minimum +9months o
    - [X] [Energy efficiency systems](https://github.com/earthsteading/earthship/blob/master/checklist_energy-efficiency.md)
    - [X] [Construction process, trade sequencing and estimate costs]()
    - [X] [List of construction materials]()
-   - [X] [Suitability/risksof system/material interactions]()
+   - [X] [Suitability/risks of system/material interactions]()
    - [X] [Utility service provision]()
    - [X] [List of required certifications]()
    - [X] [Geographical location varations]()
