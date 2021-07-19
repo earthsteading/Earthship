@@ -8,20 +8,9 @@ Naturally, the earthship design (despite being used by thousands of homes around
 
 Below you will find Performance Solutions which you can use for your Earthship build, these performance solutions should be presented as part of your building schematics and be referenced accordingly so that when your buildling surveyor goes to inspect the plan and building they should have no questions about the building's ability to perform throughout all of Australasia.
 
-## Below are checklists for the "Performance Solutions" which have been accepted for previous Earthship builds in Australia:
+## Below are "Performance Solutions" which have been accepted by councils for previous Earthship builds in Australia:
 
-  - [ ] Lengthing of building via the earthen tyre wall being structurally extended by internal butresses.
-  - [ ] Energy efficiency (homeostasis) of passive solar design via atrium greenhouse and cooling tubes.
-  - [ ] Stem wall protection of atrium wall from grey cell
-
-
-### Performance Based Design Brief for Butreesses against earthen-tyre wall:
-
-The buttresses on Earth#1 were used for a number of reasons (structural, health/amenity, aesthetic and accessibility)
-  * The buttress feature was started by an American engineer which required them for structural integrity to lengthen and increase the overall size of the building (ISO6707-1), thereby ensuring the structural integrity of the earth/tyre wall from Earthquakes and High Wind Regions (N3+). Subsequent engineers have determined that these buttresses are not required for areas in Australia with wind and/or Earthquake area.  Nonetheless, the buttresses provide 'peace of mind' for those who might experience hurricane force winds on the coast or in alpire regions. See attached engineers report.  Most importantly, the Performancee Solution provided by the buttresse(s) enable earthen tyre walls to be expanded to the legal maximum size of a building in Australia.
-  * The Buttresses were used in Earth #1 primarily to solve health and amenity issues.  For example, they are used as the basis for mounting wall framework and solid mounting for hanging doors (which could also be achieved via other framing standards). The buttresses are over-engineered with internal steel reinforced rebar, which results in an internal wall system which has structural stability for a continous wall of 3x the current length.
-  * Design criteria: buttresses have become a core design feature of Earthships, alongside the bottle walls.  Buttresses, other than their ancient historical use in architecture, are also a feature of the Earth1, helping create division of space and a natural line of sight to the beautiful ceiling of Earth 1.  In short, the buttresses in Earth1 are a key aesthetic feature. 
-  * Livability / accessibility: In addition to providing division between room, the concrete buttresses contrasted against the earthen adobe walls provide a perfect location for the wood heater as a thermal radiating mass.  While the exemplar energy efficiency (5 star) does not need the additional heat, it is still comforting to have a fire on the SouthCoast of Australia when Antarctic winds are blowing.
-
-### Performance Based Design Brief for Energy Efficiency of Passive Solar buildings via thermal solar atrium and cooling tubes:
-  * The most practical solution for achieving a buildings energy effciency is it's positiong to collect the naturally occuring thermal heat of the sun.  While most buildings designs consider the position of the sun (azimuth) in relation to its sitting, it is the aplification and storage of the sun's warmth which can easily "power" the homeostasis of a home throughout winter.  The primary feature of an Earthship, is the positioning of the atrium glazed wall to magnify the solar rays via the atrium unto thermal walls which can store heat and slowly dissapate the heat over the course of the day.
+  - [x] [Lengthing of building via the earthen tyre wall being structurally extended by internal butresses](https://github.com/earthsteading/earthship/blob/master/performance-solution_earthen-tyre-wall-butress.md).
+  - [x] [Energy efficiency (homeostasis) of passive solar design via atrium greenhouse and cooling tubes](https://github.com/earthsteading/earthship/blob/master/performance-solution_passive-homeostasis.md)
+  - [ ] Civic construction of atrium and grey/black water management systems, e.g. septic, leach field and sandpit
+  - [ ] Construction of stem wall with foundation pillars and inbuilt botanic water cell for atrium.
