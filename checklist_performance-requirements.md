@@ -8,9 +8,18 @@ Naturally, the earthship design (despite being used by thousands of homes around
 
 Below you will find Performance Solutions which you can use for your Earthship build, these performance solutions should be presented as part of your building schematics and be referenced accordingly so that when your buildling surveyor goes to inspect the plan and building they should have no questions about the building's ability to perform throughout all of Australasia.
 
-## Below are "Performance Solutions" which have been accepted by councils for previous Earthship builds in Australia:
+## "Performance Solutions" which have been utilised in Australasia:
 
   - [x] [Lengthing of building via the earthen tyre wall being structurally extended by internal butresses](https://github.com/earthsteading/earthship/blob/master/performance-solution_earthen-tyre-wall-butress.md).
   - [x] [Energy efficiency (homeostasis) of passive solar design via atrium greenhouse and cooling tubes](https://github.com/earthsteading/earthship/blob/master/performance-solution_passive-homeostasis.md)
   - [ ] Civic construction of atrium and grey/black water management systems, e.g. septic, leach field and sandpit
   - [ ] Construction of stem wall with foundation pillars and inbuilt botanic water cell for atrium.
+ 
+ ## Earthen products requiring additional evidence
+   - [ ] Earthen-tyre-blocks
+         - [ ] flammability within concrete encasing
+         - [ ] off-gassing of tyres longitudally
+   - [ ] Hardboard braced interior walls or engineered steel framing (a la survival fero-cement roof).
+   - [ ] Curved earthen-tyre walls do not required support due to lateral arch design.
+   - [ ] Bondbeam: concrete vs timber structural integrity and attachment of roof in high wind areas.
+         - [ ] the pull out forces (wind uplift) of the tie down method of the bondbeam to the tyres (e.g. rebar stakes) and 
