@@ -23,3 +23,5 @@ Below you will find Performance Solutions which you can use for your Earthship b
    - [ ] Curved earthen-tyre walls do not required support due to lateral arch design.
    - [ ] Bondbeam: concrete vs timber structural integrity and attachment of roof in high wind areas.
          - [ ] the pull out forces (wind uplift) of the tie down method of the bondbeam to the tyres (e.g. rebar stakes) and 
+   - [ ] Termite baiting systems?
+   - [ ] 
