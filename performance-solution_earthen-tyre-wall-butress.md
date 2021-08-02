@@ -15,7 +15,7 @@ The following Performance Solution is for presentation to your local council ins
 # Performance Based Design Brief
 
 ## Staholders
-  - [ ] Building owner representatives: 
+  - [ ] Building owner representatives: Clive Digney
   - [ ] Designer / architect: Dr Martin Freney
   - [ ] Structural engineer
   - [ ] Environmental/Ecological sustainability design specialist or engineer 
