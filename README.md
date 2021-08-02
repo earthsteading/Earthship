@@ -46,14 +46,11 @@ Your building surveyor will provide consultation/documentation prior to each sta
 Gaant chart of inspections/certifications:
 ![timeline](https://github.com/earthsteading/earthship/blob/6aa91d0350f3b0c7300f9c58c15da8eabef949ed/Gaant_v2.png "Gaant chart of build estimate timelines")
 
-### 0. [Pre-pre-build checklists](https://github.com/earthsteading/earthship/blob/9693f3290efba0b4db99ad9f5c4e8f284388ad5c/pre-pre-build.md) 
+### 0. Pre-pre-build checklists 
 Are you as the owner-builder going to live on-site during the minimum +9months of building (avg build +2 years)?
   - [ ] Hierarchy of needs: physiological, safety, belonging, esteem & self-actualisation
-  - [x] homeostasis: shelter, heating, cooling, etc.
-  - [x] water management: collection, filtration, sewage, etc.
-  - [x] energy: solar, batteries, capacity, etc.
-  - [x] internet: information, network, etc.
-  - [ ] [optional] tools and hardware
+  - [x] [construction site risk & tool training for volonteer builders](https://github.com/earthsteading/earthship/blob/master/earthship-whitecard-training.md)
+  - [ ] [optional] tools and hardware (if you are not having your build done by builders)
 
 ### I. Build preparation checklists
  Preperatory staging of construction area, construction materials/systems, utility service provisions and building materials.
