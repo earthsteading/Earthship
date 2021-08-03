@@ -48,9 +48,9 @@ Gaant chart of inspections/certifications:
 
 ### 0. Pre-pre-build checklists 
 Are you as the owner-builder going to live on-site during the minimum +9months of building (avg build +2 years)?
-  - [ ] Hierarchy of needs: physiological, safety, belonging, esteem & self-actualisation
+  - [ ] [Hierarchy of needs: physiological, safety, belonging, esteem & self-actualisation](https://github.com/earthsteading/earthship/blob/master/checklist_pre-pre-build.md)
   - [x] [construction site risk & tool training for volonteer builders](https://github.com/earthsteading/earthship/blob/master/earthship-whitecard-training.md)
-  - [ ] [optional] tools and hardware (if you are not having your build done by builders)
+  - [ ] start finding tradies and volonteer builders who can help achieve your build!  Don't forget to start buying tools if you are using volonteer builders.
 
 ### I. Build preparation checklists
  Preperatory staging of construction area, construction materials/systems, utility service provisions and building materials.
