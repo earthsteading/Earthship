@@ -1,20 +1,25 @@
 # Performance Solution for earthen-tyre walls
 
-The following Performance Solution is for presentation to your local council inspector and/or building surveyor to show that the foundation, footings and structural integrity of the rammed-earth-tyre wall out-performs the structural integrity and fire safety of tranditional timber-framed construction.
+The following Performance Solution is for presentation to your local council inspector and/or building surveyor to show that the foundation, footings and structural integrity of the rammed-earth-tyre wall out-performs the structural integrity of tranditional timber-framed construction.  The evidence presented in this _Performance Solution_ meets and exceeds the _Performance Requirements_ defined in the National Construction Code, Section B (Structure).
 
 ## Table of contents
- 1. Proposal summary: building type, function, size (height/floor space), location of the building
- 2. Description, explanation and assumptions for the proposed solution
- 3. Nominated applicable performance requirements as per the NCC (and state legislation)
- 4. Agreed analytical assessment process for each performance requirement 
- 5. Agreed acceptance criteria, e.g. comparative/absolute, qualitatitive/quantitative, deterministic/probabalistic, empirical calculations, in-situ/lab testing, computer aidied modelling/simulation.
- 6. Required scope of supporting evidence
- 7. Format and content of final report, including: (a) overview of the PBDB (as per above), (b) analysis methods used, (c) results from analysis, (d) conclusions
- 8. Acknowledgement of experts and participants
+ 1. _Performance Based Design Brief_: (a) stakeholders submitting evidence, (b) history of construction method and assumptions, (c) building type, function, size (height/floor space) and plausible location for earthen wall buildings suing this construction method.
+ 2. Nominated applicable _Performance Requirements_ as per the NCC (and state legislation).
+ 3. Agreed analytical assessment process for each agreed _Performance Requirement_ including agreed acceptance criteria, e.g. comparative/absolute, qualitatitive/quantitative, deterministic/probabalistic, empirical calculations, in-situ/lab testing, computer aidied modelling/simulation.
+ 4. Required scope of supporting evidence to achieve a _Performance Solution_.
+ 5. _Final report_, including: (a) overview of the PBDB (as per above), (b) analysis methods used, (c) results from analysis, (d) conclusions
+ 6. Acknowledgement of experts, participants and references.
+
+Terminology:
+  * NCC aka BCA - National Construction Code / Building Code of Australia
+  * TESE - Tyre-Encased-Soil Elements aka "Rammed Earth Tyres"
+  * PBDB - Performance Based Design Brief
+  * Performance Solution - 
+  * Performance Requirement - 
 
 # Performance Based Design Brief
 
-## Staholders
+## Stakeholders
   - [x] Building owner representatives: Clive Digney
   - [x] Designer / architect: [Dr Martin Freney]()
   - [x] Structural engineers: [Dr Reza Hassanli](https://orcid.org/0000-0001-5855-6405) & PhD Student 
@@ -41,10 +46,11 @@ Rammed earth disadvantages:
   - [ ] susceptable to erosion if not encased and protected from environments with excess water/wind; and
   - [ ] history of rammed earth buildings being associated with ad hoc indigenous cultures makes investment by bankers/insurance difficult.
 
-Performance Solution:
+Performance Solution criteria:
+  - [ ] performance requirement to solve...
 
 
-### Scope
+### Building Scope
 
 Building types: 
   * Class 1 - Residential
