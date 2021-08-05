@@ -15,16 +15,34 @@ The following Performance Solution is for presentation to your local council ins
 # Performance Based Design Brief
 
 ## Staholders
-  - [ ] Building owner representatives: Clive Digney
-  - [ ] Designer / architect: Dr Martin Freney
-  - [ ] Structural engineer
-  - [ ] Environmental/Ecological sustainability design specialist or engineer 
-  - [ ] Heating Ventialation and Cooling design specialist or engineer
-  - [ ] Earth wall trade pracitioneer
-  - [ ] Building Surveyor
-  - [ ] Health, environment, fire safety & civil infrastructure
+  - [x] Building owner representatives: Clive Digney
+  - [x] Designer / architect: [Dr Martin Freney]()
+  - [x] Structural engineers: [Dr Reza Hassanli](https://orcid.org/0000-0001-5855-6405) & PhD Student 
+  - [x] Supervising Engineering Research team: [Professor Yan Zhuge](https://orcid.org/0000-0003-1620-6743), [Associate Professor Md. Mizanur Rahman](https://orcid.org/0000-0002-0638-4055), [Dr Rajibul Karim](https://orcid.org/0000-0002-5318-3862)
+  - [ ] Environmental/ecological sustainability design specialist/engineer:
+  - [ ] Heating ventialation and cooling design specialist/engineer: 
+  - [ ] Fire safety engineer: 
+  - [ ] OH&S inspector: 
+  - [x] Earthen wall trade pracitioneer: Harrison Gardener (Master Builder and Formen, Earthship Academy)
+  - [ ] Civil works practitioneer: 
+  - [x] Building Surveyor: David F. Flanders
 
 ## Proposal summary
+History of rammed earthen wall construction for structurally habitable buildings:
+  * Evidence of rammed earth wall construction for habitable building walls has been archeologically documented in: (a) Mesopotamia Fertile Crescent, 7-9th century BCE (b) Yangshao & Longshan Yellow River settlement 5th century BCE, and (c) by the 2nd cetury BCE the use of rammed earth was documented by the Chinese Imperial court as it own construction practice "夯土 Hāng tǔ" meaning "rammed earth"  Subequently, every indigenous culture with settlement based dwellings has used rammed earth to achieve structural endurance.
+  * Widespread use of rammed earth to build large community settlements with multiple stories is documented in: (a) Bam Iran aka Arg-e Bam, Persian from 5th cetury BCE, (b) South American   ; and (c) when the Spanish conquistadors encountered Ancient Pueblan settlements in the 11th century, earthen dwellings were widespread with over 600 dwellings (single occupancy units) still standing in the Anasazi 
+  * 1925 US Department of Agriculture published a report for homesteading farmers showing evidence that "rammed earth structures endure indefinitely and can be constructed for less than two-thirds of the cost of standard frame houses".
+  * The Earthship building design and first schematic began in the 1970s in Taos New Mexico, via architect Michael Reynolds. Earthships have been built on every content, other than Antartica.
+  * Currently, there are approximatley 3 billion people living in earthen buildings worldwide.
+
+Rammed earth disadvantages: 
+  - [ ] soil granularity of construction materials varies widely;
+  - [ ] susceptable to cracking in earthquakes (if not laterally encased);
+  - [ ] susceptable to erosion if not encased and protected from environments with excess water/wind; and
+  - [ ] history of rammed earth buildings being associated with ad hoc indigenous cultures makes investment by bankers/insurance difficult.
+
+Performance Solution:
+
 
 ### Scope
 
@@ -70,7 +88,7 @@ The buttresses on Earth#1 were used for a number of reasons (structural, health/
 
 # Final Report
 
-The final report should clearly demonstrate that compliance with the NCC Performance Requirements agreed in the PBDB has been acheived. 
+The final report should clearly demonstrate that compliance with the NCC Performance Requirements agreed in the PBDB has been achived. 
   * An overview of the PBDB, including:
       * Scope of the project
       * Relevant stakeholders
