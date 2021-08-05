@@ -50,7 +50,7 @@ Performance Solution criteria:
   - [ ] performance requirement to solve...
 
 
-### Building Scope
+### Scope of rammed earth wall buildings
 
 Building types: 
   * Class 1 - Residential
@@ -84,7 +84,7 @@ Building types:
 
 NB Building Class 7, 8 & 9 were out of scope for this performance solution due to further tests required for fire safety.
 
-
+### Client brief
 
 The buttresses on Earth#1 were used for a number of reasons (structural, health/amenity, aesthetic and accessibility)
   * The buttress feature was started by an American engineer which required them for structural integrity to lengthen and increase the overall size of the building (ISO6707-1), thereby ensuring the structural integrity of the earth/tyre wall from Earthquakes and High Wind Regions (N3+). Subsequent engineers have determined that these buttresses are not required for areas in Australia with wind and/or Earthquake area.  Nonetheless, the buttresses provide 'peace of mind' for those who might experience hurricane force winds on the coast or in alpire regions. See attached engineers report.  Most importantly, the Performancee Solution provided by the buttresse(s) enable earthen tyre walls to be expanded to the legal maximum size of a building in Australia.
