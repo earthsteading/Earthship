@@ -5,11 +5,11 @@
 The following Performance Solution is for presentation to your local council inspector and/or building surveyor to show that the foundation, footings and structural integrity of the rammed-earth-tyre wall out-performs the structural integrity of tranditional timber-framed construction.  The evidence presented in this _Performance Solution_ meets and exceeds the _Performance Requirements_ defined in the National Construction Code, Section B (Structure).
 
 ## Table of contents
- 1. _Performance Based Design Brief_: (a) stakeholders submitting evidence, (b) history of construction method and assumptions, (c) building type, function, size (height/floor space) and plausible location for earthen wall buildings suing this construction method.
+ 1. _Performance Based Design Brief_: (a) stakeholders submitting evidence, (b) history of construction method and assumptions, (c) building type, function, size (height/floor space) and plausible location for earthen wall buildings using this construction method.
  2. Nominated applicable _Performance Requirements_ as per the NCC (and state legislation).
  3. Agreed analytical assessment process for each agreed _Performance Requirement_ including agreed acceptance criteria, e.g. comparative/absolute, qualitatitive/quantitative, deterministic/probabalistic, empirical calculations, in-situ/lab testing, computer aidied modelling/simulation.
  4. Required scope of supporting evidence to achieve a _Performance Solution_.
- 5. _Final report_, including: (a) overview of the PBDB (as per above), (b) analysis methods used, (c) results from analysis, (d) conclusions
+ 5. _Final report_, including: (a) overview of the PBDB (as per above), (b) 'performance requirement' analysis methods used, (c) results from analysis, (d) conclusions
  6. Acknowledgement of experts, participants and references.
 
 Terminology:
@@ -37,20 +37,24 @@ Terminology:
 ## Proposal summary
 History of rammed earthen wall construction for structurally habitable buildings:
   * Evidence of rammed earth wall construction for habitable building walls has been archeologically documented in: (a) Mesopotamia Fertile Crescent, 7-9th century BCE (b) Yangshao & Longshan Yellow River settlement 5th century BCE, and (c) by the 2nd cetury BCE the use of rammed earth was documented by the Chinese Imperial court as it own construction practice "夯土 Hāng tǔ" meaning "rammed earth"  Subequently, every indigenous culture with settlement based dwellings has used rammed earth to achieve structural endurance.
-  * Widespread use of rammed earth to build large community settlements with multiple stories is documented in: (a) Bam Iran aka Arg-e Bam, Persian from 5th cetury BCE, (b) South American   ; and (c) when the Spanish conquistadors encountered Ancient Pueblan settlements in the 11th century, earthen dwellings were widespread with over 600 dwellings (single occupancy units) still standing in the Anasazi 
+  * Widespread use of rammed earth to build large community settlements with multiple stories is documented in: (a) Bam Iran aka Arg-e Bam, Persian from 5th cetury BCE, (b)  Pueblo Bonito in Chaco Canyon, built by the Indigenous Ancestral Puebloans in 3rd century BCE; and (c) when the Spanish conquistadors encountered Native American settlements in the 11th century, rammed earthen dwellings were widespread with over 600 dwellings (single occupancy units) which are still standing in the Anasazi cliff top of the Four Corners area, Colorado (USA).
   * 1925 US Department of Agriculture published a report for homesteading farmers showing evidence that "rammed earth structures endure indefinitely and can be constructed for less than two-thirds of the cost of standard frame houses".
   * The Earthship building design and first schematic began in the 1970s in Taos New Mexico, via architect Michael Reynolds. Earthships have been built on every content, other than Antartica.
-  * Currently, there are approximatley 3 billion people living in earthen buildings worldwide.
+  * Currently, there are approximatley 3 billion people living in earthen buildings worldwide who could benefit from the structural integrity which rammed earth tyres provide.
 
 Rammed earth disadvantages: 
   - [ ] soil granularity of construction materials varies widely;
   - [ ] susceptable to cracking in earthquakes (if not laterally encased);
-  - [ ] susceptable to erosion if not encased and protected from environments with excess water/wind; and
-  - [ ] history of rammed earth buildings being associated with ad hoc indigenous cultures makes investment by bankers/insurance difficult.
+  - [ ] susceptable to erosion (if not encased and protected from environments with excess water/wind); and
+  - [ ] history of rammed earth buildings being associated with ad hoc indigenous cultures makes investment by bankers/insurance institutions difficult.
 
 Performance Solution criteria:
   - [ ] performance requirement to solve...
-
+  - [ ] uniformity of rammed earth tyres as a consisten building material which is widely available and reproducible.
+  - [ ] axial and lateral loads, e.g. side impact/collapse of tyre wall.
+  - [ ] horizontal loads, e.g. external load-bearing wall compliant with ANZ/AS _________
+  - [ ] expansion of load bearing external wall utilising butresses and/or lateral support for multiple storeys.
+  - [ ] ???
 
 ### Scope of rammed earth wall buildings
 
@@ -58,7 +62,7 @@ Building types:
   * Class 1 - Residential
     * Function: detached house, townhouse, boarding house, guest house): 
     * Size: up to three storey, less than 300m2 and less than 12 simultaneous occupant use.
-    * Location: soil types, wind rating, alpine/cyclone... what else?
+    * Location: [soil types, wind rating, alpine/cyclone... what else?] (TBC)
   * Class 2 - Residential
     * Function: apartment with single occupancy units (SOUs)
     * Size:
@@ -84,7 +88,7 @@ Building types:
     * Size:
     * Location:
 
-NB Building Class 7, 8 & 9 were out of scope for this performance solution due to further tests required for fire safety.
+NB Building Class 7, 8 & 9 were out of scope for this performance solution due to further tests required for fire safety compliance as a fire wall 120/120/120.
 
 ### Client brief
 
