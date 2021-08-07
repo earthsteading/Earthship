@@ -14,10 +14,10 @@ The following Performance Solution is for presentation to your local council ins
 
 Terminology:
   * NCC aka BCA - National Construction Code / Building Code of Australia
-  * TESE - Tyre-Encased-Soil Elements aka "Rammed Earth Tyres"
-  * PBDB - Performance Based Design Brief
-  * Performance Solution - 
-  * Performance Requirement - 
+  * TESE - Tyre-Encased-Soil Elements aka "Rammed Earth Tyres' which are engineereed to perform as building blocks in a load-bearing external wall.
+  * PBDB - a 'Performance Based Design Brief' is a collaborative process whereby stakeholders agree crtieria (aka performance requirements) for expert evaluation of an engineered 'performance solution'.
+  * Performance Solution - is a set of 'Performance Requirements' which are agreed by a group of stakeholders to measure the safety of a proposed 'performance solution'.
+  * Performance Requirement(s) - are the measures by which an agreed set of expert stakeholders agrees and evaluates to assure a 'performance solution' meets the requirements setout by the NCC for recognition as a 'performance solution'.
 
 # Performance Based Design Brief
 
