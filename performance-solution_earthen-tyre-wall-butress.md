@@ -22,7 +22,7 @@ Terminology:
 # Performance Based Design Brief
 
 ## Stakeholders
-  - [x] Building owner representatives: Clive Digney
+  - [x] Building owner representatives: Clive Digney (WA), Evie Verdini Fensom (SA)  & Dr Tristan Kennedy (SA).
   - [x] Designer / architect: [Dr Martin Freney]()
   - [x] Structural engineers: PhD Candidate Yachong Xu (Simon) & Supervisor [Dr Reza Hassanli](https://orcid.org/0000-0001-5855-6405)
   - [x] Supervising Engineering Research team: [Professor Yan Zhuge](https://orcid.org/0000-0003-1620-6743), [Associate Professor Md. Mizanur Rahman](https://orcid.org/0000-0002-0638-4055), [Dr Rajibul Karim](https://orcid.org/0000-0002-5318-3862)
