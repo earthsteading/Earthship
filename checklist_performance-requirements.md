@@ -24,4 +24,9 @@ Below you will find Performance Solutions which you can use for your Earthship b
    - [ ] Bondbeam: concrete vs timber structural integrity and attachment of roof in high wind areas.
          - [ ] the pull out forces (wind uplift) of the tie down method of the bondbeam to the tyres (e.g. rebar stakes) and 
    - [ ] Termite baiting systems?
-   - [ ] 
+   - [ ] TBC
+
+# Reference resources:
+  * https://www.abcb.gov.au/news/2021/ncc-provision-developing-performance-solutions
+  * https://www.abcb.gov.au/sites/default/files/resources/2021/Handbook_Performance_Solution_Process.pdf
+  * https://www.consultaustralia.com.au/docs/default-source/practice/infographic---performance-solution-process-document1_acc.pdf
