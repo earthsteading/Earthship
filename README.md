@@ -52,7 +52,7 @@ Are you as the owner-builder going to live on-site during the minimum +9months o
   - [x] [construction site risk & tool training for volonteer builders](https://github.com/earthsteading/earthship/blob/master/earthship-whitecard-training.md)
   - [ ] start finding tradies and volonteer builders who can help achieve your build!  Don't forget to start buying tools if you are using volonteer builders.
 
-[Once you have achieved the above checklists then you are ready to have your building surveyor inpset your final architectrual drawing schematics and then apply for your building permits with the local council](https://github.com/earthsteading/earthship/blob/master/inspector-checklist_check-architectural-schematic.md).
+[Once you have achieved the above checklists then you are ready to have your building surveyor inspect your final architectural drawing schematics](https://github.com/earthsteading/earthship/blob/master/inspector-checklist_check-architectural-schematic.md).
 
 ### I. Build preparation checklists
  Preperatory staging of construction area, construction materials/systems, utility service provisions and building materials.
