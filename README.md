@@ -52,6 +52,8 @@ Are you as the owner-builder going to live on-site during the minimum +9months o
   - [x] [construction site risk & tool training for volonteer builders](https://github.com/earthsteading/earthship/blob/master/earthship-whitecard-training.md)
   - [ ] start finding tradies and volonteer builders who can help achieve your build!  Don't forget to start buying tools if you are using volonteer builders.
 
+[Once you have achieved the above checklists then you are ready to have your building surveyor inpset your final architectrual drawing schematics and then apply for your building permits with the local council](https://github.com/earthsteading/earthship/blob/master/inspector-checklist_check-architectural-schematic.md).
+
 ### I. Build preparation checklists
  Preperatory staging of construction area, construction materials/systems, utility service provisions and building materials.
    - [X] [Site investigation and preparation](https://github.com/earthsteading/earthship/blob/master/checklist_build-preparation.md)
@@ -68,7 +70,7 @@ Are you as the owner-builder going to live on-site during the minimum +9months o
    - [X] [List of required certifications]()
    - [X] [Geographical location varations]()
 
-[Once you have achieved the above checklists then you are ready for your building surveyor to inspect the schematics and paperwork prior to the building permit being issued](https://github.com/earthsteading/earthship/blob/master/inspector-checklist-pre-foundation-stage.md).
+[Once you have achieved the above checklists then you are ready for your building surveyor to inspect the schematics and paperwork prior to the building permit being issued](https://github.com/earthsteading/earthship/blob/master/inspector-checklist_pre-foundation-stage.md).
 
 ### II. Building foundations and footings checklists
  Surveyor site visit 1: footprint, foundations, footings and framework (_before a footing is placed_ / after the site has been preparred, levelled, tested, etc.)
