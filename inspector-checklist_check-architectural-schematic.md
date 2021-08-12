@@ -1,33 +1,24 @@
 # Inspector checklist of architectural schematic compliance
 
 Prior to your building surveyor applying for your build permits with the local council the following checks must be verified:
-  - [x] Client-owner information and contract
+  - [x] Client-owner information and contract signed
+  - [x] Legal documents and certification checks
   - [x] Government property information and overlays
   - [x] Local council residential requirements
-  - [x] Legal documents and certification checks
   - [x] Civil works foundation and footing for slab/floor checks
   - [x] Architectural design schematic checks
 
 ## Below are lists of checks which your building surveyor will verify with the owner, builer and designer.
 
 Client-owner information:
-  - [ ] Owner details: name, email, phone, postal, profession, 
-  - [ ] Property history
+  - [ ] Owner details: name, email, phone, postal, profession, dependents.
+  - [ ] Property history & future legacy
   - [ ] Building purpose and occupant use
   - [ ] Expectations: cost and length of build?
-  - [ ] owner/builder insurance or nomiated builder insurance? 
-  - [ ] names and contact details of build team
-  - [ ] permission to engage with builders and designers autonoumously 
-  - [ ] signature to retain client/build information for 10 years
-
-Government property & overlay information:
-  - [ ] sitting maters (overlays, covenents, part 5 Build Regs VBA)
-  - [ ] planning permit endorsed plans
-  - [ ] planning permit conditions
-  - [ ] bushfire attack level 
-  - [ ] septic sewer approval
-  - [ ] infrastructure levy (VBA practice note 54)
-  - [ ] developers approval
+  - [ ] Owner/builder insurance or nomiated builder insurance
+  - [ ] Names and contact details of build team
+  - [ ] Permission to engage with builders and designers autonoumously 
+  - [ ] Signature to retain client/build information for 10 years
 
 Legal documents and certifications:
   - [ ] Overlays (bushfire, heritage, indigenous, etc)
@@ -60,7 +51,16 @@ Legal documents and certifications:
   - [ ] 173 agreements (pre-contract developer requirements)
   - [ ] Building envelope
 
-Residential preliminary checks:
+Government property & overlay information:
+  - [ ] Sitting maters (overlays, covenents, part 5 Build Regs VBA)
+  - [ ] Planning permit endorsed plans
+  - [ ] Planning permit conditions
+  - [ ] Bushfire attack level 
+  - [ ] Septic sewer approval
+  - [ ] Infrastructure levy (VBA practice note 54)
+  - [ ] Developers approval
+
+Residential (local council) preliminary checks:
   - [ ] building height / stories
   - [ ] street setback
   - [ ] siting coverage
@@ -80,7 +80,7 @@ Residential preliminary checks:
   - [ ] garden space required
   - [ ] verandahs / pagodas / etc
 
-Footing or slab preliminary checks:
+Civil works foundation & footing for slab/floor preliminary checks:
   - [ ] soil classification
   - [ ] slab dimensions matches floor plans
   - [ ] dpeth as per soil report
@@ -90,7 +90,7 @@ Footing or slab preliminary checks:
   - [ ] penetration locations
   - [ ] vapour barrier
 
-Architectural schematic prelimary checks
+Architectural schematic prelimary checks:
   - [ ] correct address / geo marker
   - [ ] site plan / floor plan
   - [ ] all existing buildings show on site
