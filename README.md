@@ -68,6 +68,8 @@ Are you as the owner-builder going to live on-site during the minimum +9months o
    - [X] [List of required certifications]()
    - [X] [Geographical location varations]()
 
+[Once you have achieved the above checklists then you are ready for your building surveyor to inspect the schematics and paperwork prior to the building permit being issued](https://github.com/earthsteading/earthship/blob/master/inspector-checklist-pre-foundation-stage.md).
+
 ### II. Building foundations and footings checklists
  Surveyor site visit 1: footprint, foundations, footings and framework (_before a footing is placed_ / after the site has been preparred, levelled, tested, etc.)
  - [x] [checklists]() 
