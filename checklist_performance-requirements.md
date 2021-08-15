@@ -2,7 +2,7 @@
 
 There are several aspects of the Earthship build which will be questioned by Building Inspectors/Surveyors because they have not encountered the building methods before.  To *de-indemnify* the surveyor, you will need to provide evidence in the form of a "Performance Based Solution" (as defined by the National Construction Code).
 
-*What is a Performance Solution?* -  The NCC allows for two methods to validate that a building has been built correctly: (a) a 'Deemed to Satisfy' solutions, and (b) a Performance Solution.  A deemed-to-satisfy solution is for age-old building methods (like timber framing), which is widely practiced and can be easily copied+pasted by the builder.  Performance Solutions are used when there are features of a building which are not as widely used, but can be shown to perform as well as (if not better) than the average deemed-to-satisfy building.
+*What is a Performance Solution?* -  The NCC allows for two methods to validate that a building has been built correctly: (a) a 'Deemed to Satisfy' solutions, and/or (b) a Performance Solution.  A deemed-to-satisfy solution is for age-old building methods (like timber framing), which is widely practiced and can be easily replicated by the builder.  Performance Solutions are used when there are features of a building which are not as widely used, but can be shown to perform as well as (if not better) than the average deemed-to-satisfy building.
 
 Naturally, the earthship design (despite being used by thousands of homes around the world since it's origins in the 1970s) requires additional evidence to prove that it is a valid solution which can perform just as well as modern day timber framed buildings.  
 
