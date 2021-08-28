@@ -37,13 +37,14 @@ Terminology:
 ## Proposal summary
 History of rammed earthen wall construction for structurally habitable buildings:
   * Evidence of rammed earth wall construction for habitable building walls has been archeologically documented in: (a) Mesopotamia Fertile Crescent, 7-9th century BCE (b) Yangshao & Longshan Yellow River settlement 5th century BCE, and (c) by the 2nd cetury BCE the use of rammed earth was documented by the Chinese Imperial court as it own construction practice "夯土 Hāng tǔ" meaning "rammed earth"  Subequently, every indigenous culture with settlement based dwellings has used rammed earth to achieve structural endurance.
-  * Widespread use of rammed earth to build large community settlements with multiple stories is documented in: (a) Bam Iran aka Arg-e Bam, Persian from 5th cetury BCE, (b)  Pueblo Bonito in Chaco Canyon, built by the Indigenous Ancestral Puebloans in 3rd century BCE; and (c) when the Spanish conquistadors encountered Native American settlements in the 11th century, rammed earthen dwellings were widespread with over 600 dwellings (single occupancy units) which are still standing in the Anasazi cliff top of the Four Corners area, Colorado (USA).
+  * Widespread use of rammed earth to build large community settlements with multiple stories is documented in: (a) Bam Iran aka Arg-e Bam, Persian from 5th cetury BCE, (b)  Pueblo Bonito in Chaco Canyon, built by the Indigenous Ancestral Puebloans in 3rd century BCE; and (c) when the Spanish conquistadors encountered Native American settlements in the 11th century, rammed earthen dwellings were widespread with over 600 dwellings (single occupancy units) which are still standing in the Anasazi cliff top of the Four Corners area, Colorado (USA); and (d) France (based on Roman occupation and construction) widely uses "pisé walls" (from the Latin origin "pisé de terre"). First documented and used in Lyons France 1562. 
   * 1925 US Department of Agriculture published a report for homesteading farmers showing evidence that "rammed earth structures endure indefinitely and can be constructed for less than two-thirds of the cost of standard frame houses".
-  * The Earthship building design and first schematic began in the 1970s in Taos New Mexico, via architect Michael Reynolds. Earthships have been built on every content, other than Antartica.
+  * The Earthship building design pioneered the use of tyres for earth rammed bricks: the first schematic in the 1970s Taos New Mexico by architect Michael Reynolds. Earthships have been built on every content, other than Antartica.
   * Currently, there are approximatley 3 billion people living in earthen buildings worldwide who could benefit from the structural integrity which rammed earth tyres provide.
+  * In 2020 Tyre Stewardship Australia invested $100k to have rammed earth tyre walls tested by the University of South Australia, in response to the excessive stockpile of tyres avaialbe as recycled building material.
 
 Rammed earth disadvantages: 
-  - [ ] soil granularity of construction materials varies widely;
+  - [ ] soil granularity of internal construction materials varies widely;
   - [ ] susceptable to cracking in earthquakes (if not laterally encased);
   - [ ] susceptable to erosion (if not encased and protected from environments with excess water/wind); and
   - [ ] history of rammed earth buildings being associated with ad hoc indigenous cultures makes investment by bankers/insurance institutions difficult.
