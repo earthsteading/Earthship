@@ -27,7 +27,7 @@ Terminology:
   - [x] Structural engineers: PhD Candidate Yachong Xu (Simon) & Supervisor [Dr Reza Hassanli](https://orcid.org/0000-0001-5855-6405)
   - [x] Supervising Engineering Research team: [Professor Yan Zhuge](https://orcid.org/0000-0003-1620-6743), [Associate Professor Md. Mizanur Rahman](https://orcid.org/0000-0002-0638-4055), [Dr Rajibul Karim](https://orcid.org/0000-0002-5318-3862)
   - [ ] Environmental/ecological sustainability design specialist/engineer:
-  - [ ] Heating ventialation and cooling design specialist/engineer: 
+  - [ ] Heating ventilation and cooling design specialist/engineer: 
   - [ ] Fire safety engineer: 
   - [ ] OH&S inspector: 
   - [x] Earthen wall trade pracitioneer: Harrison Gardener (Master Builder and Formen, Earthship Academy)
@@ -124,3 +124,7 @@ The final report should clearly demonstrate that compliance with the NCC Perform
       * All limitations to the design and any conditions of use
 
 The above template for this report was provided via: https://www.abcb.gov.au/news/2021/ncc-provision-developing-performance-solutions
+
+# References
+  - https://www.yourhome.gov.au/materials/rammed-earth
+  - 
