@@ -1,6 +1,6 @@
 <meta name="robots" content="noindex">
 
-# Performance Solution for earthen-tyre walls
+# Performance Solution for earth rammed tyre walls
 
 The following Performance Solution is for presentation to your local council inspector and/or building surveyor to show that the foundation, footings and structural integrity of the rammed-earth-tyre wall out-performs the structural integrity of tranditional timber-framed construction.  The evidence presented in this _Performance Solution_ meets and exceeds the _Performance Requirements_ defined in the National Construction Code, Section B (Structure).
 
@@ -12,13 +12,16 @@ The following Performance Solution is for presentation to your local council ins
  5. _Final report_, including: (a) overview of the PBDB (as per above), (b) 'performance requirement' analysis methods used, (c) results from analysis, (d) conclusions
  6. Acknowledgement of experts, participants and references.
 
-Terminology:
+### Terminology:
   * ABCB = Australian Building Code Board, who are commisioned via by the Government as a standards body responsible for the NCC/BCA, Code Mark & WaterMark certification schemes.
   * NCC aka BCA - National Construction Code / Building Code of Australia
   * TESE - Tyre-Encased-Soil Elements aka "Rammed Earth Tyres' which are engineereed to perform as building blocks in a load-bearing external wall.
   * PBDB - a 'Performance Based Design Brief' is a collaborative process whereby stakeholders agree crtieria (aka performance requirements) for expert evaluation of an engineered 'performance solution'.
   * Performance Solution - is a set of 'Performance Requirements' which are agreed by a group of stakeholders to measure the safety of a proposed 'performance solution'.
   * Performance Requirement(s) - are the measures by which an agreed set of expert stakeholders agrees and evaluates to assure a 'performance solution' meets the requirements setout by the NCC for recognition as a 'performance solution'.
+  * Expert Judgement - the judgement of an expert who has the qualifications and experience to determine whether a Performance Solution or Deemed-to-Satisfy Solution complies with the Performance Requirements.  
+  * φ  = load capacity reduction faction, e.g. the lognormal distribution reliability index (structural actions, resistance and responses), sequivalence to ISO2394 . NB These are represented as random variables in probalistic modelling.
+
 
 # Performance Based Design Brief
 
@@ -41,9 +44,9 @@ History of rammed earthen wall construction for structurally habitable buildings
   * Evidence of rammed earth wall construction for habitable building walls has been archeologically documented in: (a) Mesopotamia Fertile Crescent, 7-9th century BCE (b) Yangshao & Longshan Yellow River settlement 5th century BCE, and (c) by the 2nd cetury BCE the use of rammed earth was documented by the Chinese Imperial court as it own construction practice "夯土 Hāng tǔ" meaning "rammed earth"  Subequently, every indigenous culture with settlement based dwellings has used rammed earth to achieve structural endurance.
   * Widespread use of rammed earth to build large community settlements with multiple stories is documented in: (a) Bam Iran aka Arg-e Bam, Persian from 5th cetury BCE, (b)  Pueblo Bonito in Chaco Canyon, built by the Indigenous Ancestral Puebloans in 3rd century BCE; and (c) when the Spanish conquistadors encountered Native American settlements in the 11th century, rammed earthen dwellings were widespread with over 600 dwellings (single occupancy units) which are still standing in the Anasazi cliff top of the Four Corners area, Colorado (USA); and (d) France (based on Roman occupation and construction) widely uses "pisé walls" (from the Latin origin "pisé de terre"). First documented and used in Lyons France 1562. 
   * 1925 US Department of Agriculture published a report for homesteading farmers showing evidence that "rammed earth structures endure indefinitely and can be constructed for less than two-thirds of the cost of standard frame houses".
-  * The Earthship building design pioneered the use of tyres for earth rammed bricks: the first schematic in the 1970s Taos New Mexico by architect Michael Reynolds. Earthships have been built on every content, other than Antartica.
-  * Currently, there are approximatley 3 billion people living in earthen buildings worldwide who could benefit from the structural integrity which rammed earth tyres provide.
-  * In 2020 Tyre Stewardship Australia invested $100k to have rammed earth tyre walls tested by the University of South Australia, in response to the excessive stockpile of tyres avaialbe as recycled building material.
+  * The Earthship building design pioneered the use of tyres for earth rammed structures: the first schematic in the 1970s Taos New Mexico by architect Michael Reynolds. Earthship rammed earth walls have been built on every content, other than Antartica.
+  * Currently, there are approximatley 3 billion people living in earthen buildings worldwide who could benefit from the structural integrity which rammed earth tyres provide over earthen structures which are _not_ laterally encased with tyres.
+  * In 2020 Tyre Stewardship Australia invested $100k to have rammed earth tyre walls tested by the University of South Australia, in response to the excessive stockpile of tyres avaialable as recycled building material.
 
 Rammed earth disadvantages: 
   - [ ] soil granularity of internal construction materials varies widely;
@@ -114,6 +117,7 @@ The final report should clearly demonstrate that compliance with the NCC Perform
   * Overview and outline of the analysis, modelling and/or testing carried out:
       * Method of analysis used
       * Calculations and outcomes
+      * Limitations of NCC performance solutions: structural componets and connections are not calculated.
       * The sensitivities, redundancies and uncertainty studies carried out
       * The results obtained and relevance to the PBDB
   * Evaluation of results including:
