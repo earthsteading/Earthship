@@ -13,6 +13,7 @@ The following Performance Solution is for presentation to your local council ins
  6. Acknowledgement of experts, participants and references.
 
 Terminology:
+  * ABCB = Australian Building Code Board, who are commisioned via by the Government as a standards body responsible for the NCC/BCA, Code Mark & WaterMark certification schemes.
   * NCC aka BCA - National Construction Code / Building Code of Australia
   * TESE - Tyre-Encased-Soil Elements aka "Rammed Earth Tyres' which are engineereed to perform as building blocks in a load-bearing external wall.
   * PBDB - a 'Performance Based Design Brief' is a collaborative process whereby stakeholders agree crtieria (aka performance requirements) for expert evaluation of an engineered 'performance solution'.
@@ -22,6 +23,7 @@ Terminology:
 # Performance Based Design Brief
 
 ## Stakeholders
+"A performance solution may be aided by the early and significant involvement from regulatory authorities, peer reviewer(s) and / or a technical panel"(ABCB):
   - [x] Building owner representatives: Clive Digney (WA), Evie Verdini Fensom (SA)  & Dr Tristan Kennedy (SA).
   - [x] Designer / architect: [Dr Martin Freney]()
   - [x] Structural engineers: PhD Candidate Yachong Xu (Simon) & Supervisor [Dr Reza Hassanli](https://orcid.org/0000-0001-5855-6405)
