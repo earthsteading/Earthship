@@ -7,7 +7,7 @@ The following Performance Solution is for presentation to your local council ins
 ## Table of contents
  1. _Performance Based Design Brief_: (a) stakeholders submitting evidence, (b) history of construction method and assumptions, (c) building type, function, size (height/floor space) and plausible location for earthen wall buildings using this construction method.
  2. Nominated applicable _Performance Requirements_ as per the NCC (and state legislation).
- 3. Agreed analytical assessment process for each agreed _Performance Requirement_ including agreed acceptance criteria, e.g. comparative/absolute, qualitatitive/quantitative, deterministic/probabalistic, empirical calculations, in-situ/lab testing, computer aidied modelling/simulation.
+ 3. Agreed analytical assessment process for each agreed _Performance Requirement_ including agreed acceptance criteria, e.g. evidence of suitability, verification method, expert judgement, comparison to 'deemed to satisfy'. Testing methods could include: comparative/absolute, qualitatitive/quantitative, deterministic/probabalistic, empirical calculations, in-situ/lab testing, computer aidied modelling/simulation.
  4. Required scope of supporting evidence to achieve a _Performance Solution_.
  5. _Final report_, including: (a) overview of the PBDB (as per above), (b) 'performance requirement' analysis methods used, (c) results from analysis, (d) conclusions
  6. Acknowledgement of experts, participants and references.
@@ -127,4 +127,5 @@ The above template for this report was provided via: https://www.abcb.gov.au/new
 
 # References
   - https://www.yourhome.gov.au/materials/rammed-earth
+  - https://www.vba.vic.gov.au/__data/assets/pdf_file/0003/134355/Guide-to-Standards-and-Tolerances-2015.pdf
   - 
