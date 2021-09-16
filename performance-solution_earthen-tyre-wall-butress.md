@@ -135,4 +135,4 @@ The above template for this report was provided via: https://www.abcb.gov.au/new
   - https://www.yourhome.gov.au/materials/rammed-earth
   - https://www.vba.vic.gov.au/__data/assets/pdf_file/0003/134355/Guide-to-Standards-and-Tolerances-2015.pdf
   - ABCB's Handbook on Structural Reliability Verificaiton Methods: https://www.abcb.gov.au/sites/default/files/resources/2020//Handbook_Structural_Reliability.pdf
-  - ABCB's Handbook on Structural Robustness: https://ncc.abcb.gov.au/sites/default/files/resources/2020//Handbook-Structural-Robustness.pdf
+  - ABCB's Handbook on Structural Robustness: https://ncc.abcb.gov.au/sites/default/files/resources/2020//Handbook-Structural-Robustness.pdf 
