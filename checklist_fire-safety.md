@@ -40,3 +40,7 @@ It is assumed that most off-grid buildings in Australia should be built against 
   - [ ] stove/oven
   - [ ] fireplace
   - [ ] hydronic heating (floor / wall)
+
+# Resources
+
+ - Fire retardant plants (Tasmania): https://www.fire.tas.gov.au/publications/1709%20Brochure.pdf
