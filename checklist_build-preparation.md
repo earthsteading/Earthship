@@ -107,5 +107,5 @@ If sand do this footing.... if clay do this footing...
  - [Greywater - recylcing water at home](https://www.betterhealth.vic.gov.au/health/healthyliving/greywater-recycling-water-at-home)
  - [South Australian Government Guide on grey/black 'waste' water systems](https://drive.google.com/file/d/1R6INARLe7DapwSdJkcEYsiQI3diEDfDs/view?usp=sharing)
  - [Use of sandfilters on different foundation/soil types](https://drive.google.com/file/d/1yPqPj_6fUMKBuTFsugwFq-3hQGaHFsua/view?usp=sharing)
- - [WA Gov't guide on septic systems](https://www.healthywa.wa.gov.au/Articles/U_Z/Understanding-Septic-Tank-Systems)
+ - [WA Gov't health guide on septic systems](https://www.healthywa.wa.gov.au/Articles/U_Z/Understanding-Septic-Tank-Systems)
  - [New and emerging systems like wormfarms](https://www.wormfarm.com.au/domestic-septic-systems/)
