@@ -14,7 +14,7 @@ Objectives:
  * Generic building designs for a "Biotecture Earthships (TM)" from the USA can be purchased via the [Earthship App on Android](https://play.google.com/store/apps/details?id=hr.apps.n207007048) <-- however, please be aware these designs are not suitable for council approved buildings in Australia.  If you would like to adapt an Earthship design please contact [Dr Martin Freney (South Australia) for purchasing his certified design services](https://www.earthshipecohomes.com.au/contact.html)
  * Disclaimer: this building code repository was created by [@Earthsteading Building Surveying and Civic Construction]() as part of coursework for the Advanced Diploma in Building Surveying at Federation University (2020). Hire a building surveyor with indemnity insurance, or _use these instructions at your own risk_.
  * Suggest a change: please submit a [bug/issue request](https://github.com/earthsteading/earthship/issues), and/or submit a 'pull request' for state-specific (legislative/environmental) changes.
- * Hire a specialist off-grid building surveyor (approximate cost: 1% of entire build, e.g. for a $350K build, a building surveyor will accompany you throughout your journey for ~$3500).
+ * Hire a specialist off-grid building surveyor (approximate cost: 1% of entire insurable build, e.g. for a $350K build, a building surveyor will accompany you throughout your journey from building permit to occupancy certificate for ~$3500).
 
 ## Actors:
 
