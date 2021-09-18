@@ -51,6 +51,7 @@ Are you as the owner-builder going to live on-site during the minimum +9months o
   - [ ] [Hierarchy of needs: physiological, safety, belonging, esteem & self-actualisation](https://github.com/earthsteading/earthship/blob/master/checklist_pre-pre-build.md)
   - [x] [construction site risk & tool training for volonteer builders](https://github.com/earthsteading/earthship/blob/master/earthship-whitecard-training.md)
   - [ ] start finding tradies and volonteer builders who can help achieve your build!  Don't forget to start buying tools if you are using volonteer builders.
+  - [ ] Civil works: if you are off-grid you will need to assure your civil infrastructure like roads & bridges for commercial delivery trucks and excavation of your site (for foundations, retaining walls, footings, water, effluence and landscaping) are ready to go.  [Earthsteading provides civil infrastructure operations services and inspection, read more via this repository](https://github.com/earthsteading/civil-infrastructure).
 
 [Once you have achieved the above checklists then you are ready to have your building surveyor inspect your final architectural drawing schematics](https://github.com/earthsteading/earthship/blob/master/inspector-checklist_check-architectural-schematic.md).
 
