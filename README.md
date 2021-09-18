@@ -35,12 +35,13 @@ How to use this repository of building code checklists:
 
 # Stages of build 
 Your building surveyor will provide consultation/documentation prior to each stage of your build:
-  - [ ] land purchased and surveyed
+  - [x] land purchased and surveyed
+  - [x] building permit
   - [x] foundations and footings
   - [x] in-house utilities
   - [x] enclosure of building
   - [x] fixings and features
-  - [ ] occupancy certificate!
+  - [x] occupancy certificate!
 
 ## Timeline
 Gaant chart of inspections/certifications:
@@ -49,57 +50,57 @@ Gaant chart of inspections/certifications:
 ### 0. Pre-pre-build checklists 
 Are you as the owner-builder going to live on-site during the minimum +9months of building (avg build +2 years)?
   - [ ] [Hierarchy of needs: physiological, safety, belonging, esteem & self-actualisation](https://github.com/earthsteading/earthship/blob/master/checklist_pre-pre-build.md)
-  - [x] [construction site risk & tool training for volonteer builders](https://github.com/earthsteading/earthship/blob/master/earthship-whitecard-training.md)
   - [ ] start finding tradies and volonteer builders who can help achieve your build!  Don't forget to start buying tools if you are using volonteer builders.
-  - [ ] Civil works: if you are off-grid you will need to assure your civil infrastructure like roads & bridges for commercial delivery trucks and excavation of your site (for foundations, retaining walls, footings, water, effluence and landscaping) are ready to go.  [Earthsteading provides civil infrastructure operations services and inspection, read more via this repository](https://github.com/earthsteading/civil-infrastructure).
+  - [x] [construction site risk & tool training for volonteer builders](https://github.com/earthsteading/earthship/blob/master/earthship-whitecard-training.md)
+  - [x] Civil works: if you are off-grid you will need to assure your civil infrastructure like roads & bridges for commercial delivery trucks and excavation of your site (for foundations, retaining walls, footings, water, effluence and landscaping) are ready to go.  [Earthsteading provides civil infrastructure operations services and inspection, read more via this repository](https://github.com/earthsteading/civil-infrastructure).
 
 [Once you have achieved the above checklists then you are ready to have your building surveyor inspect your final architectural drawing schematics](https://github.com/earthsteading/earthship/blob/master/inspector-checklist_check-architectural-schematic.md).
 
 ### I. Build preparation checklists
  Preperatory staging of construction area, construction materials/systems, utility service provisions and building materials.
-   - [X] [Site investigation and preparation](https://github.com/earthsteading/earthship/blob/master/checklist_build-preparation.md)
-   - [X] [Structural & supporting systems](https://github.com/earthsteading/earthship/blob/master/checklist_structural-supporting-systems.md)
-   - [X] [Enclosing systems](https://github.com/earthsteading/earthship/blob/master/checklist_enclosing-systems.md)
-   - [X] [Fire safety systems](https://github.com/earthsteading/earthship/blob/master/checklist_fire-safety.md)
-   - [X] [Health and amenity systems](https://github.com/earthsteading/earthship/blob/master/checklist_health-amenity.md)
-   - [X] [Safe movement and accessibility systems](https://github.com/earthsteading/earthship/blob/master/checklist_movement-accessibility.md)
-   - [X] [Energy efficiency systems](https://github.com/earthsteading/earthship/blob/master/checklist_energy-efficiency.md)
-   - [X] [Construction process, trade sequencing and estimate costs]()
-   - [X] [List of construction materials]()
-   - [X] [Suitability/risks of system/material interactions]()
-   - [X] [Utility service provision]()
-   - [X] [List of required certifications]()
-   - [X] [Geographical location varations]()
+   - [X] Site investigation and preparation
+   - [X] Structural & supporting systems
+   - [X] Enclosing systems
+   - [X] Fire safety systems
+   - [X] Health and amenity systems
+   - [X] Safe movement and accessibility systems
+   - [X] Energy efficiency systems
+   - [X] Construction process, trade sequencing and estimate costs
+   - [X] List of construction materials
+   - [X] Suitability/risks of system/material interactions
+   - [X] Utility service provision
+   - [X] List of required certifications
+   - [X] Geographical location varations
 
 [Once you have achieved the above checklists then you are ready for your building surveyor to inspect the schematics and paperwork prior to the building permit being issued](https://github.com/earthsteading/earthship/blob/master/inspector-checklist_pre-foundation-stage.md).
 
 ### II. Building foundations and footings checklists
  Surveyor site visit 1: footprint, foundations, footings and framework (_before a footing is placed_ / after the site has been preparred, levelled, tested, etc.)
- - [x] [checklists]() 
- - [ ] [setback and sitting/placement of building envelope (esp in residential areas)](https://github.com/earthsteading/earthship/blob/master/checklist_setback-requirement.md)
- - [ ] tyre foundation and footing walls.
- - [ ] in situ reinforced concrete member nominated by the relevant building surveyor is poured, e.g. concrete buttress, assembled concrete members, etc.
+ - [ ] Setback and sitting/placement of building envelope (esp in residential areas)
+ - [ ] Site drainage, concrete slab pour and building footings
+ - [ ] Wall and roof framing
+ - [ ] Rendering and insulation
  
 ### III. Building in-house utilities checklists
 Surveyor site visit 2: in-house utilities water, heating/cooling, fire, etc (on completion of frame / after the building has been "topped-out" aka errected with roof, but not sealed from elements, internal sys) 
- - [X] [checklist]()
  - [ ] water collection, storage, pressure, filtration, grey water recycling, black water recylcing (septic/sewage) and permaculture zones (sand/swail pits), etc.
- - [ ] heating: atrium, fire, solar water heater...
- - [ ] Cooling: convection atrium, cooling tubes... (see also automation management system)
- - [ ] Solar/wind power generation: lighting (solar tubes), appliances (fridge/kettle, tv/comp, etc)... 
+ - [ ] heating: atrium, fire, solar water heater, etc
+ - [ ] Cooling: convection atrium, cooling tubes, home automation acuators, etc.
+ - [ ] Solar/wind power generation: lighting (solar tubes), appliances (fridge/kettle, tv/comp), etc.
  - [ ] Energy storage: batteries (lithium/ion, lead/acid, etc)
- - [ ] Atrium (food/medicine production): 
+ - [ ] Atrium (food/medicine production) 
 
 ### IV. Building enclosures checklists
  Surveyor site visit 3: sealing/securing building with windows, doors, insultation, etc (on completion of all building works) after the building has it's in-house utilities installed)
- - [X] [checklist]()
  - [ ] stem/atrium wall framing and carpentry
- - [ ] mortart wall, including: bottle/can walls, hempcrete, earthen/sand bag walls, clay and local earthen render...
+ - [ ] wall finishing: earthen, timber and concrete
  - [ ] glazing: windows, ventilation, etc.
- - [ ] roof
- - [ ] 
+ - [ ] roof insulation
  
  ### V. Building fixings & features checklists
  Surveyor site visit 4: fixing, features, color, etc. (after the building has beed securely sealed with lock and key)
- - [X] [checklist]()
- - [ ] (optional) accessibility: elderly, handicap, mobility, etc.
+ - [ ] kitchen and dining
+ - [ ] wet areas: laundry, bathroom, atrium
+ - [ ] ventilation
+ - [ ] seals, renders and paints
+ - [ ] occupancy certificate
