@@ -102,4 +102,3 @@ Surveyor site visit 2: in-house utilities water, heating/cooling, fire, etc (on 
  Surveyor site visit 4: fixing, features, color, etc. (after the building has beed securely sealed with lock and key)
  - [X] [checklist]()
  - [ ] (optional) accessibility: elderly, handicap, mobility, etc.
- - [ ] 
