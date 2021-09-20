@@ -65,9 +65,9 @@ As per the NCC, a combination of Assessment Methods A2.2(2) will be utlised:
 
 ## Assessment criteria
 Performance solution assessment criteria (in scope):
-  - [ ] Tyre wall *structural reliability performance* (variation in dimensions as a result of the fabrication/construction process.  A measure for the allowable tolerances/measurements of the dimensions of the rammed earth tyre wall in comparison to precast tilt-up concrete panels (AS3850-2003), e.g.  axial and lateral loads such as side impact/collapse of tyre wall.
-  - [ ] Tyre wall *robustness performance* (uncertainties in the structural modelling of the component).  A measure for the uncertainties of construction of the structural rammed earth tyre wall will be decided by the expert stakeholder panel.
-  - [ ] Tyre wall 'serviceability performance' (variability in the mechanical properties of the materials).  A measure for ‘quality control’ of the material manufacturing process will be agreed by the expert stakeholder panel, e.g. 
+  - [x] Tyre wall *structural reliability performance* (variation in dimensions as a result of the fabrication/construction process.  A measure for the allowable tolerances/measurements of the dimensions of the rammed earth tyre wall in comparison to precast tilt-up concrete panels (AS3850-2003), e.g.  axial and lateral loads such as side impact/collapse of tyre wall.
+  - [x] Tyre wall *robustness performance* (uncertainties in the structural modelling of the component).  A measure for the uncertainties of construction of the structural rammed earth tyre wall will be decided by the expert stakeholder panel.
+  - [x] Tyre wall 'serviceability performance' (variability in the mechanical properties of the materials).  A measure for ‘quality control’ of the material manufacturing process will be agreed by the expert stakeholder panel, e.g. 
  
 Deemed out of scope (for this assessment):
   - [ ] expansion of load bearing external wall utilising butresses and/or lateral support 
