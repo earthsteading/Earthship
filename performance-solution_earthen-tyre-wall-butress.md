@@ -2,7 +2,7 @@
 
 # Performance Solution for earth rammed tyre walls
 
-The following Performance Solution is for presentation to your local council inspector and/or building surveyor to show that the foundation, footings and structural integrity of the rammed-earth-tyre wall out-performs the structural integrity of tranditional timber-framed construction.  The evidence presented in this _Performance Solution_ meets and exceeds the _Performance Requirements_ defined in the National Construction Code, Section B (Structure).
+The following Performance Solution is for presentation to your local council inspector and/or building surveyor to show that the foundation, footings and structural integrity of the rammed-earth-tyre wall out-performs the structural integrity of tranditional timber-framed and/or concrete construction.  The evidence presented in this _Performance Solution_ meets and exceeds the _Performance Requirements_ defined in the National Construction Code, Section B (Structure).
 
 ## Process for Performance Solution
  1. _Performance Based Design Brief_: (a) stakeholders submitting evidence, (b) history of construction method and assumptions, (c) building type, function, size (height/floor space) and plausible location for earthen wall buildings using this construction method.
