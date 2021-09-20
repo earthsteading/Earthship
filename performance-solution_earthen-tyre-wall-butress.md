@@ -147,7 +147,7 @@ The evidence for serviceability performance (Ks) will be evaluated via A2.2(2)(d
 
  - [x] please contact earthsteading@gmail.com for the final report, outline provided below.
 
-The final report should clearly demonstrate that compliance with the NCC Performance Requirements agreed in the PBDB has been achived. 
+The final report should clearly demonstrate that compliance with the NCC Performance Requirements agreed in the PBDB has been achieved.
   * An overview of the PBDB, including:
       * Scope of the project
       * Relevant stakeholders
