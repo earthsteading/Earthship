@@ -4,7 +4,7 @@ There are several aspects of the Earthship build which will be questioned by Bui
 
 *What is a Performance Solution?* -  The NCC allows for two methods to validate that a building has been built correctly: (a) a 'Deemed to Satisfy' solutions, and/or (b) a Performance Solution.  A deemed-to-satisfy solution is for age-old building methods (like timber framing), which is widely practiced and can be easily replicated by the builder.  Performance Solutions are used when there are features of a building which are not as widely used, but can be shown to perform as well as (if not better) than the average deemed-to-satisfy building.
 
-Naturally, the earthship design (despite being used by thousands of homes around the world since it's origins in the 1970s) requires additional evidence to prove that it is a valid solution which can perform just as well as modern day timber framed buildings.  
+Naturally, the earthship design (despite being used by thousands of homes around the world since it's origins in the 1970s) requires additional evidence to prove that it is a valid solution which can perform just as well as modern day timber/concrete framed buildings.  
 
 Below you will find Performance Solutions which you can use for your Earthship build, these performance solutions should be presented as part of your building schematics and be referenced accordingly so that when your buildling surveyor goes to inspect the plan and building they should have no questions about the building's ability to perform throughout all of Australasia.
 
@@ -14,6 +14,7 @@ Below you will find Performance Solutions which you can use for your Earthship b
   - [x] [Energy efficiency (homeostasis) of passive solar design via atrium greenhouse and cooling tubes](https://github.com/earthsteading/earthship/blob/master/performance-solution_passive-homeostasis.md)
   - [ ] Civic construction of atrium and grey/black water management systems, e.g. septic, leach field and sandpit
   - [ ] Construction of stem wall with foundation pillars and inbuilt botanic water cell for atrium.
+  - [ ] 3D printed earthen-walls
  
  ## Earthen products requiring additional evidence
    - [ ] Earthen-tyre-blocks
@@ -22,9 +23,8 @@ Below you will find Performance Solutions which you can use for your Earthship b
    - [ ] Hardboard braced interior walls or engineered steel framing (a la survival fero-cement roof).
    - [ ] Curved earthen-tyre walls do not required support due to lateral arch design.
    - [ ] Bondbeam: concrete vs timber structural integrity and attachment of roof in high wind areas.
-         - [ ] the pull out forces (wind uplift) of the tie down method of the bondbeam to the tyres (e.g. rebar stakes) and 
-   - [ ] Termite baiting systems?
-   - [ ] TBC
+         - [ ] the pull out forces (wind uplift) of the tie down method of the bondbeam to the tyres (e.g. rebar stakes).
+   - [ ] Termite/pest systems for tyre rubber?
 
 # Reference resources:
   * https://www.abcb.gov.au/news/2021/ncc-provision-developing-performance-solutions
