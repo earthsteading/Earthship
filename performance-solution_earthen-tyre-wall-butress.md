@@ -41,11 +41,11 @@ The following Performance Solution is for presentation to your local council ins
 
 ## Proposal summary
 History of rammed earthen wall construction for structurally habitable buildings:
-  * Evidence of rammed earth wall construction for habitable building walls has been archeologically documented in: (a) Mesopotamia Fertile Crescent, 7-9th century BCE (b) Yangshao & Longshan Yellow River settlement 5th century BCE, and (c) by the 2nd cetury BCE the use of rammed earth was documented by the Chinese Imperial court as it own construction practice "夯土 Hāng tǔ" meaning "rammed earth"  Subequently, every indigenous culture with settlement based dwellings has used rammed earth to achieve structural endurance.
+  * Evidence of rammed earth wall construction for habitable building walls has been archeologically documented in: (a) Mesopotamia Fertile Crescent, 7-9th century BCE (b) Yangshao & Longshan Yellow River settlement 5th century BCE, and (c) by the 2nd cetury BCE the use of rammed earth was documented by the Chinese Imperial court as it own construction practice "夯土 Hāng tǔ" meaning "rammed earth"  Subequently, every indigenous culture with settlement based dwellings have used rammed earth to achieve structural endurance.
   * Widespread use of rammed earth to build large community settlements with multiple stories is documented in: (a) Bam Iran aka Arg-e Bam, Persian from 5th cetury BCE, (b)  Pueblo Bonito in Chaco Canyon, built by the Indigenous Ancestral Puebloans in 3rd century BCE; and (c) when the Spanish conquistadors encountered Native American settlements in the 11th century, rammed earthen dwellings were widespread with over 600 dwellings (single occupancy units) which are still standing in the Anasazi cliff top of the Four Corners area, Colorado (USA); and (d) France (based on Roman occupation and construction) widely uses "pisé walls" (from the Latin origin "pisé de terre"). First documented and used in Lyons France 1562. 
   * 1925 US Department of Agriculture published a report for homesteading farmers showing evidence that "rammed earth structures endure indefinitely and can be constructed for less than two-thirds of the cost of standard frame houses".
-  * The Earthship building design pioneered the use of tyres for earth rammed structures: the first schematic in the 1970s Taos New Mexico by architect Michael Reynolds. Earthship rammed earth walls have been built on every content, other than Antartica.
-  * Currently, there are approximatley 3 billion people living in earthen buildings worldwide who could benefit from the structural integrity which rammed earth tyres provide over earthen structures which are _not_ laterally encased with tyres.
+  * 1970s 'Earthship Biotecture' pioneered the use of tyres for earth rammed structures: the first schematic in the 1970s Taos New Mexico by architect Michael Reynolds. Earthship rammed earth walls have been built on every content, other than Antartica.
+  * Currently, there are approximatley 3 billion people living in earthen buildings worldwide who could benefit from the structural integrity which rammed earth tyres provide over earthen structures which are _not_ laterally encased with steel tyre walls.
   * In 2020 Tyre Stewardship Australia invested $100k to have rammed earth tyre walls tested by the University of South Australia, in response to the excessive stockpile of tyres available as recycled building material.
 
 Rammed earth disadvantages: 
@@ -59,9 +59,9 @@ The below assessment methods are outlined in the [ABCB Structural Reliability Ve
 
 ## Method of assesment
 As per the NCC, a combination of Assessment Methods A2.2(2) will be utlised:
- - [ ] NCC Vol.1 Verification Method BV1 and V2.1.1. which meet the compliance requirements for BP1.1 and BP1.2 in NCC Vol.1 and NCC Vol.2 Part 2.1.1(a)(b)(c)
- - [ ] Performance Requirements (absolute) > A2.2(2)(c) expert judgement > qualitative;
- - [ ] Partial supporting evidence AS.2(1)(a) Compliance with Performance Requirements (absolute) > A2.2(2)(b)(i)(ii) Verification method > Quantitative > Deterministic/Probabilistic;
+ - [x] NCC Vol.1 Verification Method BV1 and V2.1.1. which meet the compliance requirements for BP1.1 and BP1.2 in NCC Vol.1 and NCC Vol.2 Part 2.1.1(a)(b)(c)
+ - [x] Performance Requirements (absolute) > A2.2(2)(c) expert judgement > qualitative;
+ - [x] Partial supporting evidence AS.2(1)(a) Compliance with Performance Requirements (absolute) > A2.2(2)(b)(i)(ii) Verification method > Quantitative > Deterministic/Probabilistic;
 
 ## Assessment criteria
 Performance solution assessment criteria (in scope):
@@ -119,9 +119,9 @@ The buttresses on Earth#1 were used for a number of reasons (structural, health/
 # Supporting evidence 
 The supporting evidence for the 3x assessment criteria (structural reliability performance, robustness performance and serviceability performance) are provided below. As per the ABCB handbook on Structural Reliability Verification Methods, there are three categories which must be evaluated for structural probabilities to compare the load capacity reduction factor:
 
- - [ ] Kf = Strength performance (variation in dimensions as a result of the fabrication/construction process.  A measure for the allowable tolerances/measurements of the dimensions of the rammed earth tyre wall in comparison to precast tilt-up concrete panels (AS3850-2003).
- - [ ] Ks = Robustness performance (uncertainties in the structural modelling of the component).  A measure for the uncertainties of construction of the structural rammed earth tyre wall will be decided by the expert stakeholder panel.
- - [ ] Km = Serviceability performance (variability in the mechanical properties of the materials).  A measure for ‘quality control’ of the material manufacturing process will be agreed by the expert stakeholder panel.
+ - [x] Kf = Strength performance (variation in dimensions as a result of the fabrication/construction process.  A measure for the allowable tolerances/measurements of the dimensions of the rammed earth tyre wall in comparison to precast tilt-up concrete panels (AS3850-2003).
+ - [x] Ks = Robustness performance (uncertainties in the structural modelling of the component).  A measure for the uncertainties of construction of the structural rammed earth tyre wall will be decided by the expert stakeholder panel.
+ - [x] Km = Serviceability performance (variability in the mechanical properties of the materials).  A measure for ‘quality control’ of the material manufacturing process will be agreed by the expert stakeholder panel.
 
 For each of the above, the suggested assessment acceptance criteria is:
  - [ ] Strength performance (Kf) will be evaluated via Quantitative Verification Methods as per A2.2(2)(b)(i)(ii) whereby quantitative (lateral/vertical tests) comparison to the structural dimensions of pop-up concrete walls
