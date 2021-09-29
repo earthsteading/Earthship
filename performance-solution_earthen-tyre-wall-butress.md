@@ -30,7 +30,7 @@ The following Performance Solution is for presentation to your local council ins
   - [x] Designer / architect: [Dr Martin Freney](https://people.unisa.edu.au/martin.freney)
   - [x] Structural engineers: PhD Candidate Yachong Xu (Simon) & Supervisor [Dr Reza Hassanli](https://orcid.org/0000-0001-5855-6405)
   - [x] Supervising Engineering Research team: [Professor Yan Zhuge](https://orcid.org/0000-0003-1620-6743), [Associate Professor Md. Mizanur Rahman](https://orcid.org/0000-0002-0638-4055), [Dr Rajibul Karim](https://orcid.org/0000-0002-5318-3862)
-  - [ ] TBC: Chemical composition specialist: Linda Mitchell, Science and Innovation Advisor, Tyre Stewardship Australia
+  - [ ] Chemical composition specialist: Dr Linda Mitchell, Science and Innovation Advisor, Tyre Stewardship Australia.
   - [ ] Environmental/ecological sustainability design specialist/engineer: n/a
   - [ ] Heating ventilation and cooling design specialist/engineer: n/a
   - [ ] Fire safety engineer: n/a
