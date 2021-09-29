@@ -14,6 +14,6 @@ History of Earthship buildings in Australia
   13. 2019 Clive Digney's #Earth1 built in East Augusta Western Australia, built in 6 weeks with 50 volonteers.
   14. 2019-2020 Evie and Tristan's 'Inman Valley Earthship', with straw-bale wall extension and fully off-grid with bushfire protections.
   15. 2021-2022 Amy Mackenzie's Earthship built in Goolwa South Australia on suburban 30m2 land parcel, straw-bale and cob render.
-  16. Future projects: (a) 2022 Micro Village in South Tasmania using rammed earth walls (without tyres) via contractor, (b) 2022 Jason and Kate's Mollonghip Victoria build, (c) 2022 Christine's Molcuta South Australia using rock and rammed earth for retaining walls for 3 beds and 2 baths.
+  16. Future projects: (a) 2022 Micro Village in South Tasmania using rammed earth walls (without tyres) via contractor, (b) 2022 Jason and Kate's Mollonghip Victoria build, (c) 2022 Christine's Molcuta South Australia using rock and rammed earth for retaining walls for 3 beds and 2 baths. 
   
  
