@@ -98,9 +98,11 @@ Surveyor site visit 2: in-house utilities water, heating/cooling, fire, etc (on 
  - [ ] roof insulation
  
  ### V. Building fixings & features checklists
- Surveyor site visit 4: fixing, features, color, etc. (after the building has beed securely sealed with lock and key)
+ Surveyor site visit 4: fixing, features, amenities, etc. (after the building has beed securely sealed with lock and key)
  - [ ] kitchen and dining
  - [ ] wet areas: laundry, bathroom, atrium
  - [ ] ventilation
  - [ ] seals, renders and paints
+ 
+ Once you have achieved the above checklists 
  - [ ] occupancy certificate
