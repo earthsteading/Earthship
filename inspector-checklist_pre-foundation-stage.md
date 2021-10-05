@@ -48,11 +48,19 @@
   -  [ ] 
 
 ## Fero-cement roof framing
+Please see ['performance solution' requirements]((https://github.com/earthsteading/performance-solutions)) for this type of roof frame.
   -  [ ] 
   -  [ ] 
   -  [ ] 
  
 ## SuperAdobe earthbag roof framing
+Please see ['performance solution' requirements]((https://github.com/earthsteading/performance-solutions)) for this type of roof frame.
+  -  [ ] 
+  -  [ ] 
+  -  [ ] 
+
+## Reciprocol roof frame
+Please see ['performance solution' requirements]((https://github.com/earthsteading/performance-solutions)) for this type of roof frame.
   -  [ ] 
   -  [ ] 
   -  [ ] 
