@@ -39,7 +39,7 @@
 
 ## Truss and pitched roof framing
   -  [ ] safety scaffolding and edge protectors in place for inspection
-  -  [ ] roof truss specification including truss computations (calculations for actions: dead, live and wind/snow), layout plans and certification requirements provided prior to inspection
+  -  [ ] _provided prior to inpsection_ roof truss specification and timber schedule including truss computations (calculations for actions: dead, live and wind/snow), layout plan measurements and certification requirements (sign-off by carpenter)
   -  [ ] additional roof loads (hot water tanks, solar heaters, air-conditioners, solar panels, etc) are accounted for by both engineer and designer via schematics.
   -  [ ] signed certificate of compliance from timber roof carpenter certifying (AS1720, AS4440, AS4055, AS1684) compliance with VBA & ABN numbers.
   -  [ ] if trusses were transported to site from manufacturer confirmation by truss fabricator is required
@@ -73,24 +73,32 @@
   -  [ ] measurements coincide with right angles throughout building and plumb lines tolerances not exceeded (50mm)
 
 ## Fero-cement roof framing
-Please see ['performance solution' requirements]((https://github.com/earthsteading/performance-solutions)) for this type of roof frame.
-  -  [ ] 
+  -  [ ] Please see ['performance solution' requirements]((https://github.com/earthsteading/performance-solutions)) for this type of roof frame.
   -  [ ] 
   -  [ ] 
  
 ## SuperAdobe earthbag roof framing
-Please see ['performance solution' requirements]((https://github.com/earthsteading/performance-solutions)) for this type of roof frame.
-  -  [ ] 
+  -  [ ] Please see ['performance solution' requirements]((https://github.com/earthsteading/performance-solutions)) for this type of roof frame.
   -  [ ] 
   -  [ ] 
 
 ## Reciprocol roof frame
-Please see ['performance solution' requirements]((https://github.com/earthsteading/performance-solutions)) for this type of roof frame.
-  -  [ ] 
+  -  [ ] Please see ['performance solution' requirements]((https://github.com/earthsteading/performance-solutions)) for this type of roof frame.
   -  [ ] 
   -  [ ] 
 
 ## Wet area waterproofing
-  -  [ ] 
-  -  [ ] 
-  -  [ ] 
+Australasian standards: AS3740 (warterproofing of domestic areas)
+  -  [ ] waterproofing membrane and flashing installed and signed off by plumber/installer with certificate and ABN/VBA number
+  -  [ ] horizontal surface fall towards drainage
+  -  [ ] water stoppage installed
+  -  [ ] no cracks or scratches in ceramic or glazing from workmanship
+  -  [ ] sink and kitchenette provide a water resistant substrate
+  -  [ ] waterstop to wet area doorway installed to prevent water creep under tiles
+  -  [ ] water resistant plaster used in shower area
+  -  [ ] shower screens do not allow leakage (unless unenclosed shower screen)
+  -  [ ] bath flange installed on bath hob
+  -  [ ] flashing betwen the shower enclosures
+  -  [ ] waterproofing applied in shower recess to required thickness
+  -  [ ] measurements comply with the NCC, special consideration for accessibility/mobility requirements should be considered
+  -  [ ] maitenance: silicon sealants replaced every five years
