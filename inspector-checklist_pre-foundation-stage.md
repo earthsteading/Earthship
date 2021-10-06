@@ -35,17 +35,33 @@
   - [ ] for earthen walls, see refer to ['performance solution' for earthen construction materials](https://github.com/earthsteading/performance-solutions).
   - [ ] confirmation by builder that Australasia Standards for wall framing in schematic are accurate and supplies are on site.
   - [ ] framing connections and reinforcement grids are ready for installation as per AS/NZS 4284
+  - [ ] Window and door schedule 
 
-## Truss roof framing
-  -  [ ] 
-  -  [ ] 
-  -  [ ] 
-  -  
-
-## Pitched roof framing
-  -  [ ] 
-  -  [ ] 
-  -  [ ] 
+## Truss and pitched roof framing
+  -  [ ] safety scaffolding and edge protectors in place for inspection
+  -  [ ] roof truss specification including truss computations (calculations for actions: dead, live and wind) , layout plans and certification requirements provided prior to inspection
+  -  [ ] additional roof loads (hot water tanks, solar heaters, air-conditioners, solar panels, etc) are accounted for by both engineer and designer via schematics.
+  -  [ ] signed certificate of compliance from timber roof carpenter certifying (AS1720, AS4440, AS4055, AS1684) compliance with VBA & ABN numbers.
+  -  [ ] if trusses were transported to site from manufacturer confirmation by truss fabricator is required
+  -  [ ] trusses have protection from water and show no visible signs of water damage
+  -  [ ] bond beam (top plate) attachments to loadbearing walls, including web/chord sizes, stress grades, stiffeners, braces, nchor points and fixings
+  -  [ ] all connections from floor to to roof tie downs: floor and wall connections, roof and wall connections, beam and column locations and footing/slab construction connections.  
+  -  [ ] load bearing connections on external load-bearing walls only, e.g. internal walls are free moving (10mm lower than load-bearing walls) and do not brace roof.
+  -  [ ] top plates are fixed (as per AS1684): nogging, wall bracket, no splitting, nails allow for vertical movement
+  -  [ ] bracing for bow and truss do not exceed limit (200 and 50mm)
+  -  [ ] maximumn roof pitch is not exceeded (45 degrees)
+  -  [ ] maximum spans are not exceeded (16m)
+  -  [ ] maximum truss spacing not exceeded (900mm or 1200mm for sheet metal roof in wind design up to N3)
+  -  [ ] maximum design gust wind speed if not exceeded (74m/s as per C3)
+  -  [ ] no galvanised nailplates exposed to weather or other source of moisture (esp when connecting with earthen walls)
+  -  [ ] sarking is in place as per AS2050
+  -  [ ] termite protection in place (if applicable)
+  -  [ ] plumbing and service conduits in walls/roofs as per specification
+  -  [ ] lintel and joist bracing tied to roof (esp for earthen walls and/or bay windows)
+  -  [ ] lamintations: double and triple trusses are double nailed or screwed together as per standard (450-600mm centres)
+  -  [ ] truss spacing does not exceed specification
+  -  [ ] camber present in bottom chord to deflect dead loads
+  -  [ ] measurements coincide with right angles throughout building and plumb lines tolerances not exceeded (50mm)
 
 ## Fero-cement roof framing
 Please see ['performance solution' requirements]((https://github.com/earthsteading/performance-solutions)) for this type of roof frame.
