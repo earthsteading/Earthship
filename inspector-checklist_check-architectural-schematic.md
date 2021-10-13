@@ -8,16 +8,16 @@ Prior to your building surveyor applying for your build permits with the local c
   - [x] Civil works foundation and footing for slab/floor checks
   - [x] Architectural design schematic checks
 
-## Below are lists of checks which your building surveyor will verify with the owner, builer and designer.
+## Below are lists of checks which your building surveyor will verify with the owner, builder and designer.
 
 Client-owner information:
   - [ ] Owner details: name, email, phone, postal, profession, dependents.
   - [ ] Property history & future legacy
   - [ ] Building purpose and occupant use
   - [ ] Expectations: cost and length of build?
-  - [ ] Owner/builder insurance or nomiated builder insurance
+  - [ ] Owner/builder insurance or nominated builder insurance
   - [ ] Names and contact details of build team
-  - [ ] Permission to engage with builders and designers autonoumously 
+  - [ ] Permission to engage with builders and designers autonomously
   - [ ] Signature to retain client/build information for 10 years
 
 Legal documents and certifications:
