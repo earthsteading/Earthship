@@ -47,7 +47,7 @@ Your building surveyor will provide consultation/documentation prior to each sta
 Gaant chart of inspections/certifications:
 ![timeline](https://github.com/earthsteading/earthship/blob/6aa91d0350f3b0c7300f9c58c15da8eabef949ed/Gaant_v2.png "Gaant chart of build estimate timelines")
 
-### 0. Pre-pre-build checklists 
+### 0. Planning permission checklists
 Are you as the owner-builder going to live on-site during the minimum +9months of building (avg build +2 years)?
   - [ ] [Hierarchy of needs: physiological, safety, belonging, esteem & self-actualisation](https://github.com/earthsteading/earthship/blob/master/checklist_pre-pre-build.md)
   - [ ] Owner-builder insurance and training as required by your state building authority.
@@ -58,7 +58,7 @@ Are you as the owner-builder going to live on-site during the minimum +9months o
 
 [Once you have achieved the above checklists then you are ready to have your building surveyor inspect your final architectural drawing schematics](https://github.com/earthsteading/earthship/blob/master/inspector-checklist_check-architectural-schematic.md).
 
-### I. Build preparation checklists
+### I. Build permit preparation checklists
  Preperatory staging of construction area, construction materials/systems, utility service provisions and building materials.
    - [X] Legislative land requirements, e.g. land title/deed, overlays, siting, etc.
    - [x] Site investigation and preparation, e.g. geotechnical assessment, bushfire attack level, subterranean plumbing, etc.
@@ -107,5 +107,6 @@ Surveyor site visit 2: in-house utilities water, heating/cooling, fire, etc (on 
  - [ ] ventilation
  - [ ] seals, renders and paints
  
- Once you have achieved the above checklists 
+ Once you have achieved the above checklists you are ready for your final inspection by the building surveyor:
+ - [ ] [final inspection checklist](https://github.com/earthsteading/earthship/blob/master/checklist_final-inspection.md)
  - [ ] occupancy certificate
