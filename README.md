@@ -33,17 +33,7 @@ How to use this repository of building code checklists:
   - [x] The architectural examples for each checklist have been used to build council approved off-grid buildings in Victoria, Western Australian and South Australia (consult a building surveyor licensed in your State as _building code legislation changes in each state_).
   - [ ] If you are a building surveyor looking to improve these checklists for NSW, FNQ, ACT, NT, Tasmania and/or Torres Straight Islands, please get in touch = earthsteading@gmail.com
 
-# Stages of build 
-Your building surveyor will provide consultation/documentation prior to each stage of your build (outlined below):
-  - [x] land purchased and surveyed
-  - [x] building permit
-  - [x] foundations and footings
-  - [x] in-house utilities
-  - [x] enclosure of building
-  - [x] fixings and features
-  - [x] occupancy certificate!
-
-## Timeline
+# Timeline (per stage of build)
 For detailed checklists per each stage of your build, please see the [Table of Contents Checklists](https://github.com/earthsteading/earthship/blob/master/toc-checklists.md):
  - [x] (0) Planning permissions checklist
  - [x] (1) Building permit application checklist
