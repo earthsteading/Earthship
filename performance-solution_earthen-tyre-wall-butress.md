@@ -35,7 +35,7 @@ The following Performance Solution is for presentation to your local council ins
   - [ ] Heating ventilation and cooling design specialist/engineer: n/a
   - [ ] Fire safety engineer: n/a
   - [ ] OH&S inspector: n/a
-  - [x] Earthen wall trade practioneer: Harrison Gardener (Eco-builder and Sustainability Designer, Biotecture Construction Manager)
+  - [x] Earthen wall trade practioneer: [Harrison Gardener (Eco-builder and Sustainability Designer, Biotecture Construction Manager)](https://www.harrisongardner.net/about-1)
   - [ ] Civil works practitioneer: n/a
   - [x] Building Surveyor: David F. Flanders
   - [x] Building Inspector: Phil Davern
