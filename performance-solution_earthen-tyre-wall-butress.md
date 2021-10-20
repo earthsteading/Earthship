@@ -37,8 +37,8 @@ The following Performance Solution is for presentation to your local council ins
   - [ ] OH&S inspector: n/a
   - [x] Earthen wall trade practioneer: [Harrison Gardener (Eco-builder and Sustainability Designer, Biotecture Construction Manager)](https://www.harrisongardner.net/about-1)
   - [ ] Civil works practitioneer: n/a
-  - [x] Building Surveyor: David F. Flanders
-  - [x] Building Inspector: Phil Davern
+  - [x] Building Surveyor: David F. Flanders, Earthsteading Ltd.
+  - [x] Building Inspector: Phil Davern, Three Peaks Building Permits
 
 ## Proposal summary
 History of rammed earthen wall construction for structurally habitable buildings:
@@ -178,4 +178,4 @@ The above template for this report was provided via: https://www.abcb.gov.au/new
   - https://www.vba.vic.gov.au/__data/assets/pdf_file/0003/134355/Guide-to-Standards-and-Tolerances-2015.pdf
   - ABCB's Handbook on Structural Reliability Verificaiton Methods: https://www.abcb.gov.au/sites/default/files/resources/2020//Handbook_Structural_Reliability.pdf
   - ABCB's Handbook on Structural Robustness: https://ncc.abcb.gov.au/sites/default/files/resources/2020//Handbook-Structural-Robustness.pdf 
-  - [ ] Page citation: https://earthsteading.limited/tyre-wall-performance-solution-project-page
+  - Page citation: https://earthsteading.limited/tyre-wall-performance-solution-project-page
