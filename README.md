@@ -43,3 +43,6 @@ For detailed checklists per each stage of your build, please see the [Table of C
  - [x] (5) Fixings and features checklist
  - [x] (6) Final inspection and occupancy certificate checklist  
 ![timeline](https://github.com/earthsteading/earthship/blob/6aa91d0350f3b0c7300f9c58c15da8eabef949ed/Gaant_v2.png "Gaant chart of build estimate timelines") Gaant chart of inspections/certifications.
+
+# References
+ - [x] please use this link to cite this page: 
