@@ -45,4 +45,4 @@ For detailed checklists per each stage of your build, please see the [Table of C
 ![timeline](https://github.com/earthsteading/earthship/blob/6aa91d0350f3b0c7300f9c58c15da8eabef949ed/Gaant_v2.png "Gaant chart of build estimate timelines") Gaant chart of inspections/certifications.
 
 # References
- - [x] please use this link to cite this page: 
+ - [x] please use this link to cite this page: https://earthsteading.limited/earthship
