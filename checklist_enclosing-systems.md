@@ -11,3 +11,6 @@ Glazing, gutters, downpipes, roof cladding, wall cladding.
 
 Fire enclosures?
 
+## References
+ - [ ] https://www.woodsolutions.com.au/1684-code-compliance-overview
+ - [ ] foobar
