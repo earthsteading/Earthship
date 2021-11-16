@@ -46,3 +46,4 @@ For detailed checklists per each stage of your build, please see the [Table of C
 
 # References
  - [x] please use this link to cite this page: https://earthsteading.limited/earthship
+ - [ ] [Earthship Build Video Time-lapse](https://www.youtube.com/watch?v=7a5JVuPfjdQ)
