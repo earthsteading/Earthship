@@ -180,3 +180,4 @@ The above template for this report was provided via: https://www.abcb.gov.au/new
   - ABCB's Handbook on Structural Robustness: https://ncc.abcb.gov.au/sites/default/files/resources/2020//Handbook-Structural-Robustness.pdf 
   - Page citation: https://earthsteading.limited/tyre-wall-performance-solution-project-page
   - https://earthsteading.limited/PerformanceSolution-NCC_RammedEarthWall
+  - https://earthsteading.limited/performance-solution-encased-earth
