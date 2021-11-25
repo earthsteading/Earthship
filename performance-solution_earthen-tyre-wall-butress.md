@@ -38,7 +38,7 @@ The following Performance Solution is for presentation to your local council ins
   - [x] Earthen wall trade practioneer: [Harrison Gardener (Eco-builder and Sustainability Designer, Biotecture Construction Manager)](https://www.harrisongardner.net/about-1)
   - [ ] Civil works practitioneer: n/a
   - [x] Building Surveyor: David F. Flanders, Earthsteading Ltd.
-  - [x] Building Inspector: Phil Davern, Three Peaks Building Permits
+  - [x] Building Inspector: 
 
 ## Proposal summary
 History of rammed earthen wall construction for structurally habitable buildings:
