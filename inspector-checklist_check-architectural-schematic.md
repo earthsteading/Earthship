@@ -138,3 +138,5 @@ Architectural schematic prelimary checks:
   - [ ] pavement fall
   - [ ] subfloor ventilation
   - [ ] skylight from boundary
+
+To cite this page: https://earthsteading.limited/client-orientation
