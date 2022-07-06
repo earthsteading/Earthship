@@ -23,5 +23,9 @@
 
 ## Architects
   - Kirstie Wulf (Adobe/Hemp)
+  - Dr Martin Freney (Earthship Eco Homes)
+
+## Construction
+  - David Brian HempCrete 0407 775 336
 
 
