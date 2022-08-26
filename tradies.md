@@ -21,9 +21,10 @@
 ## Energy assessment consultants
   - Steve & Kirsty at EcoResults (2 week turnaround for commercial building at $2.5-3k per building, s/w=IES, r- & u-value performance solutions)
 
-## Architects
+## Architects / Designers
   - Kirstie Wulf (Adobe/Hemp)
   - Dr Martin Freney (Earthship Eco Homes)
+  - Liza Karabulut, Building & Landscape Designer (HempCrete)
 
 ## Construction
   - David Brian HempCrete 0407 775 336
