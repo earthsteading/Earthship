@@ -4,6 +4,7 @@
  - [ ] plumbers
  - [x] energy assessment consultants 
  - [ ] architects
+ - [ ] insurance for owner-builders
 
 ## Subcontractors
  - Bryan Carman, SA
@@ -26,5 +27,11 @@
 
 ## Construction materials
   - David Brian HempCrete (SouthernHemp)[https://southernhemp.com.au/] 0407 775 336
+
+## Insurance for Owner-Builders
+  - BuildSafe Insurance Brokers ABN 84 109 623 976 AFS Licence Number 279 367 5 Peninsula Blvd Seaford VIC 3198 PO Box 2294 Seaford VIC 3198 Tel: 1300 856 603 Mob: 0435 634 190 Email: info@buildsafe.com.au www.buildsafe.com.au
+
+## Banks for Owner-Builder Loans
+
 
 
